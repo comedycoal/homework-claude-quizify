@@ -1,0 +1,409 @@
+{
+  "id": "art",
+  "name": "Art & Design",
+  "description": "Explore the world of famous artists, movements, and masterpieces.",
+  "icon": "🎨",
+  "color": "#8b5cf6",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Botticelli"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa between approximately 1503 and 1519."
+    },
+    {
+      "id": 2,
+      "text": "In which museum is the Mona Lisa currently displayed?",
+      "options": ["The British Museum", "The Louvre", "The Uffizi Gallery", "The Met"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Mona Lisa has been on permanent display at the Louvre Museum in Paris since 1797."
+    },
+    {
+      "id": 3,
+      "text": "Which artist is known for painting 'The Starry Night'?",
+      "options": ["Paul Gauguin", "Claude Monet", "Vincent van Gogh", "Paul Cézanne"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Vincent van Gogh painted The Starry Night in June 1889 while at the Saint-Paul-de-Mausole asylum."
+    },
+    {
+      "id": 4,
+      "text": "What art movement is characterized by small brushstrokes and capturing light in outdoor scenes?",
+      "options": ["Surrealism", "Cubism", "Impressionism", "Expressionism"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Impressionism, pioneered by Monet and others, focused on capturing fleeting light effects with loose brushwork."
+    },
+    {
+      "id": 5,
+      "text": "Who sculpted 'David', the famous Renaissance marble statue?",
+      "options": ["Donatello", "Bernini", "Michelangelo", "Cellini"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Michelangelo sculpted David between 1501 and 1504; it stands in the Galleria dell'Accademia in Florence."
+    },
+    {
+      "id": 6,
+      "text": "What does 'chiaroscuro' refer to in painting?",
+      "options": ["The use of bright primary colors", "The contrast between light and shadow", "A painting technique using only gold leaf", "Painting on wet plaster"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Chiaroscuro is an Italian technique using strong contrasts between light and dark to create volume and depth."
+    },
+    {
+      "id": 7,
+      "text": "Which Spanish artist co-founded the Cubist movement?",
+      "options": ["Salvador Dalí", "Joan Miró", "Pablo Picasso", "Francisco Goya"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Pablo Picasso and Georges Braque co-founded Cubism around 1907-1908, revolutionizing modern art."
+    },
+    {
+      "id": 8,
+      "text": "Where is the Sistine Chapel ceiling, painted by Michelangelo, located?",
+      "options": ["Rome, Italy", "Florence, Italy", "Venice, Italy", "Naples, Italy"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "The Sistine Chapel is located in Vatican City, Rome, and Michelangelo painted its ceiling from 1508 to 1512."
+    },
+    {
+      "id": 9,
+      "text": "Which artist is famous for melting clocks in his surrealist paintings?",
+      "options": ["René Magritte", "Salvador Dalí", "Max Ernst", "Giorgio de Chirico"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Salvador Dalí's The Persistence of Memory (1931) features iconic melting watches representing fluid time."
+    },
+    {
+      "id": 10,
+      "text": "What is a 'fresco'?",
+      "options": ["A painting on canvas with oil", "A painting done on wet plaster", "A type of printmaking", "A mosaic technique"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A fresco is a mural painted on freshly laid, still-wet plaster, allowing pigment to bond with the wall."
+    },
+    {
+      "id": 11,
+      "text": "Which painting features a woman screaming on a bridge under a swirling sky?",
+      "options": ["The Persistence of Memory", "The Scream", "Saturn Devouring His Son", "Guernica"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Scream (1893) by Edvard Munch depicts an anguished figure against a turbulent orange sky."
+    },
+    {
+      "id": 12,
+      "text": "Which art movement was Marcel Duchamp associated with?",
+      "options": ["Fauvism", "Art Nouveau", "Dada", "Pop Art"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Marcel Duchamp was a key figure in the Dada movement, famous for his 'readymades' like Fountain (1917)."
+    },
+    {
+      "id": 13,
+      "text": "What technique involves applying thick paint to create texture on canvas?",
+      "options": ["Sfumato", "Impasto", "Tenebrism", "Pointillism"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Impasto is a technique where paint is applied very thickly, retaining brush or palette knife marks."
+    },
+    {
+      "id": 14,
+      "text": "Who painted 'Girl with a Pearl Earring' (c. 1665)?",
+      "options": ["Rembrandt van Rijn", "Peter Paul Rubens", "Jan Vermeer", "Frans Hals"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Johannes (Jan) Vermeer painted Girl with a Pearl Earring; it hangs in the Mauritshuis in The Hague."
+    },
+    {
+      "id": 15,
+      "text": "Which American artist is known for Campbell's Soup Cans and Marilyn Monroe prints?",
+      "options": ["Roy Lichtenstein", "Jasper Johns", "Andy Warhol", "Robert Rauschenberg"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Andy Warhol was the leading figure of Pop Art, using commercial imagery to critique consumer culture."
+    },
+    {
+      "id": 16,
+      "text": "In which century did the Renaissance art movement originate?",
+      "options": ["12th century", "14th century", "16th century", "18th century"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Renaissance began in the 14th century (Trecento) in Italian city-states like Florence and Venice."
+    },
+    {
+      "id": 17,
+      "text": "What is the world's largest art museum?",
+      "options": ["The Metropolitan Museum of Art", "The Hermitage", "The Louvre", "The British Museum"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Louvre in Paris is the world's largest art museum by exhibition space, covering over 72,000 square meters."
+    },
+    {
+      "id": 18,
+      "text": "Which movement rejected traditional forms and celebrated industrial age aesthetics in the early 20th century?",
+      "options": ["Romanticism", "Futurism", "Realism", "Neoclassicism"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Italian Futurism (from 1909) glorified speed, technology, and dynamic movement of the modern machine age."
+    },
+    {
+      "id": 19,
+      "text": "What painting technique uses tiny dots of color to create an image?",
+      "options": ["Glazing", "Grisaille", "Pointillism", "Sfumato"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Pointillism, developed by Georges Seurat, uses small distinct dots of color that blend optically from a distance."
+    },
+    {
+      "id": 20,
+      "text": "Who created 'The Birth of Venus' (c. 1484–1486)?",
+      "options": ["Titian", "Raphael", "Sandro Botticelli", "Piero della Francesca"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Sandro Botticelli painted The Birth of Venus for the Medici family; it hangs in the Uffizi Gallery, Florence."
+    },
+    {
+      "id": 21,
+      "text": "Which sculptor created 'The Thinker'?",
+      "options": ["Constantin Brâncuși", "Auguste Rodin", "Alberto Giacometti", "Henry Moore"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Auguste Rodin created The Thinker in 1880 as part of The Gates of Hell; many casts exist worldwide."
+    },
+    {
+      "id": 22,
+      "text": "What is the term for a painting or artwork on two panels?",
+      "options": ["Triptych", "Diptych", "Polyptych", "Altarpiece"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A diptych is an artwork consisting of two panels, often hinged together, common in medieval and Renaissance art."
+    },
+    {
+      "id": 23,
+      "text": "Which Mexican artist is known for self-portraits featuring a unibrow?",
+      "options": ["Diego Rivera", "José Clemente Orozco", "Frida Kahlo", "Rufino Tamayo"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Frida Kahlo created around 55 self-portraits, often depicting her pain and Mexican cultural identity."
+    },
+    {
+      "id": 24,
+      "text": "What does 'sfumato' mean in art?",
+      "options": ["A mosaic style using colored glass", "A smoky blending technique with no sharp outlines", "Painting with fingers instead of brushes", "A style of abstract geometric art"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Sfumato (Italian for 'smoke') is Leonardo da Vinci's technique of blending tones without visible transitions."
+    },
+    {
+      "id": 25,
+      "text": "Which Baroque painter was known for dramatic light and shadow and was also a convicted killer?",
+      "options": ["Peter Paul Rubens", "Caravaggio", "Nicolas Poussin", "Artemisia Gentileschi"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Caravaggio killed Ranuccio Tomassoni in 1606 and fled Rome; his dramatic tenebrism revolutionized Baroque painting."
+    },
+    {
+      "id": 26,
+      "text": "What is the name for the art of arranging flowers, originating in Japan?",
+      "options": ["Origami", "Ikebana", "Bonsai", "Kintsugi"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Ikebana is the Japanese art of flower arrangement, emphasizing minimalism and harmony with nature."
+    },
+    {
+      "id": 27,
+      "text": "In what year did Pablo Picasso paint 'Guernica'?",
+      "options": ["1927", "1932", "1937", "1945"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Picasso painted Guernica in 1937 in response to the Nazi bombing of the Basque town of Guernica during the Spanish Civil War."
+    },
+    {
+      "id": 28,
+      "text": "Which art movement was characterized by distorted imagery expressing emotional experience?",
+      "options": ["Impressionism", "Realism", "Expressionism", "Symbolism"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Expressionism distorted reality for emotional effect, prominent in Germany in the early 20th century."
+    },
+    {
+      "id": 29,
+      "text": "Who designed the Guggenheim Museum in Bilbao, Spain?",
+      "options": ["Renzo Piano", "Frank Gehry", "Zaha Hadid", "Richard Rogers"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Frank Gehry designed the titanium-clad Guggenheim Bilbao, which opened in 1997 and sparked the 'Bilbao Effect'."
+    },
+    {
+      "id": 30,
+      "text": "What is the primary medium used in a lithograph?",
+      "options": ["Woodblock", "Stone or metal plate with ink and grease", "Etched copper plate with acid", "Silkscreen and ink"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Lithography uses the chemical repulsion of oil and water on a stone or metal plate to transfer images."
+    },
+    {
+      "id": 31,
+      "text": "Which Dutch master is famous for works like 'The Night Watch' (1642)?",
+      "options": ["Johannes Vermeer", "Frans Hals", "Jan Steen", "Rembrandt van Rijn"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Rembrandt van Rijn painted The Night Watch, the largest and most famous work in his collection."
+    },
+    {
+      "id": 32,
+      "text": "What term describes art created from everyday, non-art materials?",
+      "options": ["Assemblage", "Minimalism", "Op Art", "Land Art"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Assemblage is a technique using found or everyday objects combined to create three-dimensional art."
+    },
+    {
+      "id": 33,
+      "text": "Which city is home to the Uffizi Gallery?",
+      "options": ["Rome", "Venice", "Milan", "Florence"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The Uffizi Gallery in Florence, Italy, houses one of the finest collections of Renaissance art in the world."
+    },
+    {
+      "id": 34,
+      "text": "What color is produced by mixing red and blue pigments?",
+      "options": ["Green", "Orange", "Purple", "Brown"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Mixing red and blue pigments produces purple (or violet), a secondary color in traditional color theory."
+    },
+    {
+      "id": 35,
+      "text": "Which movement, founded by André Breton in 1924, explored dreams and the unconscious?",
+      "options": ["Dadaism", "Surrealism", "Abstract Expressionism", "Symbolism"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "André Breton founded Surrealism in 1924, heavily influenced by Freud's theories of the unconscious mind."
+    },
+    {
+      "id": 36,
+      "text": "What type of paint uses water-soluble pigments with quick drying time?",
+      "options": ["Oil paint", "Encaustic", "Acrylic paint", "Tempera"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Acrylic paint is water-soluble but dries quickly to a water-resistant finish, making it very versatile."
+    },
+    {
+      "id": 37,
+      "text": "Who created the mobile sculptures that hang and move with air currents?",
+      "options": ["Alexander Calder", "Henry Moore", "Isamu Noguchi", "David Smith"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Alexander Calder invented the mobile—a kinetic sculpture that moves with air currents—in the 1930s."
+    },
+    {
+      "id": 38,
+      "text": "What is 'trompe-l'oeil' in art?",
+      "options": ["A technique of painting on silk", "Painting that creates a realistic illusion of three-dimensional space", "A method of scraping paint", "A glazing technique using varnish"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Trompe-l'oeil (French: 'deceives the eye') uses realistic imagery to create optical illusions of three-dimensional space."
+    },
+    {
+      "id": 39,
+      "text": "Which Impressionist painter was known for painting ballet dancers?",
+      "options": ["Édouard Manet", "Camille Pissarro", "Pierre-Auguste Renoir", "Edgar Degas"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Edgar Degas made over 1,500 works depicting ballet dancers, his most celebrated and recognizable subject."
+    },
+    {
+      "id": 40,
+      "text": "What art movement emerged in New York in the 1940s-50s, emphasizing spontaneous, large-scale painting?",
+      "options": ["Pop Art", "Minimalism", "Abstract Expressionism", "Neo-Expressionism"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Abstract Expressionism, featuring artists like Pollock and de Kooning, was the first major American art movement."
+    },
+    {
+      "id": 41,
+      "text": "Which artist dripped and poured paint onto canvases laid on the floor?",
+      "options": ["Mark Rothko", "Franz Kline", "Jackson Pollock", "Willem de Kooning"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Jackson Pollock developed 'drip painting', a technique of pouring and dripping paint onto horizontal canvases."
+    },
+    {
+      "id": 42,
+      "text": "What is the name of the Japanese art of paper folding?",
+      "options": ["Ikebana", "Origami", "Sumi-e", "Ukiyo-e"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Origami is the traditional Japanese art of folding paper into decorative shapes and figures."
+    },
+    {
+      "id": 43,
+      "text": "Which British artist is known for works involving dead animals preserved in formaldehyde?",
+      "options": ["Banksy", "Tracey Emin", "Damien Hirst", "Gilbert and George"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Damien Hirst's Natural History series features animals like sharks and cows preserved in formaldehyde vitrines."
+    },
+    {
+      "id": 44,
+      "text": "What is the golden ratio approximately equal to?",
+      "options": ["1.414", "1.618", "2.718", "3.141"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The golden ratio (phi) ≈ 1.618, and has been used by artists and architects for centuries for harmonious proportions."
+    },
+    {
+      "id": 45,
+      "text": "In which country did the Baroque art movement originate?",
+      "options": ["France", "Spain", "Italy", "The Netherlands"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Baroque art originated in Rome, Italy, around 1600 as part of the Catholic Counter-Reformation."
+    },
+    {
+      "id": 46,
+      "text": "Which artist painted 'Water Lilies', a series of approximately 250 works?",
+      "options": ["Camille Pissarro", "Claude Monet", "Alfred Sisley", "Berthe Morisot"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Claude Monet painted around 250 Water Lilies works, inspired by his garden at Giverny, France."
+    },
+    {
+      "id": 47,
+      "text": "What does the art term 'en plein air' mean?",
+      "options": ["Painting from imagination", "Painting outdoors in natural light", "Painting at night using artificial light", "Painting with a palette knife only"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "En plein air (French: 'in the open air') refers to the practice of painting outdoors to capture natural light."
+    },
+    {
+      "id": 48,
+      "text": "Which ancient wonder involved a colossal statue at the entrance to a harbor?",
+      "options": ["The Statue of Zeus", "The Temple of Artemis", "The Colossus of Rhodes", "The Mausoleum at Halicarnassus"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Colossus of Rhodes was a giant statue of the sun god Helios at the entrance to Rhodes harbor, built c. 280 BC."
+    },
+    {
+      "id": 49,
+      "text": "What is the primary pigment that gives ultramarine blue its color?",
+      "options": ["Cobalt", "Lapis lazuli", "Azurite", "Indigo"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Historically, ultramarine blue was made from ground lapis lazuli gemstone, making it more expensive than gold."
+    },
+    {
+      "id": 50,
+      "text": "Which street artist is known for politically charged, stenciled works appearing in public spaces?",
+      "options": ["Jean-Michel Basquiat", "Keith Haring", "Banksy", "Shepard Fairey"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Banksy is the anonymous British street artist whose satirical stencil artworks appear globally in public spaces."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "movies",
+  "name": "Movies & TV",
+  "description": "Test your knowledge of cinema, TV, and Hollywood legends.",
+  "icon": "🎬",
+  "color": "#f97316",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who directed the 1975 film 'Jaws'?",
+      "options": ["Francis Ford Coppola", "Steven Spielberg", "George Lucas", "Martin Scorsese"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Steven Spielberg directed Jaws, which became the first modern blockbuster."
+    },
+    {
+      "id": 2,
+      "text": "Which film won the first Academy Award for Best Picture?",
+      "options": ["Sunrise: A Song of Two Humans", "Wings", "The Jazz Singer", "Ben-Hur"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Wings (1927) won the first Academy Award for Outstanding Picture at the inaugural ceremony in 1929."
+    },
+    {
+      "id": 3,
+      "text": "Who played Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Robert Downey Jr. portrayed Tony Stark / Iron Man starting with the 2008 film Iron Man."
+    },
+    {
+      "id": 4,
+      "text": "What is the highest-grossing film of all time (not adjusted for inflation)?",
+      "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Avatar (2009, re-released 2022) holds the all-time box office record at over $2.9 billion worldwide."
+    },
+    {
+      "id": 5,
+      "text": "In 'The Godfather', what animal's head is placed in a character's bed?",
+      "options": ["Dog", "Pig", "Horse", "Cow"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A severed horse head is placed in Hollywood producer Jack Woltz's bed as a mob warning."
+    },
+    {
+      "id": 6,
+      "text": "Which actress has won the most Academy Awards for Best Actress?",
+      "options": ["Meryl Streep", "Katharine Hepburn", "Cate Blanchett", "Bette Davis"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Katharine Hepburn holds the record with four Best Actress Oscars (1933, 1967, 1968, 1981)."
+    },
+    {
+      "id": 7,
+      "text": "Which TV show features the fictional paper company Dunder Mifflin?",
+      "options": ["Parks and Recreation", "30 Rock", "The Office", "Brooklyn Nine-Nine"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Office (US) is set at the Scranton, Pennsylvania branch of Dunder Mifflin Paper Company."
+    },
+    {
+      "id": 8,
+      "text": "What year was the original Star Wars film released?",
+      "options": ["1975", "1977", "1979", "1981"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Star Wars: A New Hope was released on May 25, 1977, and became a cultural phenomenon."
+    },
+    {
+      "id": 9,
+      "text": "Who played Hannibal Lecter in 'The Silence of the Lambs' (1991)?",
+      "options": ["Gary Oldman", "Anthony Hopkins", "Brian Cox", "Jeremy Irons"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Anthony Hopkins won the Academy Award for Best Actor for his iconic portrayal of Hannibal Lecter."
+    },
+    {
+      "id": 10,
+      "text": "Which director is known for films such as 'Pulp Fiction' and 'Kill Bill'?",
+      "options": ["David Fincher", "Christopher Nolan", "Quentin Tarantino", "Ridley Scott"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Quentin Tarantino is renowned for his nonlinear storytelling and stylized violence across these films."
+    },
+    {
+      "id": 11,
+      "text": "What was the name of the TV series set in the fictional Westeros?",
+      "options": ["The Witcher", "Game of Thrones", "Vikings", "The Last Kingdom"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Game of Thrones (2011-2019) on HBO was adapted from George R.R. Martin's A Song of Ice and Fire series."
+    },
+    {
+      "id": 12,
+      "text": "Which film holds the record for most Academy Award wins (tied)?",
+      "options": ["Schindler's List", "The Lord of the Rings: The Return of the King", "Titanic", "Both B and C"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Ben-Hur (1959), Titanic (1997), and The Lord of the Rings: The Return of the King (2003) each won 11 Oscars."
+    },
+    {
+      "id": 13,
+      "text": "In 'Breaking Bad', what is Walter White's chemistry teacher alias?",
+      "options": ["Heisenberg", "Schrödinger", "Bohr", "Einstein"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Walter White adopts the alias Heisenberg, a reference to physicist Werner Heisenberg's uncertainty principle."
+    },
+    {
+      "id": 14,
+      "text": "Who directed 'Schindler's List' (1993)?",
+      "options": ["Oliver Stone", "Stanley Kubrick", "Steven Spielberg", "Sydney Pollack"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Steven Spielberg directed Schindler's List, which won seven Academy Awards including Best Picture and Best Director."
+    },
+    {
+      "id": 15,
+      "text": "Which classic line is from 'Casablanca' (1942)?",
+      "options": ["'Go ahead, make my day.'", "'Here's looking at you, kid.'", "'You talkin' to me?'", "'I'll be back.'"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "'Here's looking at you, kid.' is said by Humphrey Bogart's character Rick Blaine in Casablanca."
+    },
+    {
+      "id": 16,
+      "text": "What streaming service originally produced 'House of Cards' (US version)?",
+      "options": ["HBO", "Amazon Prime", "Netflix", "Hulu"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Netflix debuted House of Cards in 2013 as its first major original scripted series."
+    },
+    {
+      "id": 17,
+      "text": "In which film does the line 'I see dead people' appear?",
+      "options": ["Poltergeist", "The Sixth Sense", "The Others", "Ghost"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Cole Sear (Haley Joel Osment) delivers this famous line in M. Night Shyamalan's The Sixth Sense (1999)."
+    },
+    {
+      "id": 18,
+      "text": "Which actor played Forrest Gump?",
+      "options": ["Tom Cruise", "Kevin Costner", "Tom Hanks", "John Travolta"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Tom Hanks won his second consecutive Best Actor Oscar for playing Forrest Gump (1994)."
+    },
+    {
+      "id": 19,
+      "text": "What is the name of the fictional kingdom in 'Frozen'?",
+      "options": ["Arendelle", "Agrabah", "Corona", "Motunui"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Arendelle is the Scandinavian-inspired fictional kingdom where Elsa and Anna live in Frozen."
+    },
+    {
+      "id": 20,
+      "text": "Who composed the iconic score for 'Star Wars'?",
+      "options": ["Hans Zimmer", "Ennio Morricone", "John Williams", "Bernard Herrmann"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "John Williams composed the Star Wars score, one of the most recognizable film soundtracks ever."
+    },
+    {
+      "id": 21,
+      "text": "Which film is set almost entirely on a single lifeboat in shark-infested waters?",
+      "options": ["Open Water", "The Shallows", "Lifeboat", "Adrift"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Alfred Hitchcock's Lifeboat (1944) takes place almost entirely within a lifeboat in the Atlantic Ocean."
+    },
+    {
+      "id": 22,
+      "text": "What was the first feature-length animated film produced by Walt Disney?",
+      "options": ["Pinocchio", "Fantasia", "Snow White and the Seven Dwarfs", "Bambi"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Snow White and the Seven Dwarfs (1937) was Disney's—and the world's—first feature-length cel-animated film."
+    },
+    {
+      "id": 23,
+      "text": "Which TV show coined the term 'jumping the shark'?",
+      "options": ["Seinfeld", "Happy Days", "M*A*S*H", "Cheers"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The phrase comes from a Happy Days episode where Fonzie literally jumps over a shark on water skis."
+    },
+    {
+      "id": 24,
+      "text": "In 'The Dark Knight' (2008), who played the Joker?",
+      "options": ["Jack Nicholson", "Jared Leto", "Joaquin Phoenix", "Heath Ledger"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Heath Ledger won a posthumous Academy Award for Best Supporting Actor for his portrayal of the Joker."
+    },
+    {
+      "id": 25,
+      "text": "Which film features the fictional African nation of Wakanda?",
+      "options": ["Thor: Ragnarok", "Captain America: Civil War", "Black Panther", "Avengers: Infinity War"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Black Panther (2018) is set primarily in Wakanda, the technologically advanced fictional African nation."
+    },
+    {
+      "id": 26,
+      "text": "Who directed '2001: A Space Odyssey' (1968)?",
+      "options": ["Ridley Scott", "Stanley Kubrick", "Steven Spielberg", "George Lucas"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Stanley Kubrick directed 2001: A Space Odyssey, widely considered one of the greatest films ever made."
+    },
+    {
+      "id": 27,
+      "text": "What is the name of the dragon in 'How to Train Your Dragon'?",
+      "options": ["Smaug", "Toothless", "Drogon", "Falkor"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Toothless is the Night Fury dragon befriended by Hiccup in DreamWorks' How to Train Your Dragon."
+    },
+    {
+      "id": 28,
+      "text": "In 'Friends', what is the name of Ross's pet monkey?",
+      "options": ["Marcel", "Bubbles", "Koko", "Mojo"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Marcel the capuchin monkey is Ross's exotic pet in the early seasons of Friends."
+    },
+    {
+      "id": 29,
+      "text": "Which actress played Clarice Starling in 'The Silence of the Lambs'?",
+      "options": ["Sigourney Weaver", "Jodie Foster", "Holly Hunter", "Susan Sarandon"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Jodie Foster won the Academy Award for Best Actress for her role as FBI trainee Clarice Starling."
+    },
+    {
+      "id": 30,
+      "text": "What year did the TV show 'Breaking Bad' premiere?",
+      "options": ["2006", "2007", "2008", "2009"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Breaking Bad premiered on AMC on January 20, 2008, and ran for five seasons until 2013."
+    },
+    {
+      "id": 31,
+      "text": "Which film is based on the true story of the 2003 Boston Red Sox season?",
+      "options": ["42", "Moneyball", "The Natural", "Fever Pitch"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Fever Pitch (2005) was reworked to be set during the Red Sox's 2004 World Series-winning season."
+    },
+    {
+      "id": 32,
+      "text": "Who plays the lead role of Daenerys Targaryen in 'Game of Thrones'?",
+      "options": ["Sophie Turner", "Natalie Dormer", "Emilia Clarke", "Maisie Williams"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Emilia Clarke portrayed Daenerys Targaryen, the Mother of Dragons, throughout all eight seasons."
+    },
+    {
+      "id": 33,
+      "text": "Which 1994 film features a briefcase whose contents are never revealed?",
+      "options": ["Se7en", "Reservoir Dogs", "Pulp Fiction", "Natural Born Killers"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "In Pulp Fiction, the glowing briefcase (the MacGuffin) is never shown to the audience."
+    },
+    {
+      "id": 34,
+      "text": "What is the highest-rated TV show on IMDb (as of 2024)?",
+      "options": ["Game of Thrones", "The Wire", "Breaking Bad", "The Sopranos"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Breaking Bad holds the top spot on IMDb's TV ratings with a 9.5/10 based on millions of votes."
+    },
+    {
+      "id": 35,
+      "text": "Who directed 'Citizen Kane' (1941)?",
+      "options": ["John Ford", "Alfred Hitchcock", "Orson Welles", "Howard Hawks"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Orson Welles both directed and starred in Citizen Kane, often cited as the greatest film ever made."
+    },
+    {
+      "id": 36,
+      "text": "In 'The Matrix', what color pill does Neo take to learn the truth?",
+      "options": ["Blue", "Red", "Green", "White"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Neo takes the red pill offered by Morpheus, which reveals the truth about the simulated reality."
+    },
+    {
+      "id": 37,
+      "text": "Which actor has appeared in the most number of films that grossed over $1 billion?",
+      "options": ["Tom Cruise", "Scarlett Johansson", "Samuel L. Jackson", "Robert Downey Jr."],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Samuel L. Jackson has appeared in more billion-dollar films than any other actor due to his prolific career."
+    },
+    {
+      "id": 38,
+      "text": "What is the name of the ship in 'Alien' (1979)?",
+      "options": ["Discovery One", "Nostromo", "Sulaco", "Serenity"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The USCSS Nostromo is the commercial towing spaceship in Ridley Scott's Alien."
+    },
+    {
+      "id": 39,
+      "text": "Which classic film introduced the phrase 'May the Force be with you'?",
+      "options": ["The Empire Strikes Back", "Return of the Jedi", "Star Wars: A New Hope", "The Phantom Menace"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The phrase first appeared in the original Star Wars: A New Hope (1977)."
+    },
+    {
+      "id": 40,
+      "text": "What was Alfred Hitchcock's first sound film?",
+      "options": ["The 39 Steps", "Blackmail", "Psycho", "Rebecca"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Blackmail (1929) was Hitchcock's first sound film and is also considered the first British sound film."
+    },
+    {
+      "id": 41,
+      "text": "In which city is the TV show 'Seinfeld' primarily set?",
+      "options": ["Los Angeles", "Chicago", "New York City", "Boston"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Seinfeld is set primarily in Manhattan, New York City, mirroring creator Jerry Seinfeld's real life."
+    },
+    {
+      "id": 42,
+      "text": "Which film won Best Picture at the 2020 Academy Awards?",
+      "options": ["Joker", "Once Upon a Time in Hollywood", "1917", "Parasite"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Parasite (Bong Joon-ho) became the first non-English language film to win Best Picture at the Oscars."
+    },
+    {
+      "id": 43,
+      "text": "Who played Jack Dawson in 'Titanic' (1997)?",
+      "options": ["Brad Pitt", "Matt Damon", "Leonardo DiCaprio", "Johnny Depp"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Leonardo DiCaprio starred as Jack Dawson opposite Kate Winslet in James Cameron's Titanic."
+    },
+    {
+      "id": 44,
+      "text": "Which TV network aired 'The Sopranos'?",
+      "options": ["Showtime", "AMC", "FX", "HBO"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Sopranos aired on HBO from 1999 to 2007 and is widely credited with the prestige TV revolution."
+    },
+    {
+      "id": 45,
+      "text": "What is the real name of the character known as 'The Mandalorian' in the Disney+ series?",
+      "options": ["Boba Fett", "Din Djarin", "Cad Bane", "Jango Fett"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Mandalorian's real name is Din Djarin, revealed later in the series."
+    },
+    {
+      "id": 46,
+      "text": "Which film features the fictional band Spinal Tap?",
+      "options": ["Almost Famous", "That Thing You Do!", "This Is Spinal Tap", "Walk Hard"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "This Is Spinal Tap (1984) is Rob Reiner's mockumentary about the fictional British heavy metal band."
+    },
+    {
+      "id": 47,
+      "text": "Who plays the role of Walter White in 'Breaking Bad'?",
+      "options": ["Bryan Cranston", "Aaron Paul", "Dean Norris", "Bob Odenkirk"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Bryan Cranston won four Emmy Awards for Outstanding Lead Actor for his portrayal of Walter White."
+    },
+    {
+      "id": 48,
+      "text": "What is the highest-grossing animated film of all time?",
+      "options": ["The Lion King (2019)", "Frozen II", "Incredibles 2", "The Super Mario Bros. Movie"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "The Lion King (2019 remake) grossed over $1.6 billion worldwide, making it the highest-grossing animated film."
+    },
+    {
+      "id": 49,
+      "text": "Which director made 'Mulholland Drive' (2001)?",
+      "options": ["Joel Coen", "Darren Aronofsky", "David Lynch", "Terry Gilliam"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "David Lynch directed Mulholland Drive, his neo-noir mystery set in the dream-like world of Hollywood."
+    },
+    {
+      "id": 50,
+      "text": "What TV show features a dragon-obsessed family known as House Targaryen?",
+      "options": ["The Witcher", "The Rings of Power", "House of the Dragon", "Merlin"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "House of the Dragon is the Game of Thrones prequel series focused on the Targaryen civil war."
+    }
+  ]
+}

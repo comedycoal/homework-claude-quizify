@@ -1,0 +1,489 @@
+{
+  "id": "pop_culture",
+  "name": "Pop Culture",
+  "description": "From viral memes to celebrity moments, how well do you know pop culture?",
+  "icon": "⭐",
+  "color": "#f43f5e",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which platform launched the viral 'Ice Bucket Challenge' in 2014?",
+      "options": ["YouTube", "Twitter", "Facebook", "Instagram"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The ALS Ice Bucket Challenge went viral primarily on Facebook in 2014, raising over $115 million for ALS research."
+    },
+    {
+      "id": 2,
+      "text": "What year did Instagram launch?",
+      "options": ["2008", "2010", "2012", "2014"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Instagram launched in October 2010 for iOS and was acquired by Facebook in 2012."
+    },
+    {
+      "id": 3,
+      "text": "Which artist released the album 'Lemonade' in 2016?",
+      "options": ["Rihanna", "Adele", "Beyoncé", "Taylor Swift"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Beyoncé released 'Lemonade' as a visual album in April 2016 to critical acclaim."
+    },
+    {
+      "id": 4,
+      "text": "What was the name of the viral 2012 song by PSY that popularized the 'horse dance'?",
+      "options": ["Gentleman", "Gangnam Style", "Hangover", "Right Now"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "'Gangnam Style' by PSY became the first YouTube video to reach 1 billion views in 2012."
+    },
+    {
+      "id": 5,
+      "text": "Which streaming service produced 'Stranger Things'?",
+      "options": ["HBO", "Disney+", "Netflix", "Hulu"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Stranger Things is an original Netflix series that premiered in July 2016."
+    },
+    {
+      "id": 6,
+      "text": "What is the name of the coffee chain known for writing (often misspelling) customers' names on cups?",
+      "options": ["Dunkin' Donuts", "Costa Coffee", "Starbucks", "Peet's Coffee"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Starbucks became famous for writing customers' names on cups, often with creative misspellings that people share on social media."
+    },
+    {
+      "id": 7,
+      "text": "Which social media platform uses the term 'tweet' for posts?",
+      "options": ["Instagram", "Twitter (now X)", "Snapchat", "TikTok"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Twitter, now rebranded as X, uses the term 'tweet' for posts made on its platform."
+    },
+    {
+      "id": 8,
+      "text": "What animal is the logo of Twitter (now X) historically associated with?",
+      "options": ["Eagle", "Sparrow", "Bird (Larry the Bird)", "Penguin"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Twitter's iconic blue bird logo was named Larry the Bird, after NBA star Larry Bird."
+    },
+    {
+      "id": 9,
+      "text": "Which Disney animated film features the song 'Let It Go'?",
+      "options": ["Moana", "Tangled", "Brave", "Frozen"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "'Let It Go' is a song from Disney's Frozen (2013), performed by Idina Menzel as Queen Elsa."
+    },
+    {
+      "id": 10,
+      "text": "What does 'FOMO' stand for?",
+      "options": [
+        "Fear of Missing Out",
+        "Following Other Memorable Outfits",
+        "First Online Media Order",
+        "Fear of Moving On"
+      ],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "FOMO stands for 'Fear of Missing Out', the anxiety of missing exciting events or experiences."
+    },
+    {
+      "id": 11,
+      "text": "Which game became a cultural phenomenon when it launched in summer 2016 with AR gameplay?",
+      "options": ["Minecraft", "Fortnite", "Pokémon GO", "Among Us"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Pokémon GO was released in July 2016 and became a global phenomenon with its augmented reality gameplay."
+    },
+    {
+      "id": 12,
+      "text": "What is the name of Elon Musk's space exploration company?",
+      "options": ["Blue Origin", "Virgin Galactic", "SpaceX", "Axiom Space"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "SpaceX was founded by Elon Musk in 2002 with the goal of reducing space transportation costs."
+    },
+    {
+      "id": 13,
+      "text": "Which TV show featured the catchphrase 'Winter is Coming'?",
+      "options": ["The Witcher", "Vikings", "Game of Thrones", "The Last Kingdom"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "'Winter is Coming' is the motto of House Stark in HBO's Game of Thrones, based on George R.R. Martin's novels."
+    },
+    {
+      "id": 14,
+      "text": "What does 'TBT' stand for on social media?",
+      "options": [
+        "To Be Told",
+        "Throwback Thursday",
+        "The Best Time",
+        "Think Before Tweeting"
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "TBT stands for Throwback Thursday, a social media trend where users post old photos on Thursdays."
+    },
+    {
+      "id": 15,
+      "text": "Which social media app is known for disappearing messages and Stories?",
+      "options": ["WhatsApp", "Telegram", "Snapchat", "Signal"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Snapchat pioneered disappearing messages and Stories, features that were later adopted by other platforms."
+    },
+    {
+      "id": 16,
+      "text": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Robert Downey Jr. played Tony Stark / Iron Man in the MCU, starting with Iron Man (2008)."
+    },
+    {
+      "id": 17,
+      "text": "Which fast food chain is associated with the slogan 'I'm Lovin' It'?",
+      "options": ["Burger King", "Wendy's", "McDonald's", "KFC"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "McDonald's introduced 'I'm Lovin' It' as its global slogan in 2003, accompanied by a jingle featuring Justin Timberlake."
+    },
+    {
+      "id": 18,
+      "text": "The viral 'distracted boyfriend' meme, widely used online, originated as what?",
+      "options": [
+        "A scene from a romantic comedy",
+        "A stock photograph",
+        "A screenshot from a music video",
+        "An advertisement for a dating app"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The distracted boyfriend meme originated from a stock photo taken by Spanish photographer Antonio Guillem in 2015."
+    },
+    {
+      "id": 19,
+      "text": "Which year did TikTok (formerly Musical.ly) launch under the TikTok brand internationally?",
+      "options": ["2016", "2017", "2018", "2019"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "TikTok launched internationally in 2018 after ByteDance merged Musical.ly with TikTok."
+    },
+    {
+      "id": 20,
+      "text": "What is the name of the fictional coffee shop where friends hung out in the TV show Friends?",
+      "options": ["Central Perk", "The Grind", "Java Joe's", "Common Grounds"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Central Perk was the iconic coffee shop in Friends where the main characters regularly gathered."
+    },
+    {
+      "id": 21,
+      "text": "Which company owns Instagram, WhatsApp, and Facebook?",
+      "options": ["Alphabet", "Meta", "Apple", "Microsoft"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Meta Platforms (formerly Facebook Inc.) owns Instagram, WhatsApp, and Facebook."
+    },
+    {
+      "id": 22,
+      "text": "The phrase 'OK Boomer' became a viral internet trend around what year?",
+      "options": ["2016", "2017", "2019", "2021"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "'OK Boomer' went viral in late 2019, used by younger generations to dismiss Baby Boomer attitudes."
+    },
+    {
+      "id": 23,
+      "text": "Which video game studio created Fortnite?",
+      "options": ["Activision", "Epic Games", "Rockstar Games", "Blizzard"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Fortnite was created by Epic Games and launched in 2017, becoming one of the most popular battle royale games."
+    },
+    {
+      "id": 24,
+      "text": "What does the acronym 'GOAT' mean in pop culture?",
+      "options": [
+        "Going Off All Time",
+        "Greatest Of All Time",
+        "General Of Athletic Teams",
+        "Gaining Overall Attention Today"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "GOAT stands for Greatest Of All Time, commonly used to describe elite athletes and celebrities."
+    },
+    {
+      "id": 25,
+      "text": "Which social media platform introduced the concept of 'retweet'?",
+      "options": ["Facebook", "Tumblr", "Twitter", "Reddit"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Twitter introduced the retweet feature, allowing users to share others' tweets to their followers."
+    },
+    {
+      "id": 26,
+      "text": "What was the name of the first video ever uploaded to YouTube?",
+      "options": ["Evolution of Dance", "Me at the zoo", "Charlie Bit My Finger", "Numa Numa"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "'Me at the zoo' was uploaded on April 23, 2005 by YouTube co-founder Jawed Karim and is the first video ever posted."
+    },
+    {
+      "id": 27,
+      "text": "Which pop star is known by the nickname 'Queen Bey'?",
+      "options": ["Britney Spears", "Beyoncé", "Mariah Carey", "Lady Gaga"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Beyoncé Knowles-Carter is widely known as 'Queen Bey', a portmanteau of her name and 'queen'."
+    },
+    {
+      "id": 28,
+      "text": "What does 'IRL' stand for in internet slang?",
+      "options": ["In Real Life", "Internet Relay Link", "Instant Reaction Lag", "International Random Link"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "IRL stands for 'In Real Life', distinguishing physical interactions from online ones."
+    },
+    {
+      "id": 29,
+      "text": "The viral 'Harlem Shake' videos became popular in early what year?",
+      "options": ["2011", "2012", "2013", "2014"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Harlem Shake meme videos went viral in February 2013, featuring people dancing to Baauer's song."
+    },
+    {
+      "id": 30,
+      "text": "Which company created the iPhone?",
+      "options": ["Google", "Samsung", "Apple", "Nokia"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Apple Inc. introduced the first iPhone in 2007 under Steve Jobs, revolutionizing the smartphone industry."
+    },
+    {
+      "id": 31,
+      "text": "Which celebrity couple was nicknamed 'Brangelina'?",
+      "options": [
+        "Brad Pitt and Jennifer Aniston",
+        "Brad Pitt and Angelina Jolie",
+        "Ben Affleck and Angelina Jolie",
+        "Bradley Cooper and Angelina Jolie"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Brangelina was the celebrity portmanteau name for Brad Pitt and Angelina Jolie during their relationship."
+    },
+    {
+      "id": 32,
+      "text": "What is the name of the viral 2020 game where players discuss who among them is 'among us' (an impostor)?",
+      "options": ["Fall Guys", "Rust", "Among Us", "Warzone"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Among Us (2018) went massively viral in 2020, with players working to identify impostors in their crew."
+    },
+    {
+      "id": 33,
+      "text": "Who is the founder of Amazon?",
+      "options": ["Bill Gates", "Jeff Bezos", "Elon Musk", "Larry Page"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Jeff Bezos founded Amazon in 1994 as an online bookstore before expanding it into a global e-commerce giant."
+    },
+    {
+      "id": 34,
+      "text": "What is the name of the virtual currency used in Fortnite?",
+      "options": ["Gold", "V-Bucks", "Credits", "Coins"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "V-Bucks (Vindertech Bucks) is the in-game currency used in Fortnite to purchase cosmetic items."
+    },
+    {
+      "id": 35,
+      "text": "Which TV show introduced the term 'on fleek', later popularized on social media?",
+      "options": [
+        "It was coined in a Vine video, not a TV show",
+        "Keeping Up with the Kardashians",
+        "RuPaul's Drag Race",
+        "The Real Housewives"
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "'On fleek' was coined by Peaches Monroee in a 2014 Vine video describing her eyebrows, then went viral."
+    },
+    {
+      "id": 36,
+      "text": "What is the 'Streisand Effect' in internet culture?",
+      "options": [
+        "When a celebrity's music goes viral after a controversy",
+        "When attempting to suppress information causes it to spread more widely",
+        "When a celebrity's social media post accidentally trends",
+        "When news stories about celebrities overshadow real news"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Streisand Effect occurs when trying to suppress information inadvertently draws more attention to it, named after Barbara Streisand's 2003 attempt to suppress photos of her home."
+    },
+    {
+      "id": 37,
+      "text": "What was the original purpose of Reddit's 'upvote' and 'downvote' system, according to its founders?",
+      "options": [
+        "To rank content by popularity for personalized feeds",
+        "To surface the most interesting content to the top",
+        "To replace a traditional 5-star rating system",
+        "To create a democratic way to moderate spam"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Reddit's vote system was designed to collectively surface the most interesting or valuable content within a community to the top of the feed."
+    },
+    {
+      "id": 38,
+      "text": "The 'Overton window' concept, sometimes discussed in pop culture, refers to what?",
+      "options": [
+        "The range of policies acceptable to the public at a given time",
+        "The algorithmic filter bubble on social media",
+        "The window of time a meme remains culturally relevant",
+        "A TV production technique for framing celebrity interviews"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "The Overton window describes the range of policies or ideas the public will accept; it was developed by Joseph Overton and has entered wider cultural discussion."
+    },
+    {
+      "id": 39,
+      "text": "Which internet subculture coined the term 'parasocial relationship' to describe fan-celebrity bonds?",
+      "options": [
+        "The term existed in social psychology since the 1950s before internet use",
+        "Twitch streaming communities in the 2010s",
+        "Early YouTube fandoms in the 2000s",
+        "Fan fiction communities on Tumblr"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Parasocial relationship was coined by Horton and Wohl in a 1956 academic paper, long before internet culture adopted and popularized the term."
+    },
+    {
+      "id": 40,
+      "text": "In 2015, an image of a dress went viral because people disagreed on its colors. What were the two contested color interpretations?",
+      "options": [
+        "Red and green OR orange and blue",
+        "White and gold OR blue and black",
+        "Pink and white OR purple and grey",
+        "Yellow and silver OR green and brown"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "#TheDress debate in 2015 saw millions argue whether the dress was white and gold or blue and black, driven by differences in color perception and lighting interpretation."
+    },
+    {
+      "id": 41,
+      "text": "What was the name of the NFT artwork by Beeple that sold for $69 million at Christie's in 2021?",
+      "options": [
+        "The First 5000 Days",
+        "CryptoPunk #7523",
+        "Everydays: The First 5000 Days",
+        "Human One"
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Beeple's 'Everydays: The First 5000 Days' sold for $69.3 million at Christie's in March 2021, marking a watershed moment for NFTs."
+    },
+    {
+      "id": 42,
+      "text": "Which social media concept describes the tendency for algorithms to show users content that reinforces existing beliefs?",
+      "options": [
+        "The network effect",
+        "The filter bubble",
+        "The echo chamber paradox",
+        "Confirmation cascade"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The 'filter bubble', coined by Eli Pariser, describes how personalization algorithms show users content matching their views, limiting exposure to differing perspectives."
+    },
+    {
+      "id": 43,
+      "text": "What was the original name of the company that became Snapchat?",
+      "options": ["Picaboo", "FlashChat", "VanishMe", "SnapSend"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Snapchat was originally called Picaboo when it launched in 2011 before being rebranded to Snapchat."
+    },
+    {
+      "id": 44,
+      "text": "The 'lonelygirl15' YouTube channel, one of the first viral web series, was later revealed to be what?",
+      "options": [
+        "A documentary project by a film school",
+        "A scripted fictional series produced by filmmakers",
+        "A marketing campaign for a horror film",
+        "An experiment conducted by a university psychology department"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Lonelygirl15 (2006) was revealed to be a scripted web series produced by filmmakers, one of the internet's first major staged 'reality' controversies."
+    },
+    {
+      "id": 45,
+      "text": "Which term describes the phenomenon where companies use minor eco-friendly gestures to appear environmentally responsible without significant change?",
+      "options": ["greenwashing", "eco-branding", "sustainability signaling", "carbon posturing"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Greenwashing refers to companies misleadingly marketing themselves as environmentally friendly with superficial actions rather than substantive change."
+    },
+    {
+      "id": 46,
+      "text": "The viral 2017 Pepsi ad featuring Kendall Jenner was criticized for trivializing what?",
+      "options": [
+        "Celebrity endorsements in advertising",
+        "Black Lives Matter protest movements",
+        "Youth culture and millennials",
+        "Commercial use of classic protest music"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Pepsi ad was widely condemned for appearing to trivialize Black Lives Matter protests by depicting a protest resolved by Jenner handing a Pepsi to police."
+    },
+    {
+      "id": 47,
+      "text": "What internet phenomenon describes the cycle of a joke becoming so widely repeated it loses humor, then becomes funny again ironically?",
+      "options": [
+        "post-irony",
+        "meme fatigue",
+        "irony poisoning",
+        "dead cat bounce humor"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Post-irony describes the layered cycle where a joke becomes earnest again after passing through ironic overuse, common in internet humor culture."
+    },
+    {
+      "id": 48,
+      "text": "The concept of 'stan' culture comes from which Eminem song?",
+      "options": ["Lose Yourself", "Stan", "Slim Shady", "Without Me"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "'Stan' (2000) by Eminem tells the story of an obsessive fan named Stan; the word is now widely used to describe devoted fans."
+    },
+    {
+      "id": 49,
+      "text": "Which fashion brand popularized the term 'drop culture', releasing limited products unannounced?",
+      "options": ["Supreme", "Nike", "Off-White", "Palace"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Supreme is credited with pioneering drop culture, releasing limited quantities of products with little notice, creating frenzied demand."
+    },
+    {
+      "id": 50,
+      "text": "What was the name of the disastrous 2017 music festival promoted heavily on social media that turned out to be a fraud?",
+      "options": ["Woodstock 50", "Fyre Festival", "Fyre Fest", "Both B and C are correct names for the same event"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Fyre Festival (also called Fyre Fest) was the fraudulent 2017 luxury music festival in the Bahamas organized by Billy McFarland, documented in multiple Netflix and Hulu films."
+    }
+  ]
+}

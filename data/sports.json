@@ -1,0 +1,409 @@
+{
+  "id": "sports",
+  "name": "Sports",
+  "description": "Dive into the world of athletes, records, and legendary sporting moments.",
+  "icon": "⚽",
+  "color": "#ef4444",
+  "questions": [
+    {
+      "id": 1,
+      "text": "How many players are on a standard soccer (football) team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Each soccer team fields 11 players, including the goalkeeper."
+    },
+    {
+      "id": 2,
+      "text": "In which sport would you perform a 'slam dunk'?",
+      "options": ["Volleyball", "Basketball", "Tennis", "Baseball"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A slam dunk is a basketball move where a player jumps and forcefully puts the ball through the hoop."
+    },
+    {
+      "id": 3,
+      "text": "How many points is a touchdown worth in American football?",
+      "options": ["3", "6", "7", "8"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A touchdown is worth 6 points in American football, with the option for an extra point after."
+    },
+    {
+      "id": 4,
+      "text": "In tennis, what is the term for a score of zero?",
+      "options": ["Nil", "Zero", "Love", "Void"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "In tennis, a score of zero is called 'love,' a term with origins in the French word for egg (l'oeuf)."
+    },
+    {
+      "id": 5,
+      "text": "In which country did the modern Olympic Games originate in 1896?",
+      "options": ["Italy", "France", "Greece", "Germany"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896."
+    },
+    {
+      "id": 6,
+      "text": "Which sport uses a 'puck'?",
+      "options": ["Field Hockey", "Ice Hockey", "Lacrosse", "Cricket"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A puck is the hard rubber disc used in ice hockey instead of a ball."
+    },
+    {
+      "id": 7,
+      "text": "How many sets are played in a standard men's Grand Slam tennis final?",
+      "options": ["3", "4", "5", "7"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Men's Grand Slam singles finals are best-of-five sets, meaning up to 5 sets can be played."
+    },
+    {
+      "id": 8,
+      "text": "Which sport takes place at Wimbledon?",
+      "options": ["Cricket", "Golf", "Tennis", "Polo"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Wimbledon in London hosts the oldest and most prestigious Grand Slam tennis tournament."
+    },
+    {
+      "id": 9,
+      "text": "In basketball, how many points is a shot from behind the three-point line worth?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A shot made from behind the three-point arc scores 3 points."
+    },
+    {
+      "id": 10,
+      "text": "What color flag is shown in Formula 1 to signal the end of the race?",
+      "options": ["Blue", "Red", "Yellow", "Checkered"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "A checkered (black and white) flag is waved to signal the end of a Formula 1 race."
+    },
+    {
+      "id": 11,
+      "text": "Which country has won the most FIFA World Cup titles?",
+      "options": ["Germany", "Argentina", "Brazil", "Italy"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Brazil has won the FIFA World Cup a record five times (1958, 1962, 1970, 1994, 2002)."
+    },
+    {
+      "id": 12,
+      "text": "What is the maximum score in a single game of ten-pin bowling?",
+      "options": ["200", "250", "300", "350"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A perfect game in bowling scores 300, achieved by getting 12 consecutive strikes."
+    },
+    {
+      "id": 13,
+      "text": "How many holes are played in a standard round of golf?",
+      "options": ["9", "12", "18", "24"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A standard round of golf is played over 18 holes."
+    },
+    {
+      "id": 14,
+      "text": "Which athlete is known as 'The Greatest' and won the heavyweight boxing title multiple times?",
+      "options": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "Lennox Lewis"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Muhammad Ali is known as 'The Greatest' and won the heavyweight championship three times."
+    },
+    {
+      "id": 15,
+      "text": "What sport does Serena Williams play?",
+      "options": ["Golf", "Tennis", "Badminton", "Squash"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Serena Williams is a professional tennis player who won 23 Grand Slam singles titles."
+    },
+    {
+      "id": 16,
+      "text": "In which sport is the Stanley Cup awarded?",
+      "options": ["Basketball", "Baseball", "Ice Hockey", "American Football"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Stanley Cup is the championship trophy for the National Hockey League (NHL)."
+    },
+    {
+      "id": 17,
+      "text": "How long is a standard marathon race?",
+      "options": ["26.2 miles (42.2 km)", "20 miles (32.2 km)", "30 miles (48.3 km)", "24 miles (38.6 km)"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "A marathon is 26.2 miles (42.195 km), a distance standardized at the 1908 London Olympics."
+    },
+    {
+      "id": 18,
+      "text": "Which nation hosted the 2016 Summer Olympics?",
+      "options": ["China", "USA", "Brazil", "UK"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+    },
+    {
+      "id": 19,
+      "text": "Who holds the record for the most Grand Slam tennis singles titles (men's)?",
+      "options": ["Roger Federer", "Novak Djokovic", "Rafael Nadal", "Pete Sampras"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Novak Djokovic holds the record for the most Grand Slam men's singles titles with 24 (as of 2024)."
+    },
+    {
+      "id": 20,
+      "text": "In which sport is the 'Fosbury Flop' technique used?",
+      "options": ["Pole Vault", "High Jump", "Long Jump", "Triple Jump"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Fosbury Flop is a high jump technique where the athlete goes over the bar backwards, pioneered by Dick Fosbury at the 1968 Olympics."
+    },
+    {
+      "id": 21,
+      "text": "What is the diameter of a standard basketball hoop in inches?",
+      "options": ["16 inches", "18 inches", "20 inches", "22 inches"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A standard basketball hoop has an inner diameter of 18 inches."
+    },
+    {
+      "id": 22,
+      "text": "Which country won the most gold medals at the 2020 Tokyo Olympics?",
+      "options": ["China", "USA", "Great Britain", "Russia"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The United States won the most gold medals at the 2020 Tokyo Olympics with 39 gold medals."
+    },
+    {
+      "id": 23,
+      "text": "How many players are on a volleyball team on the court at one time?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Each volleyball team has 6 players on the court at the same time."
+    },
+    {
+      "id": 24,
+      "text": "Who is the all-time leading scorer in NBA history?",
+      "options": ["Michael Jordan", "Kobe Bryant", "LeBron James", "Kareem Abdul-Jabbar"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "LeBron James surpassed Kareem Abdul-Jabbar in February 2023 to become the NBA's all-time leading scorer."
+    },
+    {
+      "id": 25,
+      "text": "In soccer, what is a 'hat-trick'?",
+      "options": ["A goalkeeper saving 3 penalties", "Scoring 3 goals in one match", "Making 3 assists in one match", "3 yellow cards in one tournament"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A hat-trick in soccer is when a player scores three goals in a single match."
+    },
+    {
+      "id": 26,
+      "text": "Which golfer has won the most major championships?",
+      "options": ["Arnold Palmer", "Phil Mickelson", "Tiger Woods", "Jack Nicklaus"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Jack Nicklaus holds the record for most major championships in golf with 18 titles."
+    },
+    {
+      "id": 27,
+      "text": "What is the name of the trophy awarded to the winner of the UEFA Champions League?",
+      "options": ["The Golden Cup", "The Europa Trophy", "The Big Ears", "The Continental Cup"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The UEFA Champions League trophy is commonly called 'The Big Ears' due to its distinctive large handles."
+    },
+    {
+      "id": 28,
+      "text": "In cricket, how many balls are in a standard over?",
+      "options": ["4", "5", "6", "8"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A standard over in cricket consists of 6 balls bowled by one bowler."
+    },
+    {
+      "id": 29,
+      "text": "Which athlete broke the 100m world record at the 2009 World Championships with a time of 9.58 seconds?",
+      "options": ["Justin Gatlin", "Usain Bolt", "Asafa Powell", "Tyson Gay"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Usain Bolt set the 100m world record of 9.58 seconds at the 2009 Berlin World Championships."
+    },
+    {
+      "id": 30,
+      "text": "How many players are in a rugby union team?",
+      "options": ["11", "13", "15", "17"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A rugby union team consists of 15 players on the field."
+    },
+    {
+      "id": 31,
+      "text": "What is the term for a score of one under par on a golf hole?",
+      "options": ["Eagle", "Birdie", "Bogey", "Albatross"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A birdie is the golf term for completing a hole in one stroke fewer than par."
+    },
+    {
+      "id": 32,
+      "text": "At which Olympics did Michael Phelps win a record 8 gold medals in a single Games?",
+      "options": ["Athens 2004", "Sydney 2000", "Beijing 2008", "London 2012"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Michael Phelps won 8 gold medals at the 2008 Beijing Olympics, the most by any athlete in a single Games."
+    },
+    {
+      "id": 33,
+      "text": "In baseball, how many strikes does a batter get before they're out?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A batter is out after 3 strikes in baseball."
+    },
+    {
+      "id": 34,
+      "text": "Which tennis tournament is played on clay courts?",
+      "options": ["Wimbledon", "US Open", "Australian Open", "French Open"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The French Open (Roland Garros) is the only Grand Slam played on clay courts."
+    },
+    {
+      "id": 35,
+      "text": "Who was the first athlete to run a sub-4-minute mile?",
+      "options": ["Jim Ryun", "Herb Elliott", "Roger Bannister", "John Landy"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Roger Bannister became the first person to run a mile in under 4 minutes on May 6, 1954."
+    },
+    {
+      "id": 36,
+      "text": "In the NFL, how many yards must an offense gain to earn a new set of downs?",
+      "options": ["5", "8", "10", "15"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "An NFL offense must gain 10 yards in 4 attempts (downs) to earn a fresh set of 4 downs."
+    },
+    {
+      "id": 37,
+      "text": "Which swimmer holds the record for the most Olympic medals ever won by any athlete?",
+      "options": ["Mark Spitz", "Ian Thorpe", "Michael Phelps", "Ryan Lochte"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Michael Phelps holds the record with 28 Olympic medals (23 gold, 3 silver, 2 bronze)."
+    },
+    {
+      "id": 38,
+      "text": "What does 'LBW' stand for in cricket?",
+      "options": ["Left Behind Wicket", "Leg Before Wicket", "Lost Ball Warning", "Low Ball Width"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "LBW stands for Leg Before Wicket, a dismissal when a batsman's leg unfairly intercepts the ball."
+    },
+    {
+      "id": 39,
+      "text": "How long is an Olympic swimming pool in meters?",
+      "options": ["25m", "50m", "100m", "75m"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "An Olympic swimming pool is 50 meters long, with 8 lanes, each 2.5 meters wide."
+    },
+    {
+      "id": 40,
+      "text": "In fencing, which weapon scores touches only on the torso?",
+      "options": ["Foil", "Epee", "Sabre", "Rapier"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "In fencing, the foil scores points only when touching the torso (the target area), unlike epee or sabre."
+    },
+    {
+      "id": 41,
+      "text": "Which Formula 1 driver has the most World Championship titles?",
+      "options": ["Ayrton Senna", "Alain Prost", "Michael Schumacher", "Lewis Hamilton"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Lewis Hamilton and Michael Schumacher are tied with 7 World Championship titles each, but Hamilton is the joint record holder."
+    },
+    {
+      "id": 42,
+      "text": "What is the maximum weight of a regulation golf ball?",
+      "options": ["42.67 grams", "45.93 grams", "50.00 grams", "38.00 grams"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "A regulation golf ball must not exceed 45.93 grams (1.620 oz) in weight and must be at least 42.67 mm in diameter."
+    },
+    {
+      "id": 43,
+      "text": "In which year were women first allowed to compete in the modern Olympic Games?",
+      "options": ["1896", "1900", "1908", "1920"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Women were first allowed to compete in the Olympic Games at the 1900 Paris Olympics."
+    },
+    {
+      "id": 44,
+      "text": "What is the 'Pythagorean Theorem' of sports statistics called when used in baseball?",
+      "options": ["BABIP", "Pythagorean Expectation", "OPS+", "WAR"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Pythagorean Expectation uses runs scored and allowed to estimate a baseball team's expected winning percentage."
+    },
+    {
+      "id": 45,
+      "text": "In archery, how many points is the yellow inner ring (bullseye) worth in Olympic scoring?",
+      "options": ["8", "9", "10", "12"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "In Olympic archery scoring, the yellow inner ring (bullseye) is worth 10 points."
+    },
+    {
+      "id": 46,
+      "text": "Which team has won the most Super Bowl titles in NFL history?",
+      "options": ["Dallas Cowboys", "San Francisco 49ers", "Pittsburgh Steelers", "New England Patriots"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Pittsburgh Steelers and New England Patriots are tied with 6 Super Bowl titles each, making them co-leaders."
+    },
+    {
+      "id": 47,
+      "text": "What is the name of the award given to the best player in each NHL playoff series?",
+      "options": ["Hart Trophy", "Norris Trophy", "Conn Smythe Trophy", "Art Ross Trophy"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Conn Smythe Trophy is awarded to the most valuable player in the NHL playoffs."
+    },
+    {
+      "id": 48,
+      "text": "In rowing, what is the name of the person who sits at the stern and steers the boat?",
+      "options": ["Stroke", "Bowman", "Cox (Coxswain)", "Sweep"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The coxswain (cox) sits at the stern, steers the boat, and coordinates the rowers' movements."
+    },
+    {
+      "id": 49,
+      "text": "How many dimples does a standard golf ball have?",
+      "options": ["Exactly 100", "Between 300 and 500", "Exactly 200", "Exactly 512"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Most golf balls have between 300 and 500 dimples; 336 is a common number, but there is no single standard."
+    },
+    {
+      "id": 50,
+      "text": "Which country introduced the sport of polo?",
+      "options": ["England", "Argentina", "Persia (Iran)", "India"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Polo originated in ancient Persia (modern-day Iran) over 2,500 years ago."
+    }
+  ]
+}

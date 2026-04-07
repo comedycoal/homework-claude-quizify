@@ -1,0 +1,429 @@
+{
+  "id": "geography",
+  "name": "Geography",
+  "description": "Discover capitals, continents, rivers, mountains, and world landmarks.",
+  "icon": "🌍",
+  "color": "#3b82f6",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Canberra is the capital of Australia, chosen as a compromise between rivals Sydney and Melbourne."
+    },
+    {
+      "id": 2,
+      "text": "Which is the largest continent by area?",
+      "options": ["Africa", "North America", "Asia", "Europe"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Asia is the largest continent, covering about 44.6 million km² and home to over 4.7 billion people."
+    },
+    {
+      "id": 3,
+      "text": "What is the longest river in the world?",
+      "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Nile River, flowing through northeastern Africa, is widely considered the world's longest river at about 6,650 km."
+    },
+    {
+      "id": 4,
+      "text": "Which country has the largest population in the world?",
+      "options": ["United States", "India", "China", "Indonesia"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "India surpassed China in 2023 to become the world's most populous country, with over 1.4 billion people."
+    },
+    {
+      "id": 5,
+      "text": "What is the capital of Japan?",
+      "options": ["Osaka", "Kyoto", "Hiroshima", "Tokyo"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Tokyo is the capital and largest city of Japan, and one of the world's most populous metropolitan areas."
+    },
+    {
+      "id": 6,
+      "text": "Which ocean is the largest?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 165 million km²."
+    },
+    {
+      "id": 7,
+      "text": "Mount Everest is located in which mountain range?",
+      "options": ["Alps", "Andes", "Rocky Mountains", "Himalayas"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Mount Everest, the world's highest peak at 8,849 m, is located in the Himalayas on the Nepal-Tibet border."
+    },
+    {
+      "id": 8,
+      "text": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Brasília has been the capital of Brazil since 1960, replacing Rio de Janeiro as part of a planned development initiative."
+    },
+    {
+      "id": 9,
+      "text": "Which country contains the Amazon Rainforest's largest portion?",
+      "options": ["Colombia", "Peru", "Venezuela", "Brazil"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Brazil contains about 60% of the Amazon Rainforest, the world's largest tropical rainforest."
+    },
+    {
+      "id": 10,
+      "text": "What is the smallest country in the world by area?",
+      "options": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Vatican City, covering just 0.44 km², is the smallest sovereign state in the world by both area and population."
+    },
+    {
+      "id": 11,
+      "text": "Which desert is the largest hot desert in the world?",
+      "options": ["Arabian Desert", "Gobi Desert", "Sahara Desert", "Kalahari Desert"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Sahara Desert in North Africa is the world's largest hot desert, covering about 9.2 million km²."
+    },
+    {
+      "id": 12,
+      "text": "What is the capital of Canada?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Ottawa is the capital of Canada, located in the province of Ontario near the Quebec border."
+    },
+    {
+      "id": 13,
+      "text": "On which continent is Egypt located?",
+      "options": ["Asia", "Europe", "Africa", "Middle East"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Egypt is located in northeastern Africa, though the Sinai Peninsula extends into Asia."
+    },
+    {
+      "id": 14,
+      "text": "What is the capital of France?",
+      "options": ["Lyon", "Marseille", "Bordeaux", "Paris"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Paris is the capital and largest city of France, known for landmarks like the Eiffel Tower and the Louvre."
+    },
+    {
+      "id": 15,
+      "text": "Which country has the most natural lakes in the world?",
+      "options": ["Russia", "United States", "Finland", "Canada"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Canada has more lakes than any other country, containing about 60% of the world's fresh lakes."
+    },
+    {
+      "id": 16,
+      "text": "What is the tallest mountain in Africa?",
+      "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Stanley", "Ras Dejen"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Mount Kilimanjaro in Tanzania is the highest peak in Africa at 5,895 meters above sea level."
+    },
+    {
+      "id": 17,
+      "text": "Which city is the capital of Argentina?",
+      "options": ["Montevideo", "Santiago", "Lima", "Buenos Aires"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Buenos Aires is the capital and largest city of Argentina, located on the shores of the Río de la Plata."
+    },
+    {
+      "id": 18,
+      "text": "What is the capital of South Africa? (It has three capitals; name the administrative one.)",
+      "options": ["Cape Town", "Bloemfontein", "Pretoria", "Johannesburg"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Pretoria is South Africa's administrative capital; Cape Town is the legislative capital and Bloemfontein is the judicial capital."
+    },
+    {
+      "id": 19,
+      "text": "Through how many countries does the Danube River flow?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Danube flows through 10 countries: Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine."
+    },
+    {
+      "id": 20,
+      "text": "Which country owns the Galápagos Islands?",
+      "options": ["Peru", "Colombia", "Ecuador", "Chile"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Galápagos Islands are an archipelago belonging to Ecuador, famous for inspiring Charles Darwin's theory of evolution."
+    },
+    {
+      "id": 21,
+      "text": "What is the name of the world's largest coral reef system?",
+      "options": ["Mesoamerican Barrier Reef", "Andros Barrier Reef", "Great Barrier Reef", "New Caledonia Barrier Reef"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Great Barrier Reef off the coast of Queensland, Australia, is the world's largest coral reef system, stretching over 2,300 km."
+    },
+    {
+      "id": 22,
+      "text": "Which strait separates Europe from Africa at the Mediterranean's western end?",
+      "options": ["Strait of Hormuz", "Strait of Bosphorus", "Strait of Gibraltar", "Strait of Messina"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Strait of Gibraltar separates Spain (Europe) from Morocco (Africa) and connects the Atlantic Ocean to the Mediterranean Sea."
+    },
+    {
+      "id": 23,
+      "text": "What is the capital of Indonesia?",
+      "options": ["Bali", "Jakarta", "Surabaya", "Nusantara"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Indonesia officially moved its capital from Jakarta to Nusantara (on Borneo island) in 2024."
+    },
+    {
+      "id": 24,
+      "text": "Which African country is entirely surrounded by South Africa?",
+      "options": ["Swaziland (Eswatini)", "Lesotho", "Botswana", "Zimbabwe"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Lesotho is a landlocked country completely surrounded by South Africa, making it one of only three such enclaved nations in the world."
+    },
+    {
+      "id": 25,
+      "text": "What is the largest lake in Africa?",
+      "options": ["Lake Tanganyika", "Lake Malawi", "Lake Victoria", "Lake Chad"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Lake Victoria, shared by Uganda, Kenya, and Tanzania, is Africa's largest lake by surface area."
+    },
+    {
+      "id": 26,
+      "text": "Which country has the longest coastline in the world?",
+      "options": ["Russia", "Norway", "Australia", "Canada"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Canada has the world's longest coastline at approximately 202,080 km, including its mainland and islands."
+    },
+    {
+      "id": 27,
+      "text": "What is the capital of Pakistan?",
+      "options": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Islamabad has been the capital of Pakistan since 1967, replacing Karachi as a planned city."
+    },
+    {
+      "id": 28,
+      "text": "The Atacama Desert is located primarily in which country?",
+      "options": ["Argentina", "Peru", "Bolivia", "Chile"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The Atacama Desert is located mostly in northern Chile and is one of the driest places on Earth."
+    },
+    {
+      "id": 29,
+      "text": "Which river is the longest in South America?",
+      "options": ["Orinoco", "Paraná", "Amazon", "São Francisco"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Amazon River is the longest in South America (~6,400 km) and the largest by water discharge in the world."
+    },
+    {
+      "id": 30,
+      "text": "What is the name of the deepest lake in the world?",
+      "options": ["Lake Superior", "Caspian Sea", "Lake Baikal", "Lake Tanganyika"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Lake Baikal in Siberia, Russia, is the world's deepest lake at 1,642 meters and contains about 20% of Earth's fresh surface water."
+    },
+    {
+      "id": 31,
+      "text": "Which country is both the origin and the end point of the Nile River?",
+      "options": [
+        "It originates in Uganda and empties in Egypt",
+        "It originates in Sudan and empties in Egypt",
+        "It originates in Ethiopia and empties in Egypt",
+        "It originates in Tanzania and empties in Sudan"
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "The White Nile originates near Lake Victoria in Uganda and Tanzania; it flows northward through Sudan and Egypt before emptying into the Mediterranean."
+    },
+    {
+      "id": 32,
+      "text": "How many countries share a land border with Germany?",
+      "options": ["7", "8", "9", "10"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Germany borders 9 countries: Denmark, Poland, Czech Republic, Austria, Switzerland, France, Luxembourg, Belgium, and the Netherlands."
+    },
+    {
+      "id": 33,
+      "text": "What is the capital of Kenya?",
+      "options": ["Mombasa", "Kampala", "Nairobi", "Addis Ababa"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Nairobi is the capital and largest city of Kenya and serves as a major hub for East Africa."
+    },
+    {
+      "id": 34,
+      "text": "Which mountain range separates Europe from Asia?",
+      "options": ["Caucasus Mountains", "Alps", "Carpathians", "Ural Mountains"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The Ural Mountains in Russia are traditionally considered one of the main geographical boundaries between Europe and Asia."
+    },
+    {
+      "id": 35,
+      "text": "In which country is the Dead Sea located?",
+      "options": [
+        "Egypt and Jordan",
+        "Israel and Jordan",
+        "Israel, Jordan, and Palestinian territories",
+        "Lebanon and Syria"
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Dead Sea borders Israel, Jordan, and the West Bank (Palestinian territories), and is the lowest point on Earth's surface."
+    },
+    {
+      "id": 36,
+      "text": "What is the capital of Kazakhstan, the world's largest landlocked country?",
+      "options": ["Almaty", "Nur-Sultan (Astana)", "Shymkent", "Aktobe"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The capital of Kazakhstan is Astana (formerly Nur-Sultan), which replaced Almaty as the capital in 1997."
+    },
+    {
+      "id": 37,
+      "text": "Which country has the most time zones?",
+      "options": ["Russia", "United States", "China", "France"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "France has 12 time zones due to its overseas territories spread around the globe, more than any other country."
+    },
+    {
+      "id": 38,
+      "text": "What is the name of the tectonic plate that India sits on?",
+      "options": ["Eurasian Plate", "African Plate", "Indo-Australian Plate", "Arabian Plate"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "India rests on the Indo-Australian Plate, whose collision with the Eurasian Plate formed the Himalayas."
+    },
+    {
+      "id": 39,
+      "text": "What is the name of the world's longest mountain range, mostly underwater?",
+      "options": ["Andes", "Mid-Ocean Ridge", "Himalayas", "Rockies"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Mid-Ocean Ridge system is the world's longest mountain range at ~65,000 km, mostly submerged beneath the ocean."
+    },
+    {
+      "id": 40,
+      "text": "Which African country has the most pyramids?",
+      "options": ["Egypt", "Libya", "Sudan", "Ethiopia"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Sudan (ancient Nubia) has more than 200 pyramids—more than Egypt—built by the rulers of the ancient Kushite kingdoms."
+    },
+    {
+      "id": 41,
+      "text": "What is the capital of Bhutan?",
+      "options": ["Kathmandu", "Paro", "Thimphu", "Punakha"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Thimphu is the capital and largest city of Bhutan, situated in the western central part of the country."
+    },
+    {
+      "id": 42,
+      "text": "The Strait of Malacca connects which two bodies of water?",
+      "options": [
+        "South China Sea and the Bay of Bengal",
+        "Andaman Sea and the Java Sea",
+        "Indian Ocean and the Pacific Ocean",
+        "South China Sea and the Indian Ocean"
+      ],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Strait of Malacca connects the South China Sea to the Indian Ocean and is one of the world's busiest shipping lanes."
+    },
+    {
+      "id": 43,
+      "text": "Which country contains the geographic center of Europe (commonly cited near Sumen, Belarus)?",
+      "options": ["Poland", "Ukraine", "Belarus", "Lithuania"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The geographic center of Europe is often cited as being in Belarus, near the town of Polotsk or Suman, depending on the calculation method."
+    },
+    {
+      "id": 44,
+      "text": "What is the name of the current that moderates the climate of Northwest Europe?",
+      "options": ["Humboldt Current", "Labrador Current", "Gulf Stream", "California Current"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Gulf Stream is a warm Atlantic Ocean current that flows from the Gulf of Mexico to Europe, keeping northwest European climates milder."
+    },
+    {
+      "id": 45,
+      "text": "What is the capital of Myanmar (Burma)?",
+      "options": ["Yangon (Rangoon)", "Mandalay", "Naypyidaw", "Bago"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Naypyidaw became Myanmar's capital in 2006, replacing Yangon as part of the military government's plan to build a new administrative center."
+    },
+    {
+      "id": 46,
+      "text": "The Mariana Trench, the deepest point on Earth, is located in which ocean?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Mariana Trench is located in the western Pacific Ocean near the Mariana Islands and reaches a depth of about 11,034 meters."
+    },
+    {
+      "id": 47,
+      "text": "Which country has the highest average elevation?",
+      "options": ["Nepal", "Bhutan", "Tibet (China)", "Lesotho"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Tibet Autonomous Region of China has the highest average elevation of any region at over 4,500 meters above sea level."
+    },
+    {
+      "id": 48,
+      "text": "What is the name of the vast, flat, elevated plateau in South America known as the 'roof of the Americas'?",
+      "options": ["Patagonia", "Altiplano", "Pantanal", "Gran Chaco"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Altiplano is a high plateau in the Andes, spanning Bolivia and Peru, averaging about 3,750 m above sea level."
+    },
+    {
+      "id": 49,
+      "text": "Which country contains the most UNESCO World Heritage Sites?",
+      "options": ["China", "France", "Spain", "Italy"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Italy leads the world with 58 UNESCO World Heritage Sites as of 2024, followed closely by China."
+    },
+    {
+      "id": 50,
+      "text": "What is the Coriolis effect in geography?",
+      "options": [
+        "The warming of ocean currents near the equator",
+        "The deflection of winds and currents due to Earth's rotation",
+        "The rising of warm air over land masses",
+        "The melting of polar ice due to heat transfer"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Coriolis effect is the deflection of moving air and water caused by Earth's rotation — to the right in the Northern Hemisphere and left in the Southern."
+    }
+  ]
+}

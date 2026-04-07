@@ -1,0 +1,23 @@
+[
+  { "id": "science",     "name": "Science",              "icon": "🔬", "color": "#10b981", "description": "Explore physics, chemistry, biology, and the wonders of our world." },
+  { "id": "history",     "name": "History",              "icon": "📜", "color": "#f59e0b", "description": "Journey through ancient civilizations, empires, wars, and iconic leaders." },
+  { "id": "geography",   "name": "Geography",            "icon": "🌍", "color": "#3b82f6", "description": "Discover capitals, continents, rivers, mountains, and world landmarks." },
+  { "id": "technology",  "name": "Technology",           "icon": "💻", "color": "#6366f1", "description": "Test your knowledge of computers, internet, and tech innovations." },
+  { "id": "sports",      "name": "Sports",               "icon": "⚽", "color": "#ef4444", "description": "Dive into the world of athletes, records, and legendary sporting moments." },
+  { "id": "music",       "name": "Music",                "icon": "🎵", "color": "#ec4899", "description": "Explore genres, legendary artists, instruments, and music history." },
+  { "id": "movies",      "name": "Movies & TV",          "icon": "🎬", "color": "#f97316", "description": "Test your knowledge of cinema, TV, and Hollywood legends." },
+  { "id": "art",         "name": "Art & Design",         "icon": "🎨", "color": "#8b5cf6", "description": "Explore the world of famous artists, movements, and masterpieces." },
+  { "id": "food",        "name": "Food & Cooking",       "icon": "🍕", "color": "#dc2626", "description": "Savor questions on cuisines, chefs, and culinary history worldwide." },
+  { "id": "mathematics", "name": "Mathematics",          "icon": "➗", "color": "#0891b2", "description": "Test your skills across arithmetic, algebra, geometry, and more!" },
+  { "id": "literature",  "name": "Literature",           "icon": "📚", "color": "#7c3aed", "description": "Explore classic novels, famous authors, poetry, and literary history!" },
+  { "id": "nature",      "name": "Nature & Animals",     "icon": "🦁", "color": "#16a34a", "description": "Discover the wonders of wildlife, habitats, and the natural world!" },
+  { "id": "space",       "name": "Space & Astronomy",    "icon": "🚀", "color": "#1e40af", "description": "Explore the cosmos, from planets to black holes." },
+  { "id": "health",      "name": "Health & Medicine",    "icon": "🏥", "color": "#dc2626", "description": "Test your knowledge of the human body and medicine." },
+  { "id": "gaming",      "name": "Video Games",          "icon": "🎮", "color": "#7c3aed", "description": "Level up your knowledge of gaming history and culture." },
+  { "id": "politics",    "name": "Politics & Government","icon": "🏛️", "color": "#1d4ed8", "description": "Test your knowledge of world leaders, elections, and governance." },
+  { "id": "economics",   "name": "Economics & Business", "icon": "💰", "color": "#059669", "description": "Explore markets, entrepreneurs, and the forces shaping our economy." },
+  { "id": "philosophy",  "name": "Philosophy",           "icon": "🤔", "color": "#6d28d9", "description": "Explore ancient wisdom, ethics, logic, and humanity's deepest questions." },
+  { "id": "language",    "name": "Language & Words",     "icon": "🗣️", "color": "#d97706", "description": "Test your knowledge of words, grammar, and language origins." },
+  { "id": "pop_culture", "name": "Pop Culture",          "icon": "⭐", "color": "#f43f5e", "description": "From viral memes to celebrity moments, how well do you know pop culture?" },
+  { "id": "travel",      "name": "Travel & Landmarks",   "icon": "✈️", "color": "#0284c7", "description": "Explore the world's most iconic destinations and landmarks." }
+]

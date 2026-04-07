@@ -1,0 +1,409 @@
+{
+  "id": "nature",
+  "name": "Nature & Animals",
+  "description": "Discover the wonders of wildlife, habitats, and the natural world!",
+  "icon": "🦁",
+  "color": "#16a34a",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the largest land animal on Earth?",
+      "options": ["Hippopotamus", "White Rhinoceros", "African Elephant", "Giraffe"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The African elephant is the largest living land animal, with males weighing up to 14,000 lbs."
+    },
+    {
+      "id": 2,
+      "text": "What do you call an animal that eats only plants?",
+      "options": ["Carnivore", "Herbivore", "Omnivore", "Insectivore"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A herbivore is an animal that feeds exclusively on plants and plant matter."
+    },
+    {
+      "id": 3,
+      "text": "How many legs does a spider have?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Spiders are arachnids and have 8 legs, unlike insects which have 6."
+    },
+    {
+      "id": 4,
+      "text": "What is the fastest land animal?",
+      "options": ["Lion", "Greyhound", "Cheetah", "Pronghorn Antelope"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The cheetah is the fastest land animal, reaching speeds of up to 70–75 mph in short bursts."
+    },
+    {
+      "id": 5,
+      "text": "What is a group of lions called?",
+      "options": ["Pack", "Herd", "Pride", "Colony"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A group of lions is called a pride, typically consisting of related females and their cubs."
+    },
+    {
+      "id": 6,
+      "text": "Which bird is known for its ability to mimic human speech?",
+      "options": ["Robin", "Sparrow", "Parrot", "Crow"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Parrots, especially African Grey Parrots, are well known for their ability to mimic human speech."
+    },
+    {
+      "id": 7,
+      "text": "What is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean, covering about one-third of Earth's surface."
+    },
+    {
+      "id": 8,
+      "text": "Which reptile is known for being able to change its skin color?",
+      "options": ["Gecko", "Iguana", "Chameleon", "Komodo Dragon"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Chameleons can change their skin color for communication, temperature regulation, and camouflage."
+    },
+    {
+      "id": 9,
+      "text": "What is the main diet of a giant panda?",
+      "options": ["Fish", "Insects", "Bamboo", "Fruit"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Giant pandas eat almost exclusively bamboo, consuming up to 84 pounds of it per day."
+    },
+    {
+      "id": 10,
+      "text": "What type of animal is a dolphin?",
+      "options": ["Fish", "Reptile", "Amphibian", "Mammal"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Dolphins are marine mammals; they breathe air, give birth to live young, and nurse with milk."
+    },
+    {
+      "id": 11,
+      "text": "What is the term for animals that are active during the night?",
+      "options": ["Diurnal", "Crepuscular", "Nocturnal", "Migratory"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Nocturnal animals are active primarily during the night, like owls, bats, and raccoons."
+    },
+    {
+      "id": 12,
+      "text": "Which is the largest bird in the world by height?",
+      "options": ["Emu", "Cassowary", "Ostrich", "Albatross"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The ostrich is the tallest and heaviest bird, standing up to 9 feet tall."
+    },
+    {
+      "id": 13,
+      "text": "What is the term for the process by which plants make food using sunlight?",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Germination"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Photosynthesis is the process by which plants use sunlight to convert CO₂ and water into food."
+    },
+    {
+      "id": 14,
+      "text": "How do bees communicate the location of flowers to other bees?",
+      "options": ["By chirping sounds", "By releasing chemicals", "By doing a waggle dance", "By touching antennae"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Honeybees perform the waggle dance to communicate the direction and distance of food sources."
+    },
+    {
+      "id": 15,
+      "text": "What is the largest species of shark?",
+      "options": ["Great White Shark", "Bull Shark", "Whale Shark", "Tiger Shark"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The whale shark is the largest fish species, growing up to 40 feet long; it feeds on plankton."
+    },
+    {
+      "id": 16,
+      "text": "What do we call an animal that can live both on land and in water?",
+      "options": ["Reptile", "Amphibian", "Marine mammal", "Semiaquatic"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Amphibians like frogs and salamanders can live both on land and in water."
+    },
+    {
+      "id": 17,
+      "text": "Which continent is home to the Amazon Rainforest?",
+      "options": ["Africa", "Asia", "South America", "Australia"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Amazon Rainforest is located primarily in Brazil, South America."
+    },
+    {
+      "id": 18,
+      "text": "What is the term for seasonal movement of animals from one region to another?",
+      "options": ["Hibernation", "Dormancy", "Migration", "Adaptation"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Migration is the regular seasonal movement of animals between breeding and wintering grounds."
+    },
+    {
+      "id": 19,
+      "text": "What is the gestation period of an African elephant?",
+      "options": ["6 months", "12 months", "18 months", "22 months"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "African elephants have the longest gestation period of any land mammal, at approximately 22 months."
+    },
+    {
+      "id": 20,
+      "text": "What is the name of the process by which a caterpillar transforms into a butterfly?",
+      "options": ["Metamorphosis", "Evolution", "Adaptation", "Pupation"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Metamorphosis is the biological process of transformation; the pupal stage is part of complete metamorphosis."
+    },
+    {
+      "id": 21,
+      "text": "Which ecosystem has the highest biodiversity per unit area?",
+      "options": ["Temperate forest", "Coral reef", "Grassland", "Arctic tundra"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Coral reefs are among the most biodiverse ecosystems on Earth, housing 25% of all marine species."
+    },
+    {
+      "id": 22,
+      "text": "What do male peacocks use their elaborate tail feathers for?",
+      "options": ["Camouflage", "Attracting mates", "Regulating body temperature", "Warning predators"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Male peacocks fan their iridescent tail feathers to attract females during courtship displays."
+    },
+    {
+      "id": 23,
+      "text": "Which venomous mammal uses its rear leg spurs to inject venom?",
+      "options": ["Vampire bat", "Slow loris", "Platypus", "Shrew"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The male platypus has venomous spurs on its hind legs used primarily during competition with rivals."
+    },
+    {
+      "id": 24,
+      "text": "What is the largest species of penguin?",
+      "options": ["Chinstrap Penguin", "Macaroni Penguin", "King Penguin", "Emperor Penguin"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The Emperor Penguin is the tallest and heaviest penguin species, standing up to 3.7 feet tall."
+    },
+    {
+      "id": 25,
+      "text": "Which animal has the longest lifespan in the wild?",
+      "options": ["Elephant", "Greenland Shark", "Giant Tortoise", "Bowhead Whale"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Greenland Shark can live over 400 years, making it the longest-lived vertebrate known."
+    },
+    {
+      "id": 26,
+      "text": "What is the term for an animal that eats both plants and meat?",
+      "options": ["Herbivore", "Carnivore", "Omnivore", "Detritivore"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "An omnivore consumes both plant and animal matter; examples include bears, pigs, and humans."
+    },
+    {
+      "id": 27,
+      "text": "How do fireflies produce light?",
+      "options": ["Reflection of moonlight", "Bioluminescence", "Static electricity", "Ultraviolet absorption"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Fireflies produce light through bioluminescence, a chemical reaction involving luciferin and oxygen."
+    },
+    {
+      "id": 28,
+      "text": "Which bird has the longest wingspan of any living bird?",
+      "options": ["Bald Eagle", "Andean Condor", "Wandering Albatross", "California Condor"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Wandering Albatross has the longest wingspan of any living bird, up to 11.5 feet across."
+    },
+    {
+      "id": 29,
+      "text": "What is the name of the symbiotic relationship where one organism benefits and the other is neither harmed nor helped?",
+      "options": ["Mutualism", "Parasitism", "Commensalism", "Competition"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Commensalism is a relationship where one organism benefits while the other is unaffected."
+    },
+    {
+      "id": 30,
+      "text": "Which is the only continent where wolves are not found naturally?",
+      "options": ["Africa", "South America", "Australia", "Antarctica"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Australia has no native wolves; its large carnivores include the dingo (introduced) and Tasmanian devil."
+    },
+    {
+      "id": 31,
+      "text": "What is the primary purpose of a porcupine's quills?",
+      "options": ["Attracting mates", "Regulating body temperature", "Defense against predators", "Sensing the environment"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A porcupine's quills are modified hairs that serve as a defense mechanism against predators."
+    },
+    {
+      "id": 32,
+      "text": "What is the name of the migratory route used by monarch butterflies?",
+      "options": ["Atlantic Flyway", "Pacific Flyway", "Eastern Flyway", "They do not use named routes"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Monarch butterflies travel up to 3,000 miles but their routes are not designated flyways like birds."
+    },
+    {
+      "id": 33,
+      "text": "Which ocean zone receives no sunlight?",
+      "options": ["Sunlight zone", "Twilight zone", "Midnight zone", "Abyssal zone"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The midnight zone (below 1,000 meters) receives no sunlight at all, making it completely dark."
+    },
+    {
+      "id": 34,
+      "text": "What is the critically endangered status of the Amur leopard?",
+      "options": ["Least Concern", "Near Threatened", "Vulnerable", "Critically Endangered"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The Amur leopard is Critically Endangered, with fewer than 100 adults remaining in the wild."
+    },
+    {
+      "id": 35,
+      "text": "Which insect is responsible for pollinating most of the world's crops?",
+      "options": ["Butterfly", "Honeybee", "Bumblebee", "Moth"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Honeybees are the world's most important pollinators, contributing to about one-third of the food supply."
+    },
+    {
+      "id": 36,
+      "text": "What feature makes a bird a bird (shared by all birds)?",
+      "options": ["The ability to fly", "Having feathers", "Being warm-blooded", "Laying eggs"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Feathers are the defining characteristic of birds; all birds have feathers, even flightless ones."
+    },
+    {
+      "id": 37,
+      "text": "What is the term for the relationship where both organisms benefit from each other?",
+      "options": ["Parasitism", "Mutualism", "Commensalism", "Amensalism"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Mutualism is a symbiotic relationship in which both organisms benefit, such as bees and flowers."
+    },
+    {
+      "id": 38,
+      "text": "Approximately how many neurons does an octopus have in total?",
+      "options": ["50 million", "500 million", "5 billion", "50 billion"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "An octopus has about 500 million neurons, roughly two-thirds of which are in its arms."
+    },
+    {
+      "id": 39,
+      "text": "What is the scientific term for animals that maintain a constant body temperature regardless of their environment?",
+      "options": ["Ectothermic", "Endothermic", "Poikilothermic", "Heterothermic"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Endothermic animals (like mammals and birds) generate their own body heat to maintain a constant temperature."
+    },
+    {
+      "id": 40,
+      "text": "Which species of whale is known for producing the most complex songs?",
+      "options": ["Blue Whale", "Sperm Whale", "Orca", "Humpback Whale"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Humpback whales are renowned for their long, complex songs, which can last for hours."
+    },
+    {
+      "id": 41,
+      "text": "What is the IUCN Red List status of the Javan Rhinoceros?",
+      "options": ["Vulnerable", "Endangered", "Critically Endangered", "Extinct in the Wild"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Javan Rhinoceros is Critically Endangered, with only about 70 individuals remaining."
+    },
+    {
+      "id": 42,
+      "text": "What is the process by which certain bacteria convert atmospheric nitrogen into a usable form?",
+      "options": ["Denitrification", "Nitrification", "Nitrogen fixation", "Ammonification"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Nitrogen fixation is the conversion of atmospheric N₂ into ammonia by bacteria like Rhizobium."
+    },
+    {
+      "id": 43,
+      "text": "Which of these animals uses echolocation?",
+      "options": ["Eagle", "Salmon", "Bat", "Grizzly Bear"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Bats use echolocation — emitting high-frequency sounds and interpreting the echoes — to navigate and hunt."
+    },
+    {
+      "id": 44,
+      "text": "What is the approximate number of species of beetles, making them the largest insect order?",
+      "options": ["10,000", "100,000", "400,000", "1,000,000"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Coleoptera (beetles) contains about 400,000 described species, more than any other order of animals."
+    },
+    {
+      "id": 45,
+      "text": "What is the name of the chemical process by which plants release water through their leaves?",
+      "options": ["Evaporation", "Transpiration", "Condensation", "Osmosis"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Transpiration is the process by which plants release water vapor through stomata in their leaves."
+    },
+    {
+      "id": 46,
+      "text": "Which ecosystem stores the most carbon per unit area?",
+      "options": ["Tropical rainforest", "Temperate forest", "Peatland", "Ocean photic zone"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Peatlands store approximately twice as much carbon per unit area as any other terrestrial ecosystem."
+    },
+    {
+      "id": 47,
+      "text": "What is the primary reason the dodo became extinct?",
+      "options": ["Climate change", "Disease", "Overhunting and introduced predators", "Habitat loss from volcanoes"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The dodo became extinct in the 17th century due to overhunting by sailors and predation by introduced animals."
+    },
+    {
+      "id": 48,
+      "text": "What is 'keystone species'?",
+      "options": ["The most numerous species in an ecosystem", "A species whose impact on its ecosystem is disproportionately large", "A species at the top of the food chain", "A species endemic to a single region"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A keystone species has a disproportionately large effect on its ecosystem relative to its abundance."
+    },
+    {
+      "id": 49,
+      "text": "What is the scientific name for the domestic dog?",
+      "options": ["Canis familiaris", "Canis lupus familiaris", "Canis domesticus", "Lupus familiaris"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The domestic dog's scientific name is Canis lupus familiaris, a subspecies of the gray wolf."
+    },
+    {
+      "id": 50,
+      "text": "What is the term for an animal species that exists only in one specific geographic area?",
+      "options": ["Invasive", "Migratory", "Endemic", "Cosmopolitan"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "An endemic species is native to and restricted to a particular geographic region."
+    }
+  ]
+}

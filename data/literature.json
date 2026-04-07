@@ -1,0 +1,409 @@
+{
+  "id": "literature",
+  "name": "Literature",
+  "description": "Explore classic novels, famous authors, poetry, and literary history!",
+  "icon": "📚",
+  "color": "#7c3aed",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Charlotte Brontë", "Jane Austen", "Mary Shelley", "George Eliot"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Jane Austen published 'Pride and Prejudice' in 1813."
+    },
+    {
+      "id": 2,
+      "text": "In which Shakespeare play does the character Hamlet appear?",
+      "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Hamlet is the protagonist of Shakespeare's tragedy 'Hamlet', written around 1600."
+    },
+    {
+      "id": 3,
+      "text": "What is the opening line of 'A Tale of Two Cities' by Charles Dickens?",
+      "options": ["Call me Ishmael.", "It was the best of times, it was the worst of times.", "It is a truth universally acknowledged,", "Happy families are all alike."],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "'It was the best of times, it was the worst of times' is the famous opening of Dickens' novel."
+    },
+    {
+      "id": 4,
+      "text": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Truman Capote", "Harper Lee", "John Steinbeck", "Ernest Hemingway"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Harper Lee published 'To Kill a Mockingbird' in 1960, winning the Pulitzer Prize."
+    },
+    {
+      "id": 5,
+      "text": "What does the word 'protagonist' mean in literary terms?",
+      "options": ["The villain of the story", "The main character of the story", "A minor supporting character", "The narrator of the story"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The protagonist is the main character around whom the story centers."
+    },
+    {
+      "id": 6,
+      "text": "Who wrote the epic poem 'The Odyssey'?",
+      "options": ["Virgil", "Dante", "Homer", "Sophocles"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Homer is the ancient Greek poet credited with composing 'The Odyssey'."
+    },
+    {
+      "id": 7,
+      "text": "What is the name of the school Harry Potter attends?",
+      "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Harry Potter attends Hogwarts School of Witchcraft and Wizardry in J.K. Rowling's series."
+    },
+    {
+      "id": 8,
+      "text": "Who wrote '1984'?",
+      "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "H.G. Wells"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "George Orwell published the dystopian novel '1984' in 1949."
+    },
+    {
+      "id": 9,
+      "text": "What is a haiku?",
+      "options": ["A 14-line poem with a rhyme scheme", "A Japanese poem with 5-7-5 syllables", "A poem with no fixed form", "A poem that tells a story"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A haiku is a Japanese poetic form consisting of three lines with 5, 7, and 5 syllables."
+    },
+    {
+      "id": 10,
+      "text": "Which Shakespeare play features the characters Romeo and Juliet?",
+      "options": ["A Midsummer Night's Dream", "Much Ado About Nothing", "Romeo and Juliet", "The Tempest"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "'Romeo and Juliet' is one of Shakespeare's most famous tragedies, written around 1595."
+    },
+    {
+      "id": 11,
+      "text": "Who wrote 'The Great Gatsby'?",
+      "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Dos Passos", "Sinclair Lewis"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "F. Scott Fitzgerald published 'The Great Gatsby' in 1925."
+    },
+    {
+      "id": 12,
+      "text": "What literary device involves giving human qualities to non-human things?",
+      "options": ["Alliteration", "Metaphor", "Personification", "Simile"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Personification attributes human characteristics to animals, objects, or abstract ideas."
+    },
+    {
+      "id": 13,
+      "text": "Who wrote 'Don Quixote'?",
+      "options": ["Lope de Vega", "Miguel de Cervantes", "Francisco de Quevedo", "García Lorca"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Miguel de Cervantes wrote 'Don Quixote', published in two parts in 1605 and 1615."
+    },
+    {
+      "id": 14,
+      "text": "In 'Moby-Dick', what is the name of the ship's captain obsessed with the white whale?",
+      "options": ["Captain Hook", "Captain Ahab", "Captain Nemo", "Captain Silver"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Captain Ahab is the obsessed captain in Herman Melville's 'Moby-Dick' (1851)."
+    },
+    {
+      "id": 15,
+      "text": "What is the term for a word that imitates the sound it describes, like 'buzz' or 'crash'?",
+      "options": ["Alliteration", "Assonance", "Onomatopoeia", "Synesthesia"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Onomatopoeia refers to words that phonetically imitate or resemble the sound they describe."
+    },
+    {
+      "id": 16,
+      "text": "Who wrote 'The Canterbury Tales'?",
+      "options": ["William Shakespeare", "John Milton", "Geoffrey Chaucer", "Edmund Spenser"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Geoffrey Chaucer wrote 'The Canterbury Tales' in the late 14th century."
+    },
+    {
+      "id": 17,
+      "text": "What is the name of the narrator in Herman Melville's 'Moby-Dick'?",
+      "options": ["Queequeg", "Ishmael", "Starbuck", "Pip"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The novel begins with 'Call me Ishmael,' establishing the narrator's name."
+    },
+    {
+      "id": 18,
+      "text": "Which author won the first Nobel Prize in Literature in 1901?",
+      "options": ["Leo Tolstoy", "Émile Zola", "Sully Prudhomme", "Rudyard Kipling"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Sully Prudhomme, a French poet, was awarded the first Nobel Prize in Literature in 1901."
+    },
+    {
+      "id": 19,
+      "text": "What is the term for a narrator who tells a story about themselves?",
+      "options": ["Omniscient narrator", "First-person narrator", "Third-person narrator", "Unreliable narrator"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A first-person narrator tells the story from their own perspective using 'I'."
+    },
+    {
+      "id": 20,
+      "text": "In which novel does the character Atticus Finch appear?",
+      "options": ["Of Mice and Men", "The Catcher in the Rye", "To Kill a Mockingbird", "Invisible Man"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Atticus Finch is the lawyer and father in Harper Lee's 'To Kill a Mockingbird'."
+    },
+    {
+      "id": 21,
+      "text": "What is the setting of Shakespeare's play 'Othello'?",
+      "options": ["Athens and a forest", "Denmark", "Venice and Cyprus", "Rome"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Othello is set primarily in Venice and then Cyprus, reflecting Shakespeare's Venetian settings."
+    },
+    {
+      "id": 22,
+      "text": "Who wrote 'Crime and Punishment'?",
+      "options": ["Leo Tolstoy", "Anton Chekhov", "Fyodor Dostoevsky", "Ivan Turgenev"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Fyodor Dostoevsky published 'Crime and Punishment' in 1866."
+    },
+    {
+      "id": 23,
+      "text": "What literary term describes the use of clues to hint at future events in a story?",
+      "options": ["Flashback", "Foreshadowing", "In medias res", "Stream of consciousness"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Foreshadowing is a literary device that provides hints or clues about events that will happen later."
+    },
+    {
+      "id": 24,
+      "text": "Which poet wrote 'The Raven'?",
+      "options": ["Walt Whitman", "Henry Wadsworth Longfellow", "Edgar Allan Poe", "Emily Dickinson"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Edgar Allan Poe published 'The Raven' in 1845, making it one of his most famous works."
+    },
+    {
+      "id": 25,
+      "text": "What is the name of the farm in George Orwell's 'Animal Farm'?",
+      "options": ["Green Acres", "Manor Farm", "Sunnyside Farm", "Windmill Farm"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The story takes place on Manor Farm, which the animals rename Animal Farm after the rebellion."
+    },
+    {
+      "id": 26,
+      "text": "Which Shakespeare play contains the line 'To be, or not to be: that is the question'?",
+      "options": ["King Lear", "Macbeth", "Othello", "Hamlet"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "This famous soliloquy is spoken by Hamlet in Act 3, Scene 1 of Shakespeare's 'Hamlet'."
+    },
+    {
+      "id": 27,
+      "text": "What is a sonnet?",
+      "options": ["A poem with 12 lines", "A poem with 14 lines", "A poem with 16 lines", "A poem with varying line counts"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A sonnet is a 14-line poem, traditionally in iambic pentameter."
+    },
+    {
+      "id": 28,
+      "text": "Who wrote 'Wuthering Heights'?",
+      "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Anne Brontë"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Emily Brontë wrote 'Wuthering Heights', published in 1847 under the pseudonym Ellis Bell."
+    },
+    {
+      "id": 29,
+      "text": "In which country was the author Gabriel García Márquez born?",
+      "options": ["Argentina", "Chile", "Colombia", "Mexico"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Gabriel García Márquez was born in Aracataca, Colombia in 1927."
+    },
+    {
+      "id": 30,
+      "text": "What is the term for a story within a story?",
+      "options": ["Allegory", "Diegesis", "Frame narrative", "Metafiction"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A frame narrative is a story that contains another story within it."
+    },
+    {
+      "id": 31,
+      "text": "Who wrote 'The Catcher in the Rye'?",
+      "options": ["Jack Kerouac", "J.D. Salinger", "Norman Mailer", "William Faulkner"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "J.D. Salinger published 'The Catcher in the Rye' in 1951."
+    },
+    {
+      "id": 32,
+      "text": "What is the literary term for extreme exaggeration used for effect?",
+      "options": ["Euphemism", "Hyperbole", "Litotes", "Understatement"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Hyperbole is deliberate exaggeration used for emphasis or comic effect."
+    },
+    {
+      "id": 33,
+      "text": "Which of Shakespeare's plays is the longest?",
+      "options": ["King Lear", "Macbeth", "Hamlet", "Othello"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Hamlet is Shakespeare's longest play, with approximately 4,000 lines."
+    },
+    {
+      "id": 34,
+      "text": "Who wrote the novel 'Beloved'?",
+      "options": ["Alice Walker", "Zora Neale Hurston", "Toni Morrison", "Maya Angelou"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Toni Morrison wrote 'Beloved' (1987), which won the Pulitzer Prize for Fiction."
+    },
+    {
+      "id": 35,
+      "text": "What is a 'bildungsroman'?",
+      "options": ["A German tragedy", "A coming-of-age novel", "A historical novel", "A political satire"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A bildungsroman is a novel that follows the moral and psychological growth of the protagonist."
+    },
+    {
+      "id": 36,
+      "text": "Which poet is famous for the line 'I think that I shall never see / A poem lovely as a tree'?",
+      "options": ["Robert Frost", "Joyce Kilmer", "Carl Sandburg", "e.e. cummings"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Joyce Kilmer wrote the poem 'Trees' (1913), which opens with this famous couplet."
+    },
+    {
+      "id": 37,
+      "text": "In which year was James Joyce's 'Ulysses' first published?",
+      "options": ["1916", "1918", "1920", "1922"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "James Joyce's 'Ulysses' was first published in book form in Paris in 1922."
+    },
+    {
+      "id": 38,
+      "text": "What literary movement did T.S. Eliot and Ezra Pound help define?",
+      "options": ["Romanticism", "Modernism", "Postmodernism", "Realism"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Eliot and Pound were central figures of literary Modernism in the early 20th century."
+    },
+    {
+      "id": 39,
+      "text": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": ["Jorge Luis Borges", "Julio Cortázar", "Gabriel García Márquez", "Mario Vargas Llosa"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Gabriel García Márquez published 'One Hundred Years of Solitude' in 1967."
+    },
+    {
+      "id": 40,
+      "text": "What is the term for a literary work that imitates the style of another work for comic effect?",
+      "options": ["Allegory", "Pastiche", "Parody", "Satire"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "A parody imitates the style of another work or author for comic or critical effect."
+    },
+    {
+      "id": 41,
+      "text": "Which Russian author wrote 'Anna Karenina' and 'War and Peace'?",
+      "options": ["Fyodor Dostoevsky", "Ivan Turgenev", "Leo Tolstoy", "Nikolai Gogol"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Leo Tolstoy wrote both 'War and Peace' (1869) and 'Anna Karenina' (1877)."
+    },
+    {
+      "id": 42,
+      "text": "What is the term for the repetition of consonant sounds at the beginning of words?",
+      "options": ["Alliteration", "Assonance", "Consonance", "Sibilance"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Alliteration is the repetition of the same consonant sound at the beginning of nearby words."
+    },
+    {
+      "id": 43,
+      "text": "Which author coined the phrase 'the road not taken' in a famous poem?",
+      "options": ["Walt Whitman", "Robert Frost", "Carl Sandburg", "William Blake"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Robert Frost wrote 'The Road Not Taken' (1916), which concludes with a reflection on choosing a path."
+    },
+    {
+      "id": 44,
+      "text": "What is the name of the technique that presents a character's thoughts as a continuous flow without logical structure?",
+      "options": ["Free indirect discourse", "Interior monologue", "Stream of consciousness", "Unreliable narration"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Stream of consciousness attempts to capture the natural flow of a character's thoughts and feelings."
+    },
+    {
+      "id": 45,
+      "text": "Which author won the Nobel Prize in Literature in 2016, controversially for song lyrics?",
+      "options": ["Leonard Cohen", "Bob Dylan", "Paul Simon", "Tom Waits"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Bob Dylan won the 2016 Nobel Prize in Literature 'for having created new poetic expressions within the great American song tradition.'"
+    },
+    {
+      "id": 46,
+      "text": "In Dante's 'Divine Comedy', who serves as Dante's guide through Hell and Purgatory?",
+      "options": ["Beatrice", "Homer", "Plato", "Virgil"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Roman poet Virgil serves as Dante's guide through Hell (Inferno) and Purgatory."
+    },
+    {
+      "id": 47,
+      "text": "What is 'magical realism' as a literary genre?",
+      "options": ["Fantasy stories set in alternate worlds", "Stories where magical elements coexist naturally with the realistic setting", "Historical fiction with impossible technology", "Science fiction set in ancient times"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Magical realism blends realistic narrative with surreal or magical elements treated as normal within the story."
+    },
+    {
+      "id": 48,
+      "text": "Which Nobel laureate wrote 'The Tin Drum'?",
+      "options": ["Heinrich Böll", "Günter Grass", "Thomas Mann", "Herman Hesse"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Günter Grass wrote 'The Tin Drum' (1959) and won the Nobel Prize in Literature in 1999."
+    },
+    {
+      "id": 49,
+      "text": "What is an 'unreliable narrator'?",
+      "options": ["A narrator who breaks the fourth wall", "A narrator whose credibility is compromised", "A narrator who uses stream of consciousness", "A narrator who speaks in second person"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "An unreliable narrator is one whose account of events is compromised by bias, limited knowledge, or dishonesty."
+    },
+    {
+      "id": 50,
+      "text": "In which Shakespeare play does the witches' prophecy 'All hail, Macbeth! that shalt be king hereafter' appear?",
+      "options": ["Hamlet", "King Lear", "Macbeth", "The Tempest"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The three witches deliver this prophecy to Macbeth in Act 1, Scene 3 of 'Macbeth'."
+    }
+  ]
+}

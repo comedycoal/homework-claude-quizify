@@ -1,0 +1,409 @@
+{
+  "id": "food",
+  "name": "Food & Cooking",
+  "description": "Savor questions on cuisines, chefs, and culinary history worldwide.",
+  "icon": "🍕",
+  "color": "#dc2626",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Lime", "Jalapeño"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Guacamole is made primarily from mashed avocados, originating from Aztec cuisine in Mexico."
+    },
+    {
+      "id": 2,
+      "text": "Which country is the origin of sushi?",
+      "options": ["China", "Korea", "Japan", "Thailand"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Sushi originated in Japan, evolving from a preservation method where fish was fermented with rice."
+    },
+    {
+      "id": 3,
+      "text": "What type of pasta is shaped like small rice grains?",
+      "options": ["Orzo", "Vermicelli", "Ditalini", "Acini di pepe"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Orzo is a rice-shaped pasta whose name means 'barley' in Italian, commonly used in soups and salads."
+    },
+    {
+      "id": 4,
+      "text": "Which spice is known as 'saffron' and comes from a crocus flower?",
+      "options": ["Turmeric", "Cardamom", "Saffron", "Paprika"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Saffron is harvested from Crocus sativus stigmas; it is the world's most expensive spice by weight."
+    },
+    {
+      "id": 5,
+      "text": "What is the French term for cooking food slowly in its own fat?",
+      "options": ["Sauté", "Confit", "Braise", "Poach"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Confit (French: 'preserved') is a technique where food is slow-cooked and stored in its own fat."
+    },
+    {
+      "id": 6,
+      "text": "Which nut is used to make marzipan?",
+      "options": ["Walnut", "Hazelnut", "Almond", "Cashew"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Marzipan is made primarily from ground almonds and sugar, used in confectionery and cake decoration."
+    },
+    {
+      "id": 7,
+      "text": "What is the main protein source in a traditional French bouillabaisse?",
+      "options": ["Beef", "Chicken", "Fish and shellfish", "Lamb"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Bouillabaisse is a Provençal fish stew from Marseille, traditionally made with various fish and shellfish."
+    },
+    {
+      "id": 8,
+      "text": "Which vitamin is primarily found in citrus fruits and prevents scurvy?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin C"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Vitamin C (ascorbic acid) prevents scurvy; British sailors were given limes to prevent the disease."
+    },
+    {
+      "id": 9,
+      "text": "What is the name of the Japanese rice wine often served warm?",
+      "options": ["Baijiu", "Soju", "Sake", "Shochu"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Sake is a Japanese alcoholic beverage made by fermenting polished rice, often served warm or chilled."
+    },
+    {
+      "id": 10,
+      "text": "Which cooking technique involves sealing food in airtight bags and cooking in water at precise temperatures?",
+      "options": ["Blanching", "Poaching", "Sous vide", "Steaming"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Sous vide (French: 'under vacuum') cooks food in sealed bags at precise, consistent temperatures in a water bath."
+    },
+    {
+      "id": 11,
+      "text": "What is the base spirit in a Margarita cocktail?",
+      "options": ["Rum", "Vodka", "Tequila", "Gin"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A Margarita is made with tequila, triple sec, and lime juice, typically served with a salted rim."
+    },
+    {
+      "id": 12,
+      "text": "Which country is the largest producer of coffee in the world?",
+      "options": ["Colombia", "Ethiopia", "Vietnam", "Brazil"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Brazil has been the world's largest coffee producer for over 150 years, producing about 40% of global supply."
+    },
+    {
+      "id": 13,
+      "text": "What is 'umami' often described as?",
+      "options": ["Sweet and sour", "The fifth basic taste: savory", "Bitter and spicy", "Salty and tangy"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Umami is the fifth basic taste, described as savory or meaty, identified by Japanese chemist Kikunae Ikeda in 1908."
+    },
+    {
+      "id": 14,
+      "text": "Which chef is known for the Fat Duck restaurant in Bray, England?",
+      "options": ["Gordon Ramsay", "Marco Pierre White", "Heston Blumenthal", "Jamie Oliver"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Heston Blumenthal is the chef-owner of The Fat Duck, famous for molecular gastronomy and multi-sensory dining."
+    },
+    {
+      "id": 15,
+      "text": "What grain is used to make traditional Italian polenta?",
+      "options": ["Wheat", "Barley", "Corn (maize)", "Rice"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Polenta is made from ground cornmeal (maize) and is a staple in northern Italian cuisine."
+    },
+    {
+      "id": 16,
+      "text": "What is the Maillard reaction in cooking?",
+      "options": ["The caramelization of sugar at high temperatures", "A chemical reaction between amino acids and sugars that browns food", "The emulsification of fat in water", "The gelatinization of starch in liquid"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Maillard reaction occurs between amino acids and reducing sugars when heated, creating browned, flavorful crusts."
+    },
+    {
+      "id": 17,
+      "text": "Which cheese is traditionally used in a Caprese salad?",
+      "options": ["Parmesan", "Ricotta", "Mozzarella", "Pecorino"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A Caprese salad is made with fresh mozzarella, tomatoes, and basil, representing the Italian flag's colors."
+    },
+    {
+      "id": 18,
+      "text": "Where did the croissant actually originate?",
+      "options": ["France", "Austria", "Switzerland", "Belgium"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The croissant is derived from the Austrian kipferl; it was introduced to France in the early 19th century."
+    },
+    {
+      "id": 19,
+      "text": "What does 'Al dente' mean when cooking pasta?",
+      "options": ["Fully cooked and soft", "Slightly firm to the bite", "Overcooked and mushy", "Cooked with butter"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Al dente means 'to the tooth' in Italian, describing pasta cooked so it still offers slight resistance when bitten."
+    },
+    {
+      "id": 20,
+      "text": "Which country does kimchi originate from?",
+      "options": ["Japan", "China", "Korea", "Vietnam"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Kimchi is a traditional Korean dish of salted and fermented vegetables, most commonly napa cabbage and radish."
+    },
+    {
+      "id": 21,
+      "text": "What is the primary ingredient in hummus?",
+      "options": ["Lentils", "White beans", "Chickpeas", "Edamame"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Hummus is made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+    },
+    {
+      "id": 22,
+      "text": "Which fermentation process is used to make sourdough bread?",
+      "options": ["Commercial yeast fermentation", "Wild yeast and lactic acid bacteria fermentation", "Baking powder leavening", "Egg white leavening"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Sourdough relies on wild yeast and lactic acid bacteria in a starter culture to leaven and flavor the bread."
+    },
+    {
+      "id": 23,
+      "text": "What spice blend is essential to a traditional Indian curry?",
+      "options": ["Herbes de Provence", "Garam Masala", "Za'atar", "Ras el Hanout"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Garam masala is a blend of ground spices (cardamom, cloves, cinnamon, cumin, etc.) fundamental to Indian cooking."
+    },
+    {
+      "id": 24,
+      "text": "How many calories are in one gram of fat?",
+      "options": ["4", "7", "9", "12"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Fat provides 9 calories per gram, more than double that of protein or carbohydrates (both 4 cal/g)."
+    },
+    {
+      "id": 25,
+      "text": "What classic French sauce is made from butter, white wine, and shallots?",
+      "options": ["Béarnaise", "Hollandaise", "Beurre blanc", "Velouté"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Beurre blanc (French: 'white butter') is an emulsified butter sauce made with a white wine and shallot reduction."
+    },
+    {
+      "id": 26,
+      "text": "Which chef wrote 'Mastering the Art of French Cooking', popularizing French cuisine in America?",
+      "options": ["James Beard", "Julia Child", "Marcella Hazan", "Jacques Pépin"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Julia Child co-wrote Mastering the Art of French Cooking (1961) and later hosted The French Chef on TV."
+    },
+    {
+      "id": 27,
+      "text": "What is the traditional wood used to smoke Texas-style BBQ brisket?",
+      "options": ["Hickory", "Apple", "Mesquite", "Post oak"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Post oak is the traditional wood for Central Texas BBQ, prized for its clean, mild smoke that doesn't overpower beef."
+    },
+    {
+      "id": 28,
+      "text": "Which country is known for inventing pizza?",
+      "options": ["Greece", "Italy", "Spain", "France"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Pizza originated in Naples, Italy; the classic Margherita was allegedly named after Queen Margherita in 1889."
+    },
+    {
+      "id": 29,
+      "text": "What is 'tempering' chocolate?",
+      "options": ["Melting chocolate slowly in a double boiler", "A process of controlled heating and cooling to stabilize cocoa butter crystals", "Adding cream to chocolate to make ganache", "Whipping chocolate with air to lighten it"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Tempering chocolate stabilizes cocoa butter crystals through controlled temperature cycles, giving chocolate a glossy snap."
+    },
+    {
+      "id": 30,
+      "text": "What is the world's most consumed fish?",
+      "options": ["Salmon", "Tuna", "Pollock", "Herring"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Alaska pollock is the world's most consumed fish by volume, used widely in fish sticks, fish sandwiches, and surimi."
+    },
+    {
+      "id": 31,
+      "text": "Which fermented Korean soybean paste is a staple condiment similar to Japanese miso?",
+      "options": ["Gochujang", "Doenjang", "Ssamjang", "Gangjang"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Doenjang is a Korean fermented soybean paste with a stronger, more pungent flavor than Japanese miso."
+    },
+    {
+      "id": 32,
+      "text": "Which country is the largest producer of olive oil in the world?",
+      "options": ["Italy", "Greece", "Spain", "Tunisia"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Spain is the world's largest producer of olive oil, accounting for roughly 40-45% of global production."
+    },
+    {
+      "id": 33,
+      "text": "What is the primary ingredient in a traditional Thai green curry paste?",
+      "options": ["Red chilies", "Green chilies", "Yellow curry powder", "Soy sauce"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Thai green curry paste gets its color and heat from fresh green chilies, along with lemongrass, galangal, and herbs."
+    },
+    {
+      "id": 34,
+      "text": "What cooking method uses dry heat from all directions in an enclosed space?",
+      "options": ["Broiling", "Roasting", "Baking", "Both B and C"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Both roasting and baking use dry oven heat; roasting typically refers to meat/vegetables, baking to breads/pastries."
+    },
+    {
+      "id": 35,
+      "text": "Which French chef is widely considered the father of modern cooking?",
+      "options": ["Fernand Point", "Paul Bocuse", "Auguste Escoffier", "Joël Robuchon"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Auguste Escoffier modernized and codified French cuisine in the late 19th century, creating the brigade kitchen system."
+    },
+    {
+      "id": 36,
+      "text": "What is 'Wagyu' beef?",
+      "options": ["A cut of beef from Scotland", "A Japanese breed known for high marbling and fat content", "Grass-fed organic beef from Australia", "A cooking style for beef"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Wagyu refers to several Japanese cattle breeds with intense intramuscular fat marbling, producing exceptionally tender beef."
+    },
+    {
+      "id": 37,
+      "text": "What is the traditional grain used in risotto?",
+      "options": ["Long-grain white rice", "Basmati rice", "Arborio rice", "Jasmine rice"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Arborio (and other short-grain varieties like Carnaroli) releases starch during cooking to create risotto's creamy texture."
+    },
+    {
+      "id": 38,
+      "text": "Which enzyme in pineapple breaks down protein and tenderizes meat?",
+      "options": ["Papain", "Bromelain", "Ficin", "Actinidin"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Bromelain is a protease found in pineapple that breaks down protein, making it an effective meat tenderizer."
+    },
+    {
+      "id": 39,
+      "text": "What is Worcestershire sauce traditionally made from?",
+      "options": ["Soy sauce and vinegar", "Fermented anchovies, vinegar, and spices", "Oyster sauce and garlic", "Fish sauce and molasses"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Worcestershire sauce contains fermented anchovies, malt vinegar, molasses, tamarind, onion, and spices."
+    },
+    {
+      "id": 40,
+      "text": "Which nut is toxic to dogs and causes neurological symptoms?",
+      "options": ["Almonds", "Pecans", "Macadamia nuts", "Brazil nuts"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Macadamia nuts are toxic to dogs, causing weakness, vomiting, tremors, and hyperthermia; the mechanism is unknown."
+    },
+    {
+      "id": 41,
+      "text": "What is the traditional alcoholic base of a classic Tiramisu?",
+      "options": ["Rum", "Brandy", "Marsala wine", "Amaretto"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Traditional Italian Tiramisu uses Marsala wine (and sometimes espresso-soaked ladyfingers with mascarpone cream)."
+    },
+    {
+      "id": 42,
+      "text": "What gives Béarnaise sauce its distinctive anise-like flavor?",
+      "options": ["Fennel seeds", "Tarragon", "Chervil", "Star anise"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Béarnaise sauce is flavored with tarragon and chervil, giving it a distinctive herbal and slightly anise-like taste."
+    },
+    {
+      "id": 43,
+      "text": "In which century was chocolate introduced to Europe from the Americas?",
+      "options": ["14th century", "15th century", "16th century", "17th century"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Chocolate was brought to Europe in the 16th century by Spanish conquistadors who encountered it in Mesoamerica."
+    },
+    {
+      "id": 44,
+      "text": "What is the Indian bread that is cooked directly on a flame or open fire?",
+      "options": ["Naan", "Paratha", "Chapati (Roti)", "Puri"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Chapati (roti) is an unleavened flatbread cooked on a tawa and finished directly over a flame to puff up."
+    },
+    {
+      "id": 45,
+      "text": "Which region of France is famous for producing Champagne?",
+      "options": ["Burgundy", "Bordeaux", "Champagne", "Alsace"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Champagne can only be legally produced in the Champagne region of northeastern France using specific methods."
+    },
+    {
+      "id": 46,
+      "text": "What is the name of the traditional Ethiopian flatbread used as both plate and utensil?",
+      "options": ["Lavash", "Injera", "Pita", "Naan"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Injera is a sourdough flatbread made from teff flour; food is placed on it and eaten by tearing pieces to scoop dishes."
+    },
+    {
+      "id": 47,
+      "text": "Which culinary herb is also known as 'the king of herbs'?",
+      "options": ["Thyme", "Rosemary", "Basil", "Oregano"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Basil is called 'the king of herbs' (from Greek basilikón phutón: 'royal plant') and is fundamental to Italian cuisine."
+    },
+    {
+      "id": 48,
+      "text": "What does 'blanching' a vegetable involve?",
+      "options": ["Cooking at very high heat in a wok", "Briefly boiling then immediately plunging into ice water", "Roasting until charred", "Slow cooking in liquid"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Blanching involves brief boiling then shocking in ice water to stop cooking, preserving color, texture, and nutrients."
+    },
+    {
+      "id": 49,
+      "text": "Which famous chef said 'Cooking is one of the oldest arts'?",
+      "options": ["Julia Child", "Escoffier", "Brillat-Savarin", "Marco Pierre White"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Jean Anthelme Brillat-Savarin, author of 'The Physiology of Taste' (1825), is one of history's most celebrated food writers."
+    },
+    {
+      "id": 50,
+      "text": "What is the name of the process that gives pretzels their distinctive chewy crust?",
+      "options": ["Blanching in salted water", "Dipping in lye (sodium hydroxide) solution before baking", "Coating in egg wash", "Steaming then baking"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Traditional pretzels are dipped in a food-grade lye (sodium hydroxide) solution, which causes the Maillard reaction and creates their chewy, glossy crust."
+    }
+  ]
+}

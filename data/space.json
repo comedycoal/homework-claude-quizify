@@ -1,0 +1,409 @@
+{
+  "id": "space",
+  "name": "Space & Astronomy",
+  "description": "Explore the cosmos, from planets to black holes.",
+  "icon": "🚀",
+  "color": "#1e40af",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which planet is the largest in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of all other planets combined."
+    },
+    {
+      "id": 2,
+      "text": "What is the closest star to Earth?",
+      "options": ["Sirius", "Alpha Centauri A", "The Sun", "Betelgeuse"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Sun is the closest star to Earth, at an average distance of about 93 million miles (150 million km)."
+    },
+    {
+      "id": 3,
+      "text": "How many moons does Mars have?",
+      "options": ["0", "1", "2", "4"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Mars has two small moons named Phobos and Deimos, discovered by Asaph Hall in 1877."
+    },
+    {
+      "id": 4,
+      "text": "What is the name of the galaxy that contains our solar system?",
+      "options": ["Andromeda", "Triangulum", "Milky Way", "Whirlpool"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Our solar system is located in the Milky Way galaxy, a barred spiral galaxy with hundreds of billions of stars."
+    },
+    {
+      "id": 5,
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Jupiter", "Mercury", "Mars"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Mars is called the Red Planet because its surface is covered with iron oxide (rust), giving it a reddish appearance."
+    },
+    {
+      "id": 6,
+      "text": "What is the name of NASA's first crewed Moon landing mission?",
+      "options": ["Apollo 11", "Apollo 13", "Gemini 8", "Mercury 7"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Apollo 11 was the first crewed mission to land on the Moon on July 20, 1969, with Neil Armstrong and Buzz Aldrin."
+    },
+    {
+      "id": 7,
+      "text": "Which planet has the most prominent ring system?",
+      "options": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Saturn has the most prominent and well-known ring system, composed mainly of ice particles and rocky debris."
+    },
+    {
+      "id": 8,
+      "text": "What is the term for the point in Earth's orbit closest to the Sun?",
+      "options": ["Aphelion", "Perihelion", "Zenith", "Equinox"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Perihelion is the point in Earth's orbit when it is closest to the Sun, occurring around January 3 each year."
+    },
+    {
+      "id": 9,
+      "text": "Who was the first human to walk on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Neil Armstrong became the first human to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+      "id": 10,
+      "text": "What is the name of the largest moon of Saturn?",
+      "options": ["Ganymede", "Europa", "Titan", "Io"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Titan is Saturn's largest moon and is notable for its thick atmosphere and lakes of liquid methane."
+    },
+    {
+      "id": 11,
+      "text": "Approximately how long does light from the Sun take to reach Earth?",
+      "options": ["8 seconds", "8 minutes", "8 hours", "8 days"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Light from the Sun takes approximately 8 minutes and 20 seconds to travel the 93 million miles to Earth."
+    },
+    {
+      "id": 12,
+      "text": "What is the name of the first artificial satellite launched into space?",
+      "options": ["Vostok 1", "Explorer 1", "Sputnik 1", "Luna 1"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Sputnik 1, launched by the Soviet Union on October 4, 1957, was the first artificial satellite in space."
+    },
+    {
+      "id": 13,
+      "text": "Which planet is often called Earth's twin due to its similar size?",
+      "options": ["Mars", "Mercury", "Neptune", "Venus"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Venus is often called Earth's twin because it is similar in size and mass, though its surface conditions are extreme."
+    },
+    {
+      "id": 14,
+      "text": "What is the name of the constellation that contains the North Star (Polaris)?",
+      "options": ["Orion", "Ursa Minor", "Cassiopeia", "Draco"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Polaris, the North Star, is located at the tip of the handle of Ursa Minor (the Little Dipper or Little Bear)."
+    },
+    {
+      "id": 15,
+      "text": "How many planets are in our solar system?",
+      "options": ["7", "8", "9", "10"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "There are 8 planets in our solar system since Pluto was reclassified as a dwarf planet by the IAU in 2006."
+    },
+    {
+      "id": 16,
+      "text": "What is the name of the space telescope launched by NASA in 1990?",
+      "options": ["Kepler", "Spitzer", "Hubble", "Chandra"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Hubble Space Telescope was launched in 1990 and has provided groundbreaking images and data about the universe."
+    },
+    {
+      "id": 17,
+      "text": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+      "options": ["Neptune", "Saturn", "Uranus", "Jupiter"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Uranus rotates on its side with an axial tilt of approximately 98 degrees, likely due to an ancient giant impact."
+    },
+    {
+      "id": 18,
+      "text": "What is the name of the largest volcano in the solar system?",
+      "options": ["Mauna Kea", "Olympus Mons", "Maxwell Montes", "Elysium Mons"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Olympus Mons on Mars is the largest volcano in the solar system, standing about 22 km (13.6 miles) high."
+    },
+    {
+      "id": 19,
+      "text": "What is a light-year?",
+      "options": ["The time light takes to circle Earth once", "The distance light travels in one year", "One million kilometers", "The age of a young star"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A light-year is the distance that light travels in one year, approximately 9.46 trillion kilometers (5.88 trillion miles)."
+    },
+    {
+      "id": 20,
+      "text": "Which space agency launched the Mars Curiosity rover?",
+      "options": ["ESA", "Roscosmos", "ISRO", "NASA"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "NASA launched the Curiosity rover, which landed on Mars in August 2012 and continues to explore Gale Crater."
+    },
+    {
+      "id": 21,
+      "text": "What is the name of the process by which stars generate energy?",
+      "options": ["Nuclear fission", "Nuclear fusion", "Combustion", "Photosynthesis"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Stars generate energy through nuclear fusion, fusing hydrogen atoms into helium and releasing enormous amounts of energy."
+    },
+    {
+      "id": 22,
+      "text": "What is the name of the point of no return around a black hole?",
+      "options": ["Singularity", "Photon sphere", "Event horizon", "Accretion disk"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravity."
+    },
+    {
+      "id": 23,
+      "text": "Which astronaut spent 340 days on the International Space Station in the One-Year Mission?",
+      "options": ["Chris Hadfield", "Scott Kelly", "Mark Kelly", "Peggy Whitson"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Scott Kelly spent 340 days aboard the ISS from 2015 to 2016 as part of NASA's One-Year Mission study."
+    },
+    {
+      "id": 24,
+      "text": "What type of star is the Sun?",
+      "options": ["Red giant", "White dwarf", "Yellow dwarf", "Blue supergiant"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Sun is classified as a G-type main-sequence star, commonly known as a yellow dwarf."
+    },
+    {
+      "id": 25,
+      "text": "What is the name of Jupiter's largest moon?",
+      "options": ["Io", "Europa", "Callisto", "Ganymede"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Ganymede is Jupiter's largest moon and also the largest moon in the solar system, even bigger than the planet Mercury."
+    },
+    {
+      "id": 26,
+      "text": "What was the name of the first space station launched by the Soviet Union?",
+      "options": ["Mir", "Salyut 1", "Skylab", "Almaz"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Salyut 1, launched in April 1971, was the world's first space station and was operated by the Soviet Union."
+    },
+    {
+      "id": 27,
+      "text": "What is the Oort Cloud?",
+      "options": ["A nebula near Orion", "A hypothetical cloud of icy objects at the solar system's edge", "Gas clouds around Jupiter", "A type of galaxy"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Oort Cloud is a hypothetical shell of icy bodies at the outer edge of the solar system, believed to be the source of long-period comets."
+    },
+    {
+      "id": 28,
+      "text": "What does the abbreviation ISS stand for?",
+      "options": ["International Space Station", "Interplanetary Space Survey", "Integrated Solar System", "International Science Satellite"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "ISS stands for International Space Station, a habitable space station orbiting Earth jointly operated by multiple nations."
+    },
+    {
+      "id": 29,
+      "text": "How long does it take the Moon to orbit Earth?",
+      "options": ["24 hours", "7 days", "About 27 days", "About 365 days"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Moon takes approximately 27.3 days to complete one orbit around Earth, known as a sidereal month."
+    },
+    {
+      "id": 30,
+      "text": "Which planet has a day longer than its year?",
+      "options": ["Mars", "Mercury", "Venus", "Jupiter"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Venus rotates so slowly that one Venusian day (243 Earth days) is longer than one Venusian year (225 Earth days)."
+    },
+    {
+      "id": 31,
+      "text": "What is the name of the first probe to leave the solar system?",
+      "options": ["Pioneer 10", "Voyager 1", "New Horizons", "Voyager 2"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Voyager 1, launched in 1977, became the first human-made object to enter interstellar space, confirmed in 2012."
+    },
+    {
+      "id": 32,
+      "text": "What is a neutron star?",
+      "options": ["A star made entirely of neutrons formed after supernova", "A star in its early formation stage", "A star with no hydrogen", "A star orbiting a black hole"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "A neutron star forms from the collapsed core of a massive star after a supernova and is composed almost entirely of neutrons."
+    },
+    {
+      "id": 33,
+      "text": "Which planet has the Great Dark Spot, a storm system observed by Voyager 2?",
+      "options": ["Uranus", "Saturn", "Jupiter", "Neptune"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Neptune's Great Dark Spot was a massive storm system observed by Voyager 2 in 1989, though it has since disappeared."
+    },
+    {
+      "id": 34,
+      "text": "What is the term for a star that suddenly increases in brightness due to a nuclear explosion on its surface?",
+      "options": ["Supernova", "Nova", "Pulsar", "Quasar"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A nova occurs when a white dwarf in a binary system accumulates hydrogen from its companion star and ignites in a thermonuclear explosion."
+    },
+    {
+      "id": 35,
+      "text": "How far is the nearest star system to Earth (Alpha Centauri)?",
+      "options": ["1.2 light-years", "4.37 light-years", "10 light-years", "25 light-years"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Alpha Centauri system is approximately 4.37 light-years from Earth, making it the closest star system to our own."
+    },
+    {
+      "id": 36,
+      "text": "What is the Chandrasekhar limit?",
+      "options": ["The maximum mass of a neutron star", "The maximum mass of a white dwarf (~1.4 solar masses)", "The minimum temperature of a star", "The maximum size of a galaxy"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Chandrasekhar limit (~1.4 solar masses) is the maximum mass a white dwarf can have before gravitational collapse occurs."
+    },
+    {
+      "id": 37,
+      "text": "What is gravitational lensing?",
+      "options": ["The bending of light by gravity", "The magnification of stars", "Refraction of light in gas clouds", "The warping of space near black holes only"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Gravitational lensing occurs when a massive object bends the path of light from a more distant source, acting like a lens."
+    },
+    {
+      "id": 38,
+      "text": "What is the name of the first black hole ever imaged by the Event Horizon Telescope in 2019?",
+      "options": ["Sagittarius A*", "M87*", "Cygnus X-1", "V404 Cygni"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Event Horizon Telescope captured the first image of a black hole (M87*) in the galaxy Messier 87 in April 2019."
+    },
+    {
+      "id": 39,
+      "text": "What is the cosmic microwave background (CMB)?",
+      "options": ["Radiation from active galaxies", "Thermal radiation from the early universe after the Big Bang", "Microwave signals from pulsars", "Background noise from Earth's atmosphere"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The CMB is thermal radiation left over from the early universe about 380,000 years after the Big Bang, now cooled to ~2.7 K."
+    },
+    {
+      "id": 40,
+      "text": "What is a pulsar?",
+      "options": ["A rapidly rotating neutron star emitting beams of electromagnetic radiation", "A type of quasar", "A star about to go supernova", "A small black hole"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "A pulsar is a rapidly rotating neutron star that emits regular pulses of electromagnetic radiation, detectable from Earth."
+    },
+    {
+      "id": 41,
+      "text": "What percentage of the universe is estimated to be made up of dark matter?",
+      "options": ["5%", "27%", "68%", "50%"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Dark matter is estimated to make up about 27% of the universe's total mass-energy content, though it cannot be directly observed."
+    },
+    {
+      "id": 42,
+      "text": "What is the name of the theoretical boundary marking the edge of the observable universe?",
+      "options": ["Event horizon", "Particle horizon", "Hubble volume", "Cosmological horizon"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The particle horizon is the maximum distance from which light could have traveled to the observer in the age of the universe."
+    },
+    {
+      "id": 43,
+      "text": "Which mission first detected gravitational waves in 2015?",
+      "options": ["LISA", "LIGO", "Virgo", "BICEP2"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "LIGO (Laser Interferometer Gravitational-Wave Observatory) detected the first gravitational waves on September 14, 2015."
+    },
+    {
+      "id": 44,
+      "text": "What is the Hertzsprung-Russell diagram used to show?",
+      "options": ["Galaxy distribution in the universe", "The relationship between a star's luminosity and temperature", "Planetary orbits in a solar system", "The spectrum of nebulae"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The H-R diagram plots stars by luminosity vs. surface temperature, revealing distinct groups such as main sequence, giants, and white dwarfs."
+    },
+    {
+      "id": 45,
+      "text": "What is the Tolman-Oppenheimer-Volkoff (TOV) limit?",
+      "options": ["Maximum luminosity of a quasar", "Maximum mass of a neutron star before collapsing into a black hole", "Minimum mass for nuclear fusion", "Maximum speed of a pulsar"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The TOV limit is the theoretical upper bound for the mass of a neutron star, beyond which it collapses into a black hole."
+    },
+    {
+      "id": 46,
+      "text": "What was discovered by the COBE satellite in 1992?",
+      "options": ["The first exoplanet", "Anisotropies in the cosmic microwave background", "Dark energy", "A new class of gamma-ray bursts"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "COBE discovered tiny temperature fluctuations (anisotropies) in the CMB, providing evidence for the seeds of galaxy formation."
+    },
+    {
+      "id": 47,
+      "text": "What is the Jeans instability?",
+      "options": ["The point at which a gas cloud begins to collapse under gravity to form stars", "The maximum temperature of a red giant", "The energy output of a quasar", "The orbital decay of binary stars"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Jeans instability describes the condition under which a gas cloud's self-gravity overcomes pressure, causing it to collapse and form stars."
+    },
+    {
+      "id": 48,
+      "text": "Which type of galaxy has no defined shape and appears as an irregular blob of stars?",
+      "options": ["Elliptical", "Spiral", "Lenticular", "Irregular"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Irregular galaxies lack the symmetry of elliptical or spiral galaxies and often result from gravitational interactions or mergers."
+    },
+    {
+      "id": 49,
+      "text": "What is Hawking radiation?",
+      "options": ["Radiation emitted by quasars", "Theoretical thermal radiation emitted by black holes due to quantum effects", "X-ray emissions from neutron stars", "Radiation from early universe supernovae"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Hawking radiation is theoretical thermal radiation predicted to be emitted by black holes due to quantum effects near the event horizon."
+    },
+    {
+      "id": 50,
+      "text": "What is the Shkadov thruster?",
+      "options": ["A type of ion engine for spacecraft", "A theoretical stellar engine using a star's radiation pressure for propulsion", "A propulsion system using dark matter", "A gravitational slingshot device"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A Shkadov thruster is a hypothetical megastructure (a type of stellar engine) that uses a star's own radiation pressure to slowly move the star."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "mathematics",
+  "name": "Mathematics",
+  "description": "Test your skills across arithmetic, algebra, geometry, and more!",
+  "icon": "➗",
+  "color": "#0891b2",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is 15 × 12?",
+      "options": ["170", "180", "190", "200"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "15 × 12 = 15 × 10 + 15 × 2 = 150 + 30 = 180."
+    },
+    {
+      "id": 2,
+      "text": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "12 × 12 = 144, so the square root of 144 is 12."
+    },
+    {
+      "id": 3,
+      "text": "What is 3/4 + 1/4?",
+      "options": ["4/8", "1", "4/4", "2"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "3/4 + 1/4 = 4/4 = 1."
+    },
+    {
+      "id": 4,
+      "text": "What is the value of π (pi) rounded to two decimal places?",
+      "options": ["3.12", "3.14", "3.16", "3.18"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Pi (π) is approximately 3.14159..., which rounds to 3.14."
+    },
+    {
+      "id": 5,
+      "text": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A hexagon is a polygon with exactly six sides."
+    },
+    {
+      "id": 6,
+      "text": "What is 2⁸?",
+      "options": ["128", "256", "512", "64"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "2⁸ = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 256."
+    },
+    {
+      "id": 7,
+      "text": "What is the perimeter of a square with side length 7?",
+      "options": ["14", "21", "28", "49"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The perimeter of a square is 4 × side = 4 × 7 = 28."
+    },
+    {
+      "id": 8,
+      "text": "Which of the following is a prime number?",
+      "options": ["9", "15", "17", "21"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "17 is prime because it has no divisors other than 1 and itself."
+    },
+    {
+      "id": 9,
+      "text": "What is 25% of 200?",
+      "options": ["25", "40", "50", "75"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "25% of 200 = 0.25 × 200 = 50."
+    },
+    {
+      "id": 10,
+      "text": "What is the sum of angles in a triangle?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The interior angles of any triangle always sum to 180°."
+    },
+    {
+      "id": 11,
+      "text": "What is 7! (7 factorial)?",
+      "options": ["2040", "3540", "5040", "7070"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "7! = 7 × 6 × 5 × 4 × 3 × 2 × 1 = 5040."
+    },
+    {
+      "id": 12,
+      "text": "What is 0.75 expressed as a fraction in lowest terms?",
+      "options": ["3/5", "3/4", "4/5", "7/10"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "0.75 = 75/100 = 3/4 in lowest terms."
+    },
+    {
+      "id": 13,
+      "text": "What is the area of a rectangle with length 9 and width 4?",
+      "options": ["26", "32", "36", "40"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Area of rectangle = length × width = 9 × 4 = 36."
+    },
+    {
+      "id": 14,
+      "text": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, ___?",
+      "options": ["10", "11", "13", "16"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Each Fibonacci number is the sum of the two before it: 5 + 8 = 13."
+    },
+    {
+      "id": 15,
+      "text": "What is the least common multiple (LCM) of 4 and 6?",
+      "options": ["8", "10", "12", "24"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The LCM of 4 and 6 is 12, the smallest number divisible by both."
+    },
+    {
+      "id": 16,
+      "text": "What is the Roman numeral for 49?",
+      "options": ["XXXXIX", "XLIX", "IL", "VLIV"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "49 in Roman numerals is XLIX (XL = 40, IX = 9)."
+    },
+    {
+      "id": 17,
+      "text": "Which mathematician is credited with developing calculus independently of Newton?",
+      "options": ["Euler", "Gauss", "Leibniz", "Fermat"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Gottfried Wilhelm Leibniz developed calculus independently and simultaneously with Newton."
+    },
+    {
+      "id": 18,
+      "text": "If x + 5 = 13, what is x?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Subtracting 5 from both sides: x = 13 - 5 = 8."
+    },
+    {
+      "id": 19,
+      "text": "What is the slope of the line passing through (2, 3) and (4, 7)?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Slope = (y₂ - y₁)/(x₂ - x₁) = (7 - 3)/(4 - 2) = 4/2 = 2."
+    },
+    {
+      "id": 20,
+      "text": "What is the area of a circle with radius 5? (Use π ≈ 3.14)",
+      "options": ["15.7", "31.4", "78.5", "157"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Area = π × r² = 3.14 × 25 = 78.5."
+    },
+    {
+      "id": 21,
+      "text": "What is the greatest common divisor (GCD) of 48 and 36?",
+      "options": ["6", "8", "12", "18"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The GCD of 48 and 36 is 12, the largest number that divides both evenly."
+    },
+    {
+      "id": 22,
+      "text": "Solve: 3x - 7 = 2x + 5",
+      "options": ["x = 10", "x = 12", "x = 14", "x = 16"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "3x - 2x = 5 + 7, so x = 12."
+    },
+    {
+      "id": 23,
+      "text": "What is the hypotenuse of a right triangle with legs 6 and 8?",
+      "options": ["9", "10", "11", "12"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "By the Pythagorean theorem: √(6² + 8²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "id": 24,
+      "text": "What is 2/3 ÷ 4/9?",
+      "options": ["3/2", "6/7", "8/27", "1/3"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Dividing fractions: 2/3 × 9/4 = 18/12 = 3/2."
+    },
+    {
+      "id": 25,
+      "text": "What is the sum of the first 10 positive integers?",
+      "options": ["45", "50", "55", "60"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Using the formula n(n+1)/2: 10 × 11 / 2 = 55."
+    },
+    {
+      "id": 26,
+      "text": "In which century did Leonhard Euler live?",
+      "options": ["16th and 17th", "17th and 18th", "18th and 19th", "19th and 20th"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Euler was born in 1707 and died in 1783, living through the 18th century."
+    },
+    {
+      "id": 27,
+      "text": "What is the value of log₁₀(1000)?",
+      "options": ["2", "3", "4", "10"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "log₁₀(1000) = 3 because 10³ = 1000."
+    },
+    {
+      "id": 28,
+      "text": "What is the next term in the sequence: 2, 6, 18, 54, ___?",
+      "options": ["108", "144", "162", "216"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Each term is multiplied by 3: 54 × 3 = 162."
+    },
+    {
+      "id": 29,
+      "text": "What is the interior angle of a regular pentagon?",
+      "options": ["90°", "100°", "108°", "120°"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Interior angle of regular polygon = (n-2) × 180/n = 3 × 180/5 = 108°."
+    },
+    {
+      "id": 30,
+      "text": "Which theorem states that in a right triangle, a² + b² = c²?",
+      "options": ["Euclid's Theorem", "Fermat's Last Theorem", "Pythagorean Theorem", "Thales' Theorem"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Pythagorean Theorem relates the three sides of a right triangle."
+    },
+    {
+      "id": 31,
+      "text": "What is the probability of rolling a sum of 7 with two dice?",
+      "options": ["1/6", "5/36", "6/36", "7/36"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "There are 6 ways to roll a sum of 7 out of 36 total outcomes, giving 6/36 = 1/6."
+    },
+    {
+      "id": 32,
+      "text": "Evaluate: 4² + 3³",
+      "options": ["37", "43", "49", "55"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "4² = 16 and 3³ = 27, so 16 + 27 = 43."
+    },
+    {
+      "id": 33,
+      "text": "If a triangle has sides of length 5, 5, and 8, what type of triangle is it?",
+      "options": ["Equilateral", "Scalene", "Isosceles", "Right"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "An isosceles triangle has exactly two equal sides; here, two sides are both 5."
+    },
+    {
+      "id": 34,
+      "text": "What is 5/8 expressed as a percentage?",
+      "options": ["55%", "60%", "62.5%", "65%"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "5/8 = 0.625 = 62.5%."
+    },
+    {
+      "id": 35,
+      "text": "What is the formula for the volume of a cylinder?",
+      "options": ["πr²", "2πrh", "πr²h", "4/3πr³"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The volume of a cylinder is π × radius² × height = πr²h."
+    },
+    {
+      "id": 36,
+      "text": "What did Carl Friedrich Gauss famously calculate as a child?",
+      "options": ["The value of π to 100 digits", "The sum of integers 1 to 100", "The prime factorization of large numbers", "The circumference of the Earth"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Gauss reportedly summed integers from 1 to 100 almost instantly as a child."
+    },
+    {
+      "id": 37,
+      "text": "What is the derivative of x³?",
+      "options": ["x²", "2x²", "3x²", "3x³"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "By the power rule, d/dx(xⁿ) = nxⁿ⁻¹, so d/dx(x³) = 3x²."
+    },
+    {
+      "id": 38,
+      "text": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?",
+      "options": ["1.5", "2", "2.5", "It diverges"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The sum is a/(1-r) = 1/(1 - 1/2) = 1/(1/2) = 2."
+    },
+    {
+      "id": 39,
+      "text": "How many prime numbers are there between 1 and 50?",
+      "options": ["13", "14", "15", "16"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "There are 15 primes between 1 and 50: 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47."
+    },
+    {
+      "id": 40,
+      "text": "What is the determinant of the matrix [[3, 1], [2, 4]]?",
+      "options": ["8", "10", "12", "14"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "det = (3×4) - (1×2) = 12 - 2 = 10."
+    },
+    {
+      "id": 41,
+      "text": "Fermat's Last Theorem states that xⁿ + yⁿ = zⁿ has no positive integer solutions for n > 2. Who finally proved it in 1994?",
+      "options": ["Andrew Wiles", "Grigori Perelman", "John Nash", "Srinivasa Ramanujan"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Andrew Wiles proved Fermat's Last Theorem in 1994 after working on it for seven years."
+    },
+    {
+      "id": 42,
+      "text": "What is ∫x² dx?",
+      "options": ["2x", "x³", "x³/3 + C", "3x³ + C"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "By the power rule of integration, ∫xⁿ dx = xⁿ⁺¹/(n+1) + C = x³/3 + C."
+    },
+    {
+      "id": 43,
+      "text": "In modular arithmetic, what is 17 mod 5?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "17 ÷ 5 = 3 remainder 2, so 17 mod 5 = 2."
+    },
+    {
+      "id": 44,
+      "text": "What is the number of ways to arrange 5 distinct objects in a line?",
+      "options": ["60", "100", "120", "150"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The number of permutations of 5 distinct objects is 5! = 120."
+    },
+    {
+      "id": 45,
+      "text": "What is the value of e (Euler's number) to 2 decimal places?",
+      "options": ["2.61", "2.71", "2.81", "2.91"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Euler's number e ≈ 2.71828..., which rounds to 2.71."
+    },
+    {
+      "id": 46,
+      "text": "What is the solution to x² - 5x + 6 = 0?",
+      "options": ["x = 1 or x = 6", "x = 2 or x = 3", "x = -2 or x = -3", "x = 1 or x = 5"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Factoring: (x - 2)(x - 3) = 0, giving x = 2 or x = 3."
+    },
+    {
+      "id": 47,
+      "text": "What is the Goldbach conjecture?",
+      "options": ["Every odd number > 5 is the sum of three primes", "Every even integer > 2 is the sum of two prime numbers", "There are infinitely many twin primes", "Every natural number is the product of primes"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Goldbach's conjecture, proposed in 1742, states every even integer greater than 2 is the sum of two primes."
+    },
+    {
+      "id": 48,
+      "text": "What is the binary representation of the decimal number 25?",
+      "options": ["10101", "11001", "11010", "11011"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "25 = 16 + 8 + 1 = 2⁴ + 2³ + 2⁰ = 11001 in binary."
+    },
+    {
+      "id": 49,
+      "text": "Which number is both a perfect square and a perfect cube between 1 and 100?",
+      "options": ["16", "27", "36", "64"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "64 = 8² = 4³, making it both a perfect square and a perfect cube."
+    },
+    {
+      "id": 50,
+      "text": "In graph theory, what is the maximum number of edges in a simple graph with 5 vertices?",
+      "options": ["8", "10", "12", "15"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A complete graph K₅ has n(n-1)/2 = 5×4/2 = 10 edges."
+    }
+  ]
+}

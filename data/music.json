@@ -1,0 +1,409 @@
+{
+  "id": "music",
+  "name": "Music",
+  "description": "Explore genres, legendary artists, instruments, and music history.",
+  "icon": "🎵",
+  "color": "#ec4899",
+  "questions": [
+    {
+      "id": 1,
+      "text": "How many strings does a standard guitar have?",
+      "options": ["4", "5", "6", "8"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A standard guitar has 6 strings, tuned E-A-D-G-B-E from lowest to highest."
+    },
+    {
+      "id": 2,
+      "text": "Which band is known for the song 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Bohemian Rhapsody was written by Freddie Mercury and recorded by Queen, released in 1975."
+    },
+    {
+      "id": 3,
+      "text": "What is the term for the speed of a piece of music?",
+      "options": ["Pitch", "Tempo", "Rhythm", "Timbre"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Tempo refers to the speed or pace of a piece of music, often measured in beats per minute (BPM)."
+    },
+    {
+      "id": 4,
+      "text": "Which artist is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Michael Jackson", "Prince", "David Bowie"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Michael Jackson earned the title 'King of Pop' due to his massive global influence on popular music."
+    },
+    {
+      "id": 5,
+      "text": "How many keys does a standard piano have?",
+      "options": ["72", "76", "88", "96"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A standard piano has 88 keys — 52 white keys and 36 black keys."
+    },
+    {
+      "id": 6,
+      "text": "What is the highest-pitched member of the violin family?",
+      "options": ["Viola", "Cello", "Violin", "Double Bass"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The violin is the highest-pitched instrument in the violin family, which includes viola, cello, and double bass."
+    },
+    {
+      "id": 7,
+      "text": "Which music genre originated in Jamaica in the 1960s?",
+      "options": ["Salsa", "Reggae", "Samba", "Calypso"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Reggae originated in Jamaica in the late 1960s, strongly associated with artist Bob Marley."
+    },
+    {
+      "id": 8,
+      "text": "What does 'forte' mean in musical notation?",
+      "options": ["Slow", "Soft", "Loud", "Fast"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Forte (marked 'f') is an Italian musical term meaning loud or strong."
+    },
+    {
+      "id": 9,
+      "text": "Which famous composer was deaf when he wrote his 9th Symphony?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Franz Schubert"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Ludwig van Beethoven was completely deaf when he composed his Ninth Symphony, premiered in 1824."
+    },
+    {
+      "id": 10,
+      "text": "How many notes are in a standard Western musical scale (octave)?",
+      "options": ["5", "7", "8", "12"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A standard Western musical scale (e.g., C major) contains 8 notes spanning an octave."
+    },
+    {
+      "id": 11,
+      "text": "Which band released the album 'Abbey Road' in 1969?",
+      "options": ["The Rolling Stones", "The Who", "The Beatles", "Led Zeppelin"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Abbey Road is the eleventh studio album by The Beatles, released in September 1969."
+    },
+    {
+      "id": 12,
+      "text": "What is the name of the symbol that indicates a note should be played softly?",
+      "options": ["Forte", "Crescendo", "Piano", "Staccato"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Piano (marked 'p') is the musical notation symbol for soft or quiet playing."
+    },
+    {
+      "id": 13,
+      "text": "Which singer is known for hits like 'Rolling in the Deep' and 'Hello'?",
+      "options": ["Beyoncé", "Adele", "Taylor Swift", "Rihanna"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Adele is a British singer-songwriter known for chart-topping hits like Rolling in the Deep and Hello."
+    },
+    {
+      "id": 14,
+      "text": "What type of instrument is a trumpet?",
+      "options": ["String", "Woodwind", "Brass", "Percussion"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A trumpet is a brass instrument; sound is produced by buzzing the lips into a metal mouthpiece."
+    },
+    {
+      "id": 15,
+      "text": "Which music streaming platform launched in 2008 in Sweden?",
+      "options": ["Apple Music", "Spotify", "Tidal", "Deezer"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Spotify launched in October 2008 and was founded in Stockholm, Sweden."
+    },
+    {
+      "id": 16,
+      "text": "What does BPM stand for in music?",
+      "options": ["Bass Per Minute", "Beats Per Measure", "Beats Per Minute", "Base Pitch Modulation"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "BPM stands for Beats Per Minute, the standard measure of tempo in music."
+    },
+    {
+      "id": 17,
+      "text": "Who is often called the 'Queen of Soul'?",
+      "options": ["Tina Turner", "Whitney Houston", "Aretha Franklin", "Diana Ross"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Aretha Franklin earned the title 'Queen of Soul' for her powerful voice and influence on R&B and soul music."
+    },
+    {
+      "id": 18,
+      "text": "Which genre of music is characterized by a 12-bar chord progression and originated from African American communities in the Deep South?",
+      "options": ["Jazz", "Blues", "Gospel", "R&B"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Blues music is defined by its 12-bar structure and originated from African American communities in the Mississippi Delta."
+    },
+    {
+      "id": 19,
+      "text": "How many movements does a traditional symphony typically have?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A traditional symphony typically has 4 movements, each with a different tempo and character."
+    },
+    {
+      "id": 20,
+      "text": "Which composer wrote 'The Four Seasons'?",
+      "options": ["Johann Sebastian Bach", "Antonio Vivaldi", "George Frideric Handel", "Franz Joseph Haydn"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Antonio Vivaldi composed The Four Seasons, a group of four violin concertos, around 1721."
+    },
+    {
+      "id": 21,
+      "text": "What is a 'capella' or 'a cappella' singing?",
+      "options": ["Singing in Italian", "Singing without instrumental accompaniment", "Singing in a church choir", "Singing in falsetto"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A cappella refers to vocal music performed without any instrumental accompaniment."
+    },
+    {
+      "id": 22,
+      "text": "In which decade did hip-hop music emerge as a genre?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Hip-hop emerged in the 1970s in the South Bronx, New York, pioneered by artists like DJ Kool Herc."
+    },
+    {
+      "id": 23,
+      "text": "What is the name of Taylor Swift's debut album?",
+      "options": ["Fearless", "Speak Now", "Taylor Swift", "Red"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Taylor Swift's self-titled debut album was released in October 2006."
+    },
+    {
+      "id": 24,
+      "text": "Which musical term means to play notes in a smooth, connected manner?",
+      "options": ["Staccato", "Legato", "Pizzicato", "Tremolo"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Legato is the musical term for playing notes in a smooth, flowing, connected manner."
+    },
+    {
+      "id": 25,
+      "text": "Which artist holds the record for the best-selling album of all time?",
+      "options": ["Led Zeppelin", "The Eagles", "Michael Jackson", "Pink Floyd"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Michael Jackson's Thriller is widely regarded as the best-selling album of all time, with estimated sales of over 66 million copies."
+    },
+    {
+      "id": 26,
+      "text": "What is the name of the musical note that receives one beat in 4/4 time?",
+      "options": ["Whole note", "Half note", "Quarter note", "Eighth note"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "In 4/4 time, the quarter note (crotchet) receives one beat, with four beats per measure."
+    },
+    {
+      "id": 27,
+      "text": "Which rock band is known as 'The Fab Four'?",
+      "options": ["The Rolling Stones", "The Who", "The Beatles", "The Kinks"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Beatles are known as 'The Fab Four,' referring to members John Lennon, Paul McCartney, George Harrison, and Ringo Starr."
+    },
+    {
+      "id": 28,
+      "text": "What is the lowest-pitched member of the woodwind family commonly used in orchestras?",
+      "options": ["Bassoon", "Clarinet", "Oboe", "Flute"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "The bassoon is the lowest-pitched member of the woodwind family used in a standard orchestra."
+    },
+    {
+      "id": 29,
+      "text": "Which famous music venue in Nashville is known as 'The Mother Church of Country Music'?",
+      "options": ["Grand Ole Opry", "Ryman Auditorium", "Bluebird Cafe", "Station Inn"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Ryman Auditorium in Nashville is called 'The Mother Church of Country Music' and served as the original home of the Grand Ole Opry."
+    },
+    {
+      "id": 30,
+      "text": "In music notation, what does a 'fermata' symbol indicate?",
+      "options": ["Play faster", "Repeat the section", "Hold the note longer than its written value", "Play softer"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A fermata (the 'bird's eye' symbol) tells a performer to hold a note or rest longer than its written value, at the performer's discretion."
+    },
+    {
+      "id": 31,
+      "text": "Which country is Flamenco music and dance traditionally associated with?",
+      "options": ["Portugal", "Italy", "Spain", "Mexico"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Flamenco originated in Andalusia, Spain, and is a deeply rooted part of Spanish culture."
+    },
+    {
+      "id": 32,
+      "text": "What year did Elvis Presley release 'Hound Dog'?",
+      "options": ["1952", "1956", "1960", "1964"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Elvis Presley released 'Hound Dog' in 1956, and it became one of his signature songs."
+    },
+    {
+      "id": 33,
+      "text": "Which instrument does a 'drummer' play in a jazz trio context?",
+      "options": ["Acoustic guitar", "Upright bass", "Drum kit", "Keyboard"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "In a jazz trio, the typical lineup includes piano, upright bass, and drum kit."
+    },
+    {
+      "id": 34,
+      "text": "What type of voice is lower than a soprano but higher than an alto?",
+      "options": ["Tenor", "Mezzo-soprano", "Baritone", "Contralto"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A mezzo-soprano voice sits between soprano (highest female voice) and alto (lower female voice)."
+    },
+    {
+      "id": 35,
+      "text": "Which musician is known as 'Slowhand'?",
+      "options": ["Jimi Hendrix", "Eric Clapton", "Jimmy Page", "Carlos Santana"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Eric Clapton is nicknamed 'Slowhand,' a name that originated from his habit of re-stringing guitar strings during performances."
+    },
+    {
+      "id": 36,
+      "text": "What interval separates a note and its octave?",
+      "options": ["7 semitones", "10 semitones", "12 semitones", "15 semitones"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "An octave spans exactly 12 semitones in equal temperament, doubling the frequency of the original note."
+    },
+    {
+      "id": 37,
+      "text": "Which composer wrote 'The Rite of Spring,' whose 1913 premiere famously caused a riot in the audience?",
+      "options": ["Sergei Rachmaninoff", "Igor Stravinsky", "Dmitri Shostakovich", "Pyotr Ilyich Tchaikovsky"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Igor Stravinsky's The Rite of Spring premiered in Paris in 1913 and its radical music and choreography caused an audience riot."
+    },
+    {
+      "id": 38,
+      "text": "What is the term for the technique of plucking violin strings instead of bowing them?",
+      "options": ["Tremolo", "Glissando", "Pizzicato", "Arco"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Pizzicato is the technique of plucking string instrument strings with the fingers rather than using a bow."
+    },
+    {
+      "id": 39,
+      "text": "In music theory, what is an 'enharmonic equivalent'?",
+      "options": ["A note played at double the speed", "Two notes that sound the same but are written differently", "A chord played in a different key", "A scale played in reverse"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Enharmonic equivalents are notes that sound identical in pitch but are written differently, such as C# and Db."
+    },
+    {
+      "id": 40,
+      "text": "Which time signature is commonly referred to as 'common time'?",
+      "options": ["3/4", "2/2", "4/4", "6/8"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "4/4 time is called 'common time' because it is the most frequently used time signature in Western music."
+    },
+    {
+      "id": 41,
+      "text": "Which composer is associated with the development of the 'twelve-tone technique'?",
+      "options": ["Arnold Schoenberg", "Claude Debussy", "Gustav Mahler", "Richard Strauss"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Arnold Schoenberg developed the twelve-tone (dodecaphonic) technique in the early 1920s."
+    },
+    {
+      "id": 42,
+      "text": "What is 'serialism' in 20th-century classical music?",
+      "options": ["Music played in a series of concerts", "A method using an ordered sequence of pitches to organize a composition", "Music written in a series of keys", "A form of improvisation"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Serialism is a compositional technique using an ordered sequence (series) of pitches or other elements to structure a piece."
+    },
+    {
+      "id": 43,
+      "text": "In what key does the standard guitar tuning have its lowest open string?",
+      "options": ["A", "D", "E", "G"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Standard guitar tuning has the lowest (6th) string tuned to E2."
+    },
+    {
+      "id": 44,
+      "text": "What is the name of the phenomenon where two notes played together create a third, phantom tone?",
+      "options": ["Resonance", "Harmonics", "Combination tone (Tartini tone)", "Timbre"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "A combination tone (also called a Tartini tone) is a phantom pitch perceived when two loud tones are played simultaneously."
+    },
+    {
+      "id": 45,
+      "text": "Which avant-garde composer created '4'33\"', a piece consisting of four minutes and 33 seconds of silence?",
+      "options": ["Philip Glass", "Steve Reich", "John Cage", "Terry Riley"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "John Cage composed 4'33\" in 1952, directing the performer to not intentionally make any sounds for its duration."
+    },
+    {
+      "id": 46,
+      "text": "What does 'counterpoint' refer to in music theory?",
+      "options": ["Playing against the beat", "The relationship between two or more melodic lines played simultaneously", "A chord played backwards", "The lowest note in a chord"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Counterpoint is the technique of combining two or more independent melodic lines that sound harmonious when played simultaneously."
+    },
+    {
+      "id": 47,
+      "text": "Which jazz legend is known as the 'Father of Bebop'?",
+      "options": ["Miles Davis", "John Coltrane", "Charlie Parker", "Dizzy Gillespie"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Charlie Parker (nicknamed 'Bird') is widely regarded as the 'Father of Bebop' for pioneering the modern jazz style."
+    },
+    {
+      "id": 48,
+      "text": "In electronic music, what is an 'LFO'?",
+      "options": ["Low Frequency Oscillator", "Linear Frequency Output", "Layered Filter Operation", "Low Fidelity Output"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "LFO stands for Low Frequency Oscillator, a component used in synthesizers to create modulation effects like vibrato and tremolo."
+    },
+    {
+      "id": 49,
+      "text": "Which musical concept describes the tonal center or 'home key' of a piece?",
+      "options": ["Modulation", "Tonality", "Chromaticism", "Atonality"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Tonality refers to the system of organizing music around a central tonal center or tonic note (home key)."
+    },
+    {
+      "id": 50,
+      "text": "What is a 'Neapolitan chord' in Western harmony?",
+      "options": ["A chord from Italian folk music", "A major chord built on the flattened second scale degree", "A seventh chord played in root position", "A chord with an added ninth"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A Neapolitan chord is a major chord built on the flattened second (bII) scale degree, commonly used in classical and romantic music."
+    }
+  ]
+}

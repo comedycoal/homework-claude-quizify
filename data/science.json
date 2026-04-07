@@ -1,0 +1,429 @@
+{
+  "id": "science",
+  "name": "Science",
+  "description": "Explore physics, chemistry, biology, and the wonders of our world.",
+  "icon": "🔬",
+  "color": "#10b981",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Gold's symbol Au comes from its Latin name 'Aurum'."
+    },
+    {
+      "id": 2,
+      "text": "How many bones are in the adult human body?",
+      "options": ["196", "206", "216", "226"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The adult human body has 206 bones, reduced from around 270 at birth as some fuse together."
+    },
+    {
+      "id": 3,
+      "text": "What gas do plants absorb during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Plants absorb carbon dioxide and use sunlight to convert it into glucose and oxygen."
+    },
+    {
+      "id": 4,
+      "text": "What is the speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Light travels at approximately 299,792 km/s (roughly 300,000 km/s) in a vacuum."
+    },
+    {
+      "id": 5,
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+    },
+    {
+      "id": 6,
+      "text": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Argon", "Carbon dioxide"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+    },
+    {
+      "id": 7,
+      "text": "What organelle is known as the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Golgi apparatus", "Mitochondria"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Mitochondria produce ATP through cellular respiration, providing energy to the cell."
+    },
+    {
+      "id": 8,
+      "text": "What is the atomic number of carbon?",
+      "options": ["4", "6", "8", "12"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Carbon has 6 protons in its nucleus, giving it an atomic number of 6."
+    },
+    {
+      "id": 9,
+      "text": "Which force keeps planets in orbit around the Sun?",
+      "options": ["Magnetic force", "Nuclear force", "Gravity", "Electrostatic force"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Gravity is the attractive force between masses that keeps planets in elliptical orbits around the Sun."
+    },
+    {
+      "id": 10,
+      "text": "What is the chemical formula for water?",
+      "options": ["HO", "H2O", "H2O2", "H3O"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Water is composed of two hydrogen atoms bonded to one oxygen atom, giving it the formula H2O."
+    },
+    {
+      "id": 11,
+      "text": "Which blood type is known as the universal donor?",
+      "options": ["A negative", "B negative", "AB positive", "O negative"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "O negative blood lacks A, B, and Rh antigens, making it safe to transfuse to any patient."
+    },
+    {
+      "id": 12,
+      "text": "What is the unit of electric current?",
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The ampere (A) is the SI unit of electric current, measuring the flow of electric charge."
+    },
+    {
+      "id": 13,
+      "text": "How many chromosomes do humans normally have?",
+      "options": ["23", "44", "46", "48"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Humans have 46 chromosomes arranged in 23 pairs in most body cells."
+    },
+    {
+      "id": 14,
+      "text": "What is the hardest natural substance on Earth?",
+      "options": ["Quartz", "Diamond", "Corundum", "Topaz"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Diamond scores 10 on the Mohs hardness scale, making it the hardest known natural substance."
+    },
+    {
+      "id": 15,
+      "text": "What type of animal is a dolphin?",
+      "options": ["Fish", "Amphibian", "Reptile", "Mammal"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Dolphins are marine mammals that breathe air, are warm-blooded, and nurse their young with milk."
+    },
+    {
+      "id": 16,
+      "text": "Which element has the chemical symbol 'Fe'?",
+      "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Iron's symbol Fe derives from its Latin name 'Ferrum'."
+    },
+    {
+      "id": 17,
+      "text": "What is the process by which a liquid turns into a gas?",
+      "options": ["Condensation", "Sublimation", "Evaporation", "Deposition"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Evaporation is the process by which molecules at a liquid's surface gain enough energy to escape as gas."
+    },
+    {
+      "id": 18,
+      "text": "What is Newton's first law of motion also called?",
+      "options": ["Law of acceleration", "Law of action-reaction", "Law of inertia", "Law of momentum"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Newton's first law states that objects remain at rest or in motion unless acted upon by a force, which is the definition of inertia."
+    },
+    {
+      "id": 19,
+      "text": "What is the pH of a neutral solution at 25°C?",
+      "options": ["0", "5", "7", "14"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A pH of 7 indicates a neutral solution at 25°C, where hydrogen and hydroxide ion concentrations are equal."
+    },
+    {
+      "id": 20,
+      "text": "Which part of the brain controls balance and coordination?",
+      "options": ["Cerebrum", "Medulla oblongata", "Cerebellum", "Hypothalamus"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The cerebellum coordinates voluntary movements, balance, and fine motor control."
+    },
+    {
+      "id": 21,
+      "text": "What is the half-life of Carbon-14?",
+      "options": ["1,570 years", "5,730 years", "14,000 years", "57,300 years"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Carbon-14 has a half-life of approximately 5,730 years, making it useful for dating organic materials."
+    },
+    {
+      "id": 22,
+      "text": "What type of bond holds the two strands of DNA together?",
+      "options": ["Covalent bonds", "Ionic bonds", "Hydrogen bonds", "Metallic bonds"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Hydrogen bonds between complementary base pairs hold the two DNA strands together in the double helix."
+    },
+    {
+      "id": 23,
+      "text": "What is the name of the process by which cells divide to produce identical daughter cells?",
+      "options": ["Meiosis", "Mitosis", "Fission", "Budding"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Mitosis produces two genetically identical daughter cells from one parent cell and is used for growth and repair."
+    },
+    {
+      "id": 24,
+      "text": "Which layer of Earth's atmosphere contains the ozone layer?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The ozone layer sits within the stratosphere, roughly 15–35 km above Earth's surface, absorbing UV radiation."
+    },
+    {
+      "id": 25,
+      "text": "What is Avogadro's number?",
+      "options": ["6.022 × 10²¹", "6.022 × 10²³", "6.022 × 10²⁵", "6.022 × 10²⁷"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Avogadro's number (6.022 × 10²³) is the number of particles in one mole of a substance."
+    },
+    {
+      "id": 26,
+      "text": "What is the powerhouse reaction that fuels the Sun?",
+      "options": ["Nuclear fission", "Nuclear fusion", "Chemical combustion", "Radioactive decay"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Sun generates energy through nuclear fusion, primarily fusing hydrogen nuclei into helium."
+    },
+    {
+      "id": 27,
+      "text": "Which type of electromagnetic radiation has the shortest wavelength?",
+      "options": ["Radio waves", "Infrared", "Ultraviolet", "Gamma rays"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Gamma rays have the shortest wavelength and highest frequency in the electromagnetic spectrum."
+    },
+    {
+      "id": 28,
+      "text": "What is the name for the tendency of water molecules to stick to each other?",
+      "options": ["Adhesion", "Surface tension", "Cohesion", "Capillarity"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Cohesion refers to water molecules attracting each other via hydrogen bonds, which gives water high surface tension."
+    },
+    {
+      "id": 29,
+      "text": "In genetics, what does 'dominant' mean when referring to an allele?",
+      "options": ["It is more common in the population", "It is expressed even when only one copy is present", "It causes disease", "It always skips a generation"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A dominant allele is expressed in the phenotype even when only one copy (heterozygous) is present."
+    },
+    {
+      "id": 30,
+      "text": "What is the SI unit of pressure?",
+      "options": ["Newton", "Pascal", "Joule", "Bar"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Pascal (Pa) is the SI unit of pressure, defined as one newton per square meter."
+    },
+    {
+      "id": 31,
+      "text": "Which scientist proposed the theory of general relativity?",
+      "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Max Planck"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Albert Einstein published his general theory of relativity in 1915, describing gravity as curvature of spacetime."
+    },
+    {
+      "id": 32,
+      "text": "What type of rock is formed from cooled magma or lava?",
+      "options": ["Sedimentary", "Metamorphic", "Igneous", "Composite"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Igneous rocks form when magma (underground) or lava (surface) cools and solidifies."
+    },
+    {
+      "id": 33,
+      "text": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The human heart has four chambers: two atria and two ventricles that pump blood through the body."
+    },
+    {
+      "id": 34,
+      "text": "What is the chemical formula for glucose?",
+      "options": ["C6H12O6", "C12H22O11", "C6H6O6", "C2H5OH"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Glucose (C6H12O6) is a simple sugar and the primary source of energy for cellular respiration."
+    },
+    {
+      "id": 35,
+      "text": "What phenomenon explains why the sky appears blue?",
+      "options": ["Refraction", "Rayleigh scattering", "Diffraction", "Absorption"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Rayleigh scattering causes shorter (blue) wavelengths of sunlight to scatter more than longer wavelengths, making the sky appear blue."
+    },
+    {
+      "id": 36,
+      "text": "What is the Heisenberg Uncertainty Principle?",
+      "options": [
+        "Energy and mass cannot be simultaneously measured",
+        "Position and momentum of a particle cannot both be precisely known at the same time",
+        "Light behaves as both wave and particle",
+        "Entropy always increases in isolated systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Heisenberg Uncertainty Principle states that the more precisely a particle's position is known, the less precisely its momentum can be known, and vice versa."
+    },
+    {
+      "id": 37,
+      "text": "What is the name of the protein that carries oxygen in red blood cells?",
+      "options": ["Myosin", "Actin", "Hemoglobin", "Albumin"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Hemoglobin is an iron-containing protein in red blood cells that binds and transports oxygen throughout the body."
+    },
+    {
+      "id": 38,
+      "text": "Which subatomic particle has no electric charge?",
+      "options": ["Proton", "Electron", "Neutron", "Positron"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Neutrons are found in the nucleus and carry no electric charge, unlike protons (positive) and electrons (negative)."
+    },
+    {
+      "id": 39,
+      "text": "What is the second law of thermodynamics concerned with?",
+      "options": ["Conservation of energy", "Entropy always increases in isolated systems", "Thermal equilibrium", "Absolute zero temperature"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The second law of thermodynamics states that entropy (disorder) in an isolated system always tends to increase over time."
+    },
+    {
+      "id": 40,
+      "text": "Which scientist is credited with discovering penicillin?",
+      "options": ["Louis Pasteur", "Joseph Lister", "Alexander Fleming", "Robert Koch"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Alexander Fleming discovered penicillin in 1928 when he observed that Penicillium mold inhibited bacterial growth."
+    },
+    {
+      "id": 41,
+      "text": "What is the Krebs cycle also known as?",
+      "options": ["Calvin cycle", "Citric acid cycle", "Nitrogen cycle", "Urea cycle"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Krebs cycle (citric acid cycle) is a series of chemical reactions used by aerobic organisms to generate energy from acetyl-CoA."
+    },
+    {
+      "id": 42,
+      "text": "What is the main difference between nuclear fission and fusion?",
+      "options": [
+        "Fission splits heavy nuclei; fusion combines light nuclei",
+        "Fission combines light nuclei; fusion splits heavy nuclei",
+        "Fission uses protons; fusion uses neutrons",
+        "Fission releases no energy; fusion does"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Nuclear fission splits heavy atomic nuclei (like uranium), while fusion joins light nuclei (like hydrogen) together—both release enormous energy."
+    },
+    {
+      "id": 43,
+      "text": "What is a quantum of light called?",
+      "options": ["Electron", "Photon", "Neutrino", "Quark"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A photon is the quantum (particle) of electromagnetic radiation, including visible light."
+    },
+    {
+      "id": 44,
+      "text": "What process do bacteria use to transfer genetic material between cells without reproduction?",
+      "options": ["Transduction", "Transformation", "Conjugation", "All of the above"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "Bacteria transfer genetic material via transduction (phage-mediated), transformation (uptake of free DNA), and conjugation (direct cell contact)."
+    },
+    {
+      "id": 45,
+      "text": "What type of chemical bond involves the sharing of electrons between atoms?",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Van der Waals bond"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Covalent bonds form when atoms share one or more pairs of electrons to achieve a stable electron configuration."
+    },
+    {
+      "id": 46,
+      "text": "Which theory in geology describes the movement of Earth's lithospheric plates?",
+      "options": ["Continental drift", "Seafloor spreading", "Plate tectonics", "Isostasy"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Plate tectonics describes how Earth's lithosphere is divided into plates that move, causing earthquakes, volcanoes, and mountain formation."
+    },
+    {
+      "id": 47,
+      "text": "What is the name of the force carrier particle for the strong nuclear force?",
+      "options": ["Boson", "Gluon", "W boson", "Higgs boson"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Gluons are the force carrier particles of the strong nuclear force, holding quarks together inside protons and neutrons."
+    },
+    {
+      "id": 48,
+      "text": "In which phase of mitosis do chromosomes line up along the cell's equator?",
+      "options": ["Prophase", "Anaphase", "Metaphase", "Telophase"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "During metaphase, chromosomes align along the metaphase plate (cell's equator) before being pulled apart."
+    },
+    {
+      "id": 49,
+      "text": "What is the Chandrasekhar limit?",
+      "options": [
+        "The maximum brightness of a supernova",
+        "The maximum mass of a stable white dwarf star",
+        "The minimum mass for a black hole",
+        "The distance at which gravity equals zero"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Chandrasekhar limit (~1.4 solar masses) is the maximum mass a white dwarf star can have without collapsing into a neutron star."
+    },
+    {
+      "id": 50,
+      "text": "What is CRISPR-Cas9 primarily used for in biology?",
+      "options": [
+        "Sequencing DNA rapidly",
+        "Producing proteins in bacteria",
+        "Editing specific genes in a genome",
+        "Visualizing cell structures"
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "CRISPR-Cas9 is a gene-editing tool that allows scientists to precisely cut and modify specific sequences in a genome."
+    }
+  ]
+}

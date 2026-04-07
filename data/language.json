@@ -1,0 +1,509 @@
+{
+  "id": "language",
+  "name": "Language & Words",
+  "description": "Test your knowledge of words, grammar, and language origins.",
+  "icon": "🗣️",
+  "color": "#d97706",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the correct plural of 'criterion'?",
+      "options": ["criterions", "criteria", "criterias", "criterium"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Criterion is a Greek-origin word; its plural follows the Greek pattern, making it 'criteria'."
+    },
+    {
+      "id": 2,
+      "text": "Which word means 'a fear of spiders'?",
+      "options": ["arachnophobia", "acrophobia", "agoraphobia", "aquaphobia"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Arachnophobia combines 'arachne' (Greek for spider) and 'phobia' (fear)."
+    },
+    {
+      "id": 3,
+      "text": "What does the prefix 'bene-' mean in English?",
+      "options": ["bad", "good", "two", "under"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Latin prefix 'bene-' means 'good' or 'well', as seen in words like 'benefit' and 'benevolent'."
+    },
+    {
+      "id": 4,
+      "text": "Which sentence uses the Oxford comma correctly?",
+      "options": [
+        "I bought apples, oranges and bananas.",
+        "I bought apples, oranges, and bananas.",
+        "I bought apples oranges, and bananas.",
+        "I bought apples, oranges, and, bananas."
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Oxford comma is the comma placed before the final 'and' in a list, as in 'apples, oranges, and bananas'."
+    },
+    {
+      "id": 5,
+      "text": "What language did the word 'coffee' originate from?",
+      "options": ["French", "Italian", "Arabic", "Turkish"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The word 'coffee' derives from the Arabic word 'qahwa', which referred to a type of wine made from coffee beans."
+    },
+    {
+      "id": 6,
+      "text": "What is a 'homophone'?",
+      "options": [
+        "A word that means the same as another",
+        "A word that sounds the same as another but has a different meaning",
+        "A word that is spelled the same as another",
+        "A word that is opposite in meaning to another"
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Homophones are words that sound identical when spoken but differ in spelling or meaning, like 'there' and 'their'."
+    },
+    {
+      "id": 7,
+      "text": "Which of these is an example of an idiom?",
+      "options": [
+        "The sun is bright today.",
+        "She runs quickly.",
+        "It's raining cats and dogs.",
+        "He ate the apple."
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "'Raining cats and dogs' is an idiom meaning heavy rain; its meaning cannot be inferred literally from the words."
+    },
+    {
+      "id": 8,
+      "text": "What does 'circa' (often abbreviated 'c.') mean?",
+      "options": ["approximately", "exactly", "after", "before"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Circa is a Latin word meaning 'approximately' or 'around', commonly used with dates."
+    },
+    {
+      "id": 9,
+      "text": "Which punctuation mark is used to show possession in English?",
+      "options": ["comma", "hyphen", "apostrophe", "semicolon"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "An apostrophe followed by 's' (or just an apostrophe for plurals) indicates possession in English."
+    },
+    {
+      "id": 10,
+      "text": "What is the antonym of 'verbose'?",
+      "options": ["wordy", "concise", "eloquent", "articulate"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Verbose means using more words than needed; its antonym is concise, meaning brief and clear."
+    },
+    {
+      "id": 11,
+      "text": "What does the phrase 'carte blanche' mean?",
+      "options": [
+        "a blank document",
+        "a white card",
+        "complete freedom to act",
+        "a French menu"
+      ],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Carte blanche is a French phrase meaning 'blank card', used in English to mean complete freedom to do as one wishes."
+    },
+    {
+      "id": 12,
+      "text": "What is the correct spelling?",
+      "options": ["occurance", "occurence", "occurrence", "ocurrence"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The correct spelling is 'occurrence', with double 'c' and double 'r'."
+    },
+    {
+      "id": 13,
+      "text": "In grammar, what is a 'clause'?",
+      "options": [
+        "A single word that modifies a noun",
+        "A group of words with a subject and a verb",
+        "A phrase with no verb",
+        "A punctuation rule"
+      ],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A clause is a group of words that contains both a subject and a verb, and may or may not form a complete sentence."
+    },
+    {
+      "id": 14,
+      "text": "What does 'e.g.' stand for?",
+      "options": ["every generally", "exempli gratia", "essential grammar", "each given"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "'E.g.' is the abbreviation of the Latin phrase 'exempli gratia', meaning 'for example'."
+    },
+    {
+      "id": 15,
+      "text": "Which word is a conjunction?",
+      "options": ["quickly", "beautiful", "although", "tree"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Conjunctions connect clauses or sentences; 'although' is a subordinating conjunction."
+    },
+    {
+      "id": 16,
+      "text": "What does the Latin phrase 'per se' mean in English?",
+      "options": ["by itself", "through force", "in general", "as follows"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Per se is a Latin phrase meaning 'by itself' or 'in itself', used to refer to something intrinsically."
+    },
+    {
+      "id": 17,
+      "text": "Which word has a Greek origin meaning 'people'?",
+      "options": ["demos", "aqua", "terra", "flora"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "The Greek word 'demos' means 'people' and is the root of words like democracy and demographics."
+    },
+    {
+      "id": 18,
+      "text": "What is the literary device where a part represents the whole (e.g., 'all hands on deck')?",
+      "options": ["metaphor", "synecdoche", "alliteration", "personification"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Synecdoche is a figure of speech where a part is used to represent the whole, as 'hands' means sailors."
+    },
+    {
+      "id": 19,
+      "text": "From which language does English borrow the word 'schadenfreude'?",
+      "options": ["Swedish", "Dutch", "German", "Yiddish"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Schadenfreude is a German loanword meaning pleasure derived from another person's misfortune."
+    },
+    {
+      "id": 20,
+      "text": "What is the term for a word that reads the same backward and forward?",
+      "options": ["anagram", "palindrome", "homonym", "portmanteau"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A palindrome reads the same forwards and backwards, like the words 'racecar' or 'level'."
+    },
+    {
+      "id": 21,
+      "text": "What is a 'portmanteau' word?",
+      "options": [
+        "A word borrowed from French",
+        "A word formed by combining two words",
+        "A word with silent letters",
+        "A word that has changed meaning over time"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A portmanteau word blends two words together, such as 'brunch' (breakfast + lunch) or 'smog' (smoke + fog)."
+    },
+    {
+      "id": 22,
+      "text": "In which language does 'Wanderlust' originate, and what does it mean?",
+      "options": [
+        "French; love of travel",
+        "German; desire to wander or travel",
+        "Dutch; homesickness",
+        "Swedish; adventure spirit"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Wanderlust is a German word meaning a strong desire to wander or travel."
+    },
+    {
+      "id": 23,
+      "text": "What is the rhetorical device of repeating the same word or phrase at the beginning of successive clauses?",
+      "options": ["epistrophe", "anaphora", "chiasmus", "asyndeton"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Anaphora is the repetition of a word or phrase at the beginning of successive clauses, as in 'I have a dream'."
+    },
+    {
+      "id": 24,
+      "text": "Which word means 'the study of the origin of words'?",
+      "options": ["phonology", "syntax", "etymology", "morphology"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Etymology is the branch of linguistics that studies the origin and history of words."
+    },
+    {
+      "id": 25,
+      "text": "What does the Japanese word 'Ikigai' roughly translate to?",
+      "options": [
+        "a reason for being",
+        "inner peace",
+        "the art of tidying",
+        "flow state"
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Ikigai is a Japanese concept meaning 'a reason for being', describing what makes life worth living."
+    },
+    {
+      "id": 26,
+      "text": "The word 'salary' derives from the Latin word 'salarium'. What does 'salarium' relate to?",
+      "options": ["gold", "salt", "silver coins", "bread"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Salarium relates to salt; Roman soldiers were sometimes paid in salt or given money to buy salt, giving us the word salary."
+    },
+    {
+      "id": 27,
+      "text": "Which language family does English belong to?",
+      "options": ["Romance", "Slavic", "Germanic", "Celtic"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "English belongs to the Germanic branch of the Indo-European language family."
+    },
+    {
+      "id": 28,
+      "text": "What grammatical mood is used to express wishes, hypotheticals, or doubts (e.g., 'If I were you')?",
+      "options": ["indicative", "imperative", "subjunctive", "interrogative"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The subjunctive mood expresses wishes, hypotheticals, or conditions contrary to fact, as in 'If I were rich'."
+    },
+    {
+      "id": 29,
+      "text": "What is a 'malapropism'?",
+      "options": [
+        "Using a word that sounds like the intended word but has a different meaning",
+        "Deliberately misspelling a word for effect",
+        "Using an overly formal word in casual speech",
+        "Repeating the same word in a sentence"
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "A malapropism is the mistaken use of a word in place of a similar-sounding one, named after Mrs. Malaprop in Sheridan's play."
+    },
+    {
+      "id": 30,
+      "text": "What does the phrase 'in medias res' mean?",
+      "options": [
+        "in the middle of things",
+        "at the very end",
+        "from the beginning",
+        "in plain language"
+      ],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "In medias res is a Latin phrase meaning 'in the middle of things', describing a narrative that begins mid-action."
+    },
+    {
+      "id": 31,
+      "text": "How many letters are in the Hawaiian alphabet?",
+      "options": ["10", "13", "18", "26"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Hawaiian alphabet has 13 letters: 5 vowels (a, e, i, o, u) and 8 consonants (h, k, l, m, n, p, w, and the okina)."
+    },
+    {
+      "id": 32,
+      "text": "What is the term for words with opposite meanings?",
+      "options": ["synonyms", "antonyms", "homophones", "homographs"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Antonyms are words with opposite meanings, such as 'hot' and 'cold' or 'fast' and 'slow'."
+    },
+    {
+      "id": 33,
+      "text": "Which figure of speech gives human characteristics to non-human things?",
+      "options": ["hyperbole", "simile", "personification", "oxymoron"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Personification attributes human qualities or actions to objects, animals, or abstract ideas."
+    },
+    {
+      "id": 34,
+      "text": "What does the Danish concept 'hygge' mean?",
+      "options": [
+        "a type of bread",
+        "cozy contentment and well-being",
+        "outdoor adventure",
+        "community solidarity"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Hygge is a Danish and Norwegian concept meaning cozy contentment, warmth, and well-being enjoyed with good people."
+    },
+    {
+      "id": 35,
+      "text": "What part of speech is the word 'however' when used at the start of a sentence?",
+      "options": ["preposition", "conjunction", "conjunctive adverb", "relative pronoun"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "When 'however' starts a sentence or clause to show contrast, it functions as a conjunctive adverb."
+    },
+    {
+      "id": 36,
+      "text": "What is the linguistic term for the smallest unit of meaning in a language?",
+      "options": ["phoneme", "morpheme", "syllable", "grapheme"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A morpheme is the smallest grammatical unit that carries meaning; for example, 'unhappy' contains two morphemes: 'un-' and 'happy'."
+    },
+    {
+      "id": 37,
+      "text": "Which rhetorical device reverses the grammatical structure of two parallel phrases (e.g., 'Ask not what your country can do for you; ask what you can do for your country')?",
+      "options": ["anaphora", "chiasmus", "zeugma", "litotes"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Chiasmus reverses grammatical structures in successive phrases, creating a mirror-image balance."
+    },
+    {
+      "id": 38,
+      "text": "What is the Sapir-Whorf hypothesis concerned with?",
+      "options": [
+        "The evolution of written language",
+        "Whether language influences thought",
+        "How children acquire language",
+        "The origin of the Indo-European family"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Sapir-Whorf (linguistic relativity) hypothesis proposes that the language one speaks influences how one perceives and thinks about the world."
+    },
+    {
+      "id": 39,
+      "text": "What is 'apophasis' as a rhetorical device?",
+      "options": [
+        "Mentioning something by saying you will not mention it",
+        "Using understatement to emphasize a point",
+        "Asking a question that requires no answer",
+        "Comparing two unlike things without 'like' or 'as'"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Apophasis (also called paralipsis) is drawing attention to something by claiming to pass over it, e.g., 'I won't mention his poor record'."
+    },
+    {
+      "id": 40,
+      "text": "What is the technical term for the phenomenon where a word's meaning becomes more positive over time (e.g., 'pretty' once meant 'cunning')?",
+      "options": ["amelioration", "pejoration", "narrowing", "broadening"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Amelioration is semantic change where a word's meaning improves or becomes more positive over time."
+    },
+    {
+      "id": 41,
+      "text": "In Mandarin Chinese, what is the approximate number of tones in standard Mandarin (Putonghua)?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Standard Mandarin has 4 tones (plus a neutral/fifth tone), and the tone of a syllable changes its meaning entirely."
+    },
+    {
+      "id": 42,
+      "text": "What is a 'hapax legomenon'?",
+      "options": [
+        "A word that appears only once in a written record",
+        "A word borrowed from a dead language",
+        "A phrase with no direct translation",
+        "A word that has lost its original meaning"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "A hapax legomenon is a word that occurs only once within a context, such as a single author's works or the entire written record of a language."
+    },
+    {
+      "id": 43,
+      "text": "The word 'assassin' is believed to derive from which Arabic term?",
+      "options": ["hashishin (hashish users)", "qatil (killer)", "muqatil (fighter)", "dabbas (one who strikes)"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Assassin is thought to derive from 'hashishin', referring to members of a medieval Ismaili sect said to use hashish."
+    },
+    {
+      "id": 44,
+      "text": "What is 'eggcorn' in linguistics?",
+      "options": [
+        "A word whose letters can be rearranged to form another word",
+        "A misheard phrase that still makes some sense (e.g., 'eggcorn' for 'acorn')",
+        "A compound word formed from two animals",
+        "A word that exists only in written but not spoken form"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "An eggcorn is an idiosyncratic substitution of a word for one that sounds similar and retains plausible meaning, like 'eggcorn' for 'acorn'."
+    },
+    {
+      "id": 45,
+      "text": "Which language has the most native speakers in the world?",
+      "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Mandarin Chinese has the most native speakers of any language, with over 900 million native speakers worldwide."
+    },
+    {
+      "id": 46,
+      "text": "What is a 'tmesis' in linguistics?",
+      "options": [
+        "A silent letter cluster",
+        "Inserting a word within another word (e.g., 'abso-blooming-lutely')",
+        "Converting a noun into a verb",
+        "Dropping syllables from a word"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Tmesis is the insertion of a word or phrase within another word, commonly used for emphasis or humor."
+    },
+    {
+      "id": 47,
+      "text": "What does the linguistic term 'diphthong' refer to?",
+      "options": [
+        "Two consonants that together make one sound",
+        "A vowel sound that glides between two positions in one syllable",
+        "Two words that share the same spelling",
+        "A punctuation mark connecting two independent clauses"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A diphthong is a vowel sound in which the tongue moves from one position to another within the same syllable, as in the word 'coin'."
+    },
+    {
+      "id": 48,
+      "text": "In phonetics, what does 'alveolar' describe?",
+      "options": [
+        "Sounds made with both lips",
+        "Sounds made with the tongue touching the ridge behind the upper teeth",
+        "Sounds made at the back of the throat",
+        "Sounds made with the teeth and lower lip"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Alveolar sounds are produced with the tongue touching or near the alveolar ridge behind the upper front teeth, as in the sounds /t/, /d/, /n/, and /s/."
+    },
+    {
+      "id": 49,
+      "text": "What is Grimm's Law concerned with?",
+      "options": [
+        "Rules for fairy tale narrative structure",
+        "A systematic sound shift in Proto-Germanic languages",
+        "The evolution of alphabets in Europe",
+        "Principles of formal grammar classification"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Grimm's Law describes a systematic consonant shift that occurred in Proto-Germanic languages, distinguishing them from other Indo-European languages."
+    },
+    {
+      "id": 50,
+      "text": "What is 'code-switching' in sociolinguistics?",
+      "options": [
+        "Translating a text from one language to another",
+        "Alternating between two or more languages in a single conversation",
+        "Using formal language in informal settings",
+        "Teaching a second language through immersion"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Code-switching is the practice of alternating between two or more languages or dialects within a single conversation or utterance."
+    }
+  ]
+}

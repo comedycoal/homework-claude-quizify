@@ -1,0 +1,409 @@
+{
+  "id": "economics",
+  "name": "Economics & Business",
+  "description": "Explore markets, entrepreneurs, and the forces shaping our economy.",
+  "icon": "💰",
+  "color": "#059669",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What does GDP stand for?",
+      "options": ["General Domestic Product", "Gross Domestic Product", "Global Development Pace", "Government Debt Percentage"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "GDP stands for Gross Domestic Product, the total monetary value of goods and services produced within a country in a given period."
+    },
+    {
+      "id": 2,
+      "text": "Who founded Apple Inc.?",
+      "options": ["Bill Gates and Paul Allen", "Steve Jobs, Steve Wozniak, and Ronald Wayne", "Jeff Bezos and Larry Page", "Elon Musk and Peter Thiel"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne in Cupertino, California."
+    },
+    {
+      "id": 3,
+      "text": "What is the term for a general rise in prices over time?",
+      "options": ["Deflation", "Recession", "Inflation", "Stagflation"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Inflation refers to the sustained increase in the general price level of goods and services in an economy."
+    },
+    {
+      "id": 4,
+      "text": "Which stock exchange is the largest in the world by market capitalization?",
+      "options": ["London Stock Exchange", "Tokyo Stock Exchange", "New York Stock Exchange", "NASDAQ"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The New York Stock Exchange (NYSE) is the world's largest stock exchange by market capitalization."
+    },
+    {
+      "id": 5,
+      "text": "What currency does Japan use?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Japan's official currency is the Japanese Yen (JPY)."
+    },
+    {
+      "id": 6,
+      "text": "Who is known as the 'Oracle of Omaha'?",
+      "options": ["George Soros", "Warren Buffett", "Charlie Munger", "Ray Dalio"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Warren Buffett, CEO of Berkshire Hathaway and legendary value investor, is nicknamed the 'Oracle of Omaha.'"
+    },
+    {
+      "id": 7,
+      "text": "What does 'supply and demand' determine in a free market?",
+      "options": ["Tax rates", "Price of goods and services", "Government spending", "Trade deficits"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "In a free market, the interaction of supply and demand determines the price and quantity of goods and services."
+    },
+    {
+      "id": 8,
+      "text": "What is the name of Amazon's founder?",
+      "options": ["Larry Ellison", "Mark Zuckerberg", "Jeff Bezos", "Reed Hastings"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Jeff Bezos founded Amazon in 1994, originally as an online bookstore, which grew into the world's largest e-commerce company."
+    },
+    {
+      "id": 9,
+      "text": "What does 'IPO' stand for in finance?",
+      "options": ["International Purchase Order", "Initial Public Offering", "Interim Profit Output", "Investment Portfolio Option"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "An IPO (Initial Public Offering) is when a private company first sells shares to the public on a stock exchange."
+    },
+    {
+      "id": 10,
+      "text": "Which country has the world's largest economy by nominal GDP?",
+      "options": ["China", "Japan", "United States", "Germany"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The United States has the world's largest economy by nominal GDP, exceeding $25 trillion annually."
+    },
+    {
+      "id": 11,
+      "text": "What is a 'bear market'?",
+      "options": ["A market where prices are rising", "A market with heavy trading volume", "A market where prices are falling 20% or more", "A market dominated by commodities"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A bear market is defined as a decline of 20% or more in market prices, typically signaling widespread pessimism."
+    },
+    {
+      "id": 12,
+      "text": "What does 'OPEC' stand for?",
+      "options": ["Organization of Petroleum Exporting Countries", "Oil Producing Economies Committee", "Organization for Pacific Economic Cooperation", "Oil and Petroleum Export Council"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "OPEC stands for the Organization of the Petroleum Exporting Countries, a cartel that coordinates oil production policies."
+    },
+    {
+      "id": 13,
+      "text": "Who wrote 'The Wealth of Nations'?",
+      "options": ["John Maynard Keynes", "Adam Smith", "David Ricardo", "Milton Friedman"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Adam Smith published 'The Wealth of Nations' in 1776, laying the foundation for modern economics."
+    },
+    {
+      "id": 14,
+      "text": "What is the currency of the European Union?",
+      "options": ["Franc", "Mark", "Euro", "Pound"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Euro (EUR) is the official currency used by 20 of the 27 EU member states."
+    },
+    {
+      "id": 15,
+      "text": "What does ROI stand for in business?",
+      "options": ["Rate of Inflation", "Return on Investment", "Revenue on Interest", "Risk of Insolvency"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "ROI (Return on Investment) measures the profitability of an investment relative to its cost."
+    },
+    {
+      "id": 16,
+      "text": "Which company was the first to reach a $1 trillion market capitalization?",
+      "options": ["Google", "Microsoft", "Amazon", "Apple"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Apple became the first publicly traded U.S. company to reach a $1 trillion market capitalization in August 2018."
+    },
+    {
+      "id": 17,
+      "text": "What is the primary function of a central bank?",
+      "options": ["To provide personal loans to citizens", "To manage monetary policy and regulate the money supply", "To collect taxes", "To oversee international trade"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Central banks manage monetary policy, control the money supply, and often act as lenders of last resort to the banking system."
+    },
+    {
+      "id": 18,
+      "text": "What is 'quantitative easing'?",
+      "options": ["Reducing interest rates to zero", "A central bank purchasing securities to inject money into the economy", "Lowering tax rates to stimulate growth", "Devaluing a currency to boost exports"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Quantitative easing is when a central bank buys securities to increase the money supply and stimulate economic activity."
+    },
+    {
+      "id": 19,
+      "text": "The 2008 financial crisis was primarily triggered by which sector?",
+      "options": ["Tech industry", "Automobile industry", "Subprime mortgage market", "Agricultural sector"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The 2008 financial crisis was primarily caused by the collapse of the subprime mortgage market and related financial instruments."
+    },
+    {
+      "id": 20,
+      "text": "Which economic theory argues that government spending can stimulate economic growth during a recession?",
+      "options": ["Supply-side economics", "Monetarism", "Keynesian economics", "Austrian economics"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Keynesian economics, developed by John Maynard Keynes, advocates for government intervention and spending to stimulate economic demand."
+    },
+    {
+      "id": 21,
+      "text": "What is a 'monopoly' in economics?",
+      "options": ["A market with many competing sellers", "A market dominated by a single seller", "A government-controlled market", "A market where two firms compete"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A monopoly exists when a single seller controls an entire market, allowing it to set prices without competitive pressure."
+    },
+    {
+      "id": 22,
+      "text": "What is the 'invisible hand' concept in economics?",
+      "options": ["Government regulation of markets", "The self-regulating nature of a free market through individual self-interest", "Central bank intervention", "Corporate lobbying influence"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Adam Smith's 'invisible hand' describes how individuals pursuing self-interest unintentionally benefit society through market mechanisms."
+    },
+    {
+      "id": 23,
+      "text": "Which global institution provides loans to developing countries to reduce poverty?",
+      "options": ["International Monetary Fund", "World Trade Organization", "World Bank", "Bank for International Settlements"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The World Bank provides financial and technical assistance to developing countries for development projects aimed at reducing poverty."
+    },
+    {
+      "id": 24,
+      "text": "What does 'NASDAQ' primarily list?",
+      "options": ["Energy companies", "Technology and growth companies", "Financial institutions only", "Government bonds"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "NASDAQ is known for listing technology and growth-oriented companies and is home to firms like Apple, Google, and Microsoft."
+    },
+    {
+      "id": 25,
+      "text": "What is 'comparative advantage' in international trade?",
+      "options": ["The ability to produce more goods than another country", "The ability to produce a good at a lower opportunity cost than others", "Having a trade surplus with all partners", "Producing the highest quality goods"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Comparative advantage is the ability to produce a good at a lower opportunity cost, forming the basis for beneficial international trade."
+    },
+    {
+      "id": 26,
+      "text": "What company created the first modern assembly line for mass production?",
+      "options": ["General Motors", "Ford Motor Company", "Chrysler", "Standard Oil"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Henry Ford introduced the moving assembly line at the Highland Park plant in 1913, revolutionizing industrial manufacturing."
+    },
+    {
+      "id": 27,
+      "text": "What is 'stagflation'?",
+      "options": ["High economic growth with low inflation", "High inflation combined with stagnant economic growth and high unemployment", "A stock market crash followed by deflation", "Rapid economic growth leading to overheating"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Stagflation is the unusual combination of high inflation, high unemployment, and stagnant economic growth, seen in the 1970s."
+    },
+    {
+      "id": 28,
+      "text": "Which country is the world's largest exporter of goods?",
+      "options": ["United States", "Germany", "China", "Japan"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "China has been the world's largest exporter of goods since 2009, driven by its massive manufacturing sector."
+    },
+    {
+      "id": 29,
+      "text": "What is the 'Dow Jones Industrial Average'?",
+      "options": ["A measure of U.S. GDP growth", "A stock market index tracking 30 large U.S. companies", "The total value of all U.S. stocks", "A measure of industrial output"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Dow Jones Industrial Average (DJIA) is a price-weighted index tracking 30 major publicly traded U.S. companies."
+    },
+    {
+      "id": 30,
+      "text": "Which entrepreneur founded Tesla Motors?",
+      "options": ["Elon Musk alone", "Martin Eberhard and Marc Tarpenning", "Jeff Bezos and Elon Musk", "Larry Page and Sergey Brin"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Tesla was founded in 2003 by Martin Eberhard and Marc Tarpenning; Elon Musk joined as chairman in 2004."
+    },
+    {
+      "id": 31,
+      "text": "What economic indicator measures the average price level of a basket of goods over time?",
+      "options": ["Consumer Price Index (CPI)", "Producer Price Index (PPI)", "GDP Deflator", "Trade Balance"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "The Consumer Price Index (CPI) tracks changes in the price level of a market basket of consumer goods and services."
+    },
+    {
+      "id": 32,
+      "text": "What is a 'hedge fund'?",
+      "options": ["A government investment fund", "An alternative investment fund using advanced strategies for high returns", "A bank savings account", "A mutual fund for small investors"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A hedge fund is a private investment fund that uses a range of strategies, including leverage and derivatives, to generate returns."
+    },
+    {
+      "id": 33,
+      "text": "The 'BRICS' nations are known for being what?",
+      "options": ["The richest nations by per capita income", "Major emerging market economies", "Countries with the largest trade surpluses", "The oldest stock markets"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "BRICS (Brazil, Russia, India, China, South Africa) represents major emerging market economies with significant global economic influence."
+    },
+    {
+      "id": 34,
+      "text": "What does 'venture capital' primarily fund?",
+      "options": ["Government infrastructure projects", "Early-stage, high-growth potential startups", "Real estate development", "Blue-chip established corporations"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Venture capital provides financing to early-stage startups and small businesses with high growth potential in exchange for equity."
+    },
+    {
+      "id": 35,
+      "text": "Which country experienced hyperinflation where prices doubled every 24 hours in 2008?",
+      "options": ["Venezuela", "Argentina", "Zimbabwe", "Germany"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Zimbabwe experienced one of history's worst hyperinflation episodes in 2008, eventually abandoning its currency."
+    },
+    {
+      "id": 36,
+      "text": "What is the 'Laffer Curve' concept in economics?",
+      "options": ["The relationship between wages and worker productivity", "The idea that beyond a certain tax rate, increasing taxes reduces total tax revenue", "The correlation between inflation and unemployment", "The diminishing returns of government spending"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Laffer Curve illustrates that tax revenue is zero at both 0% and 100% tax rates, with an optimal rate in between."
+    },
+    {
+      "id": 37,
+      "text": "What is the 'Gini coefficient' used to measure?",
+      "options": ["Economic growth rate", "Income or wealth inequality within a population", "Inflation rate", "International trade balance"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Gini coefficient is a statistical measure of income or wealth distribution, where 0 represents perfect equality and 1 perfect inequality."
+    },
+    {
+      "id": 38,
+      "text": "Which economic theory is associated with Milton Friedman?",
+      "options": ["Keynesian economics", "Monetarism", "Supply-side economics", "Behavioral economics"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Milton Friedman was the leading proponent of monetarism, which emphasizes the role of money supply in determining economic outcomes."
+    },
+    {
+      "id": 39,
+      "text": "What is 'moral hazard' in economics?",
+      "options": ["Unethical business practices", "The tendency to take more risks when protected from consequences", "Tax evasion by corporations", "Insider trading in stock markets"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Moral hazard occurs when one party takes on more risk because the negative consequences are borne by another party."
+    },
+    {
+      "id": 40,
+      "text": "The 'Dutch Disease' economic phenomenon refers to what?",
+      "options": ["Tulip bubble collapse of 1637", "Negative effects on manufacturing from a resource boom", "High taxation causing capital flight", "Trade deficits from currency overvaluation"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Dutch Disease describes how a natural resource boom causes currency appreciation that harms other export sectors."
+    },
+    {
+      "id": 41,
+      "text": "What is 'Creative Destruction' in economics, as described by Joseph Schumpeter?",
+      "options": ["Government policy to eliminate monopolies", "Innovation that creates new industries while destroying old ones", "Wartime economic mobilization", "Corporate restructuring through bankruptcy"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Schumpeter's Creative Destruction describes capitalism's process where innovation perpetually revolutionizes economic structure, destroying old industries and creating new ones."
+    },
+    {
+      "id": 42,
+      "text": "The 'Bretton Woods' agreement (1944) established what?",
+      "options": ["The World Trade Organization rules", "The post-war international monetary system with USD as reserve currency", "The Marshall Plan for European recovery", "The General Agreement on Tariffs and Trade"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Bretton Woods established the post-WWII monetary order, pegging currencies to the U.S. dollar, which was backed by gold."
+    },
+    {
+      "id": 43,
+      "text": "What is 'adverse selection' in economics?",
+      "options": ["Choosing the worst investment", "Information asymmetry where one party has better information, leading to poor market outcomes", "Consumer selection of inferior products", "Government choosing inefficient industries to subsidize"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Adverse selection occurs when information asymmetry before a transaction leads to suboptimal market participants being selected."
+    },
+    {
+      "id": 44,
+      "text": "Which economic model predicts that convergence of income levels between countries will occur over time?",
+      "options": ["Dependency theory", "Neoclassical growth model (Solow model)", "World systems theory", "Mercantilism"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Solow growth model predicts that poor countries will grow faster than rich ones, leading to convergence of income levels."
+    },
+    {
+      "id": 45,
+      "text": "What is the 'Mundell-Fleming trilemma' in international economics?",
+      "options": ["The impossibility of simultaneously having free capital flows, a fixed exchange rate, and independent monetary policy", "The relationship between trade, inflation, and unemployment", "A model of optimal currency area theory", "The three conditions for a successful trade agreement"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "The Mundell-Fleming trilemma states a country cannot simultaneously maintain free capital movement, a fixed exchange rate, and independent monetary policy."
+    },
+    {
+      "id": 46,
+      "text": "The 'Tulip Mania' of 1636-1637 in the Netherlands is considered what?",
+      "options": ["The first successful commodity futures market", "One of history's earliest recorded speculative bubbles", "The origin of the Dutch East India Company", "The first modern stock market crash"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Tulip Mania in 1636-37, when tulip bulb prices reached extraordinary peaks before collapsing, is considered one of the first recorded speculative bubbles."
+    },
+    {
+      "id": 47,
+      "text": "What is 'rent-seeking' behavior in economics?",
+      "options": ["Landlord price gouging", "Gaining wealth by manipulating the economic or political environment rather than creating value", "Investing in real estate for passive income", "Government subsidies to the housing market"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Rent-seeking refers to using resources to gain wealth through political or economic manipulation rather than through productive activity."
+    },
+    {
+      "id": 48,
+      "text": "Which economist first formalized the theory of comparative advantage?",
+      "options": ["Adam Smith", "John Stuart Mill", "David Ricardo", "Thomas Malthus"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "David Ricardo formally developed the theory of comparative advantage in his 1817 work 'On the Principles of Political Economy and Taxation.'"
+    },
+    {
+      "id": 49,
+      "text": "What does 'quantitative tightening' (QT) refer to?",
+      "options": ["Raising interest rates sharply", "A central bank reducing its balance sheet by selling securities", "Implementing strict capital requirements on banks", "Reducing government spending to balance the budget"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Quantitative tightening is when a central bank reduces its balance sheet by allowing securities to mature or selling them, removing money from circulation."
+    },
+    {
+      "id": 50,
+      "text": "The 'Efficient Market Hypothesis' was primarily developed by which economist?",
+      "options": ["Robert Shiller", "Eugene Fama", "Paul Samuelson", "Fischer Black"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Eugene Fama developed the Efficient Market Hypothesis, which states that asset prices fully reflect all available information."
+    }
+  ]
+}

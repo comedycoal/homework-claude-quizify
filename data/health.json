@@ -1,0 +1,409 @@
+{
+  "id": "health",
+  "name": "Health & Medicine",
+  "description": "Test your knowledge of the human body and medicine.",
+  "icon": "🏥",
+  "color": "#dc2626",
+  "questions": [
+    {
+      "id": 1,
+      "text": "How many bones are in an adult human body?",
+      "options": ["196", "206", "216", "226"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The adult human body has 206 bones, though babies are born with around 270 bones that fuse together over time."
+    },
+    {
+      "id": 2,
+      "text": "What organ pumps blood throughout the body?",
+      "options": ["Liver", "Kidney", "Lung", "Heart"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The heart is a muscular organ that pumps blood through the circulatory system, supplying oxygen and nutrients to the body."
+    },
+    {
+      "id": 3,
+      "text": "Which vitamin is produced by the skin when exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The skin produces Vitamin D when exposed to ultraviolet B (UVB) radiation from sunlight, essential for bone health."
+    },
+    {
+      "id": 4,
+      "text": "What is the largest organ of the human body?",
+      "options": ["Liver", "Lungs", "Skin", "Brain"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The skin is the largest organ of the human body, covering an average area of about 2 square meters in adults."
+    },
+    {
+      "id": 5,
+      "text": "What does CPR stand for?",
+      "options": ["Cardiac Pulse Restoration", "Cardiopulmonary Resuscitation", "Chest Pressure Response", "Critical Patient Recovery"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "CPR stands for Cardiopulmonary Resuscitation, an emergency procedure combining chest compressions and rescue breathing."
+    },
+    {
+      "id": 6,
+      "text": "Which blood type is known as the universal donor?",
+      "options": ["A positive", "B negative", "O negative", "AB positive"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "O negative blood type is called the universal donor because it can be transfused to patients of any blood type in emergencies."
+    },
+    {
+      "id": 7,
+      "text": "What is the normal resting heart rate range for adults?",
+      "options": ["40-50 bpm", "60-100 bpm", "100-120 bpm", "50-60 bpm"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A normal resting heart rate for adults is 60-100 beats per minute, though trained athletes may have lower rates."
+    },
+    {
+      "id": 8,
+      "text": "Which organ filters toxins from the blood?",
+      "options": ["Kidney", "Spleen", "Liver", "Pancreas"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The liver is the primary organ responsible for filtering toxins from the blood and processing nutrients from food."
+    },
+    {
+      "id": 9,
+      "text": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4", "6"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The human heart has 4 chambers: two upper atria and two lower ventricles, working together to circulate blood."
+    },
+    {
+      "id": 10,
+      "text": "What is the most common type of blood type in humans?",
+      "options": ["AB", "B", "O", "A"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Blood type O is the most common blood type worldwide, with O positive being particularly prevalent."
+    },
+    {
+      "id": 11,
+      "text": "Which mineral is essential for strong bones and teeth?",
+      "options": ["Iron", "Calcium", "Potassium", "Sodium"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Calcium is the most abundant mineral in the body and is essential for building and maintaining strong bones and teeth."
+    },
+    {
+      "id": 12,
+      "text": "What is the recommended daily water intake for adults?",
+      "options": ["1 liter", "2 liters", "About 2-3 liters", "5 liters"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "General recommendations suggest about 2-3 liters (8-12 cups) of water per day for adults, varying by activity and climate."
+    },
+    {
+      "id": 13,
+      "text": "Where does digestion begin?",
+      "options": ["Stomach", "Small intestine", "Esophagus", "Mouth"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Digestion begins in the mouth, where saliva contains enzymes (like amylase) that start breaking down food."
+    },
+    {
+      "id": 14,
+      "text": "What does DNA stand for?",
+      "options": ["Deoxyribonucleic Acid", "Diribose Nucleic Acid", "Dynamic Nucleotide Arrangement", "Deoxyribose Nuclear Acid"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "DNA stands for Deoxyribonucleic Acid, the molecule that carries genetic information in all living organisms."
+    },
+    {
+      "id": 15,
+      "text": "Which vitamin is important for vision, especially in low light?",
+      "options": ["Vitamin C", "Vitamin K", "Vitamin A", "Vitamin E"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Vitamin A is essential for the production of rhodopsin, a pigment in the eye needed for vision in low light conditions."
+    },
+    {
+      "id": 16,
+      "text": "How many teeth does a healthy adult have, including wisdom teeth?",
+      "options": ["28", "30", "32", "36"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "A healthy adult has 32 teeth including 4 wisdom teeth (third molars), though many people have their wisdom teeth removed."
+    },
+    {
+      "id": 17,
+      "text": "What is the function of white blood cells?",
+      "options": ["Carry oxygen", "Clot blood", "Fight infections", "Produce hormones"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "White blood cells (leukocytes) are a key part of the immune system and help the body fight infections and disease."
+    },
+    {
+      "id": 18,
+      "text": "What is the medical term for high blood pressure?",
+      "options": ["Hypotension", "Tachycardia", "Hypertension", "Bradycardia"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Hypertension is the medical term for high blood pressure, defined as consistently having blood pressure above 130/80 mmHg."
+    },
+    {
+      "id": 19,
+      "text": "Which part of the brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The cerebellum, located at the back of the brain, coordinates voluntary movements, balance, and posture."
+    },
+    {
+      "id": 20,
+      "text": "What type of joint allows the widest range of movement?",
+      "options": ["Hinge joint", "Pivot joint", "Ball-and-socket joint", "Gliding joint"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Ball-and-socket joints, like the shoulder and hip, allow movement in multiple directions and have the greatest range of motion."
+    },
+    {
+      "id": 21,
+      "text": "What is the name of the enzyme in saliva that begins carbohydrate digestion?",
+      "options": ["Pepsin", "Lipase", "Trypsin", "Amylase"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Salivary amylase (ptyalin) is the enzyme in saliva that begins breaking down carbohydrates (starches) in the mouth."
+    },
+    {
+      "id": 22,
+      "text": "What is the term for the scientific study of the heart?",
+      "options": ["Neurology", "Cardiology", "Hematology", "Pulmonology"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Cardiology is the branch of medicine that deals with the study, diagnosis, and treatment of disorders of the heart."
+    },
+    {
+      "id": 23,
+      "text": "Which hormone regulates blood sugar levels?",
+      "options": ["Adrenaline", "Estrogen", "Insulin", "Cortisol"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Insulin, produced by the pancreas, regulates blood glucose levels by facilitating the uptake of glucose into cells."
+    },
+    {
+      "id": 24,
+      "text": "Who is credited with developing the first successful polio vaccine?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Jonas Salk", "Edward Jenner"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Jonas Salk developed the first safe and effective polio vaccine, announced in 1955, which dramatically reduced polio cases worldwide."
+    },
+    {
+      "id": 25,
+      "text": "What is the function of the kidneys?",
+      "options": ["Produce insulin", "Filter blood and produce urine", "Regulate breathing", "Store bile"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The kidneys filter blood to remove waste products and excess fluids, producing urine that is excreted from the body."
+    },
+    {
+      "id": 26,
+      "text": "What is the medical term for the collarbone?",
+      "options": ["Scapula", "Sternum", "Clavicle", "Humerus"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The clavicle is the medical term for the collarbone, a long bone that connects the sternum to the shoulder blade."
+    },
+    {
+      "id": 27,
+      "text": "Which vitamin deficiency causes scurvy?",
+      "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin D"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Scurvy is caused by a deficiency of Vitamin C (ascorbic acid), which is essential for collagen synthesis."
+    },
+    {
+      "id": 28,
+      "text": "What is the name of the largest artery in the human body?",
+      "options": ["Pulmonary artery", "Femoral artery", "Carotid artery", "Aorta"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The aorta is the largest artery in the body, carrying oxygenated blood from the heart to distribute throughout the body."
+    },
+    {
+      "id": 29,
+      "text": "How long is the average adult small intestine?",
+      "options": ["1.5 meters", "3 meters", "6 meters", "10 meters"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The small intestine is approximately 6 meters (20 feet) long in adults and is the primary site for nutrient absorption."
+    },
+    {
+      "id": 30,
+      "text": "What is the Heimlich maneuver used for?",
+      "options": ["Treating heart attacks", "Dislodging a foreign object from a choking person's airway", "Reducing a dislocated joint", "Stopping severe bleeding"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Heimlich maneuver uses abdominal thrusts to create pressure to dislodge a foreign object blocking the airway of a choking person."
+    },
+    {
+      "id": 31,
+      "text": "Which antibiotic, the first to be widely used, was discovered by Alexander Fleming?",
+      "options": ["Tetracycline", "Amoxicillin", "Streptomycin", "Penicillin"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Alexander Fleming discovered penicillin in 1928 when he noticed that mold (Penicillium) was killing bacteria in a petri dish."
+    },
+    {
+      "id": 32,
+      "text": "What does BMI stand for?",
+      "options": ["Body Mass Index", "Basal Metabolic Indicator", "Blood Muscle Intensity", "Body Measurement Index"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "BMI stands for Body Mass Index, a calculation using height and weight to estimate whether a person has a healthy body weight."
+    },
+    {
+      "id": 33,
+      "text": "What is the medical term for a broken bone?",
+      "options": ["Dislocation", "Sprain", "Fracture", "Contusion"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "A fracture is the medical term for a broken bone, ranging from hairline cracks to complete breaks."
+    },
+    {
+      "id": 34,
+      "text": "Which part of the eye controls the amount of light entering?",
+      "options": ["Cornea", "Retina", "Pupil", "Lens"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The pupil is the opening in the iris that controls the amount of light entering the eye, dilating in dim light and constricting in bright light."
+    },
+    {
+      "id": 35,
+      "text": "What is the name of the condition where the body's immune system attacks itself?",
+      "options": ["Allergic reaction", "Autoimmune disease", "Immunodeficiency", "Hypersensitivity"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Autoimmune diseases occur when the immune system mistakenly attacks the body's own healthy cells and tissues."
+    },
+    {
+      "id": 36,
+      "text": "What is the blood-brain barrier?",
+      "options": ["A surgical procedure to stop brain bleeding", "A selective barrier preventing most substances from entering the brain from blood", "The membrane surrounding the brain", "A network of arteries supplying the brain"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The blood-brain barrier is a highly selective semipermeable border of endothelial cells that regulates what can pass from blood to the brain."
+    },
+    {
+      "id": 37,
+      "text": "What is the medical term for the condition where plaque builds up in the arteries?",
+      "options": ["Thrombosis", "Embolism", "Atherosclerosis", "Arteriosclerosis"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Atherosclerosis is the buildup of fats, cholesterol, and other substances (plaque) in the artery walls, narrowing them and restricting blood flow."
+    },
+    {
+      "id": 38,
+      "text": "Which neurotransmitter is primarily associated with reward and pleasure?",
+      "options": ["Serotonin", "Dopamine", "Acetylcholine", "GABA"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Dopamine is the primary neurotransmitter associated with the brain's reward and pleasure centers, also involved in movement and motivation."
+    },
+    {
+      "id": 39,
+      "text": "What is the glomerular filtration rate (GFR) used to measure?",
+      "options": ["Lung capacity", "Liver enzyme activity", "Kidney function", "Heart output"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "GFR measures how well the kidneys filter waste from the blood; a GFR below 60 mL/min/1.73m² indicates chronic kidney disease."
+    },
+    {
+      "id": 40,
+      "text": "What is the role of telomeres?",
+      "options": ["Produce proteins", "Protect chromosome ends from deterioration", "Regulate gene expression", "Copy DNA during replication"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Telomeres are repetitive DNA sequences at chromosome ends that protect them from degradation; they shorten with each cell division and are linked to aging."
+    },
+    {
+      "id": 41,
+      "text": "Which immunoglobulin class is primarily responsible for the secondary immune response?",
+      "options": ["IgM", "IgA", "IgE", "IgG"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "IgG is the most abundant antibody in blood and the main antibody in the secondary (memory) immune response, providing long-term immunity."
+    },
+    {
+      "id": 42,
+      "text": "What is the sodium-potassium pump responsible for?",
+      "options": ["Filtering blood in kidneys", "Maintaining the electrochemical gradient across cell membranes", "Producing ATP in mitochondria", "Transmitting signals between neurons"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The sodium-potassium (Na+/K+) pump maintains electrochemical gradients by moving 3 Na+ ions out and 2 K+ ions in per ATP consumed."
+    },
+    {
+      "id": 43,
+      "text": "What is the term for programmed cell death?",
+      "options": ["Necrosis", "Apoptosis", "Autophagy", "Lysis"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Apoptosis is a form of programmed cell death that occurs in multicellular organisms as a normal and controlled part of development and homeostasis."
+    },
+    {
+      "id": 44,
+      "text": "Which part of the nephron is responsible for most reabsorption?",
+      "options": ["Bowman's capsule", "Loop of Henle", "Proximal convoluted tubule", "Collecting duct"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The proximal convoluted tubule reabsorbs approximately 65% of filtered sodium, water, and most other solutes from the glomerular filtrate."
+    },
+    {
+      "id": 45,
+      "text": "What is the mechanism of action of beta-blocker medications?",
+      "options": ["Block calcium channels in the heart", "Inhibit ACE enzyme", "Block beta-adrenergic receptors, slowing heart rate", "Increase diuresis"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Beta-blockers block beta-adrenergic receptors, reducing the effects of adrenaline, which slows heart rate and lowers blood pressure."
+    },
+    {
+      "id": 46,
+      "text": "What is the difference between a T cell and a B cell?",
+      "options": ["T cells are produced in bone marrow; B cells in the thymus", "T cells mature in the thymus and mediate cellular immunity; B cells produce antibodies", "T cells fight viruses; B cells fight bacteria only", "T cells are larger; B cells are smaller"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "T cells mature in the thymus and are responsible for cell-mediated immunity; B cells mature in bone marrow and produce antibodies (humoral immunity)."
+    },
+    {
+      "id": 47,
+      "text": "What is the medical term for abnormally low blood sodium levels?",
+      "options": ["Hyperkalemia", "Hyponatremia", "Hypernatremia", "Hypokalemia"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Hyponatremia is a condition where blood sodium concentration falls below 135 mEq/L, causing symptoms ranging from nausea to seizures."
+    },
+    {
+      "id": 48,
+      "text": "Which enzyme is deficient in people with phenylketonuria (PKU)?",
+      "options": ["Lactase", "Phenylalanine hydroxylase", "Glucose-6-phosphatase", "Adenosine deaminase"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "PKU is caused by a deficiency of phenylalanine hydroxylase, which converts phenylalanine to tyrosine, leading to toxic phenylalanine buildup."
+    },
+    {
+      "id": 49,
+      "text": "What is the Frank-Starling law of the heart?",
+      "options": ["Heart rate increases with body temperature", "Stroke volume increases with greater ventricular filling (preload)", "Blood pressure equals cardiac output times resistance", "Heart muscle contracts faster under sympathetic stimulation"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Frank-Starling law states that the heart's stroke volume increases in response to an increase in the volume of blood filling the ventricle (preload)."
+    },
+    {
+      "id": 50,
+      "text": "What is the significance of the HLA (Human Leukocyte Antigen) system?",
+      "options": ["It determines blood type", "It encodes proteins critical for immune recognition and organ transplant compatibility", "It regulates red blood cell production", "It controls clotting factor production"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The HLA system encodes cell-surface proteins that allow the immune system to distinguish self from non-self, critical for organ transplant compatibility."
+    }
+  ]
+}

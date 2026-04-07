@@ -1,0 +1,409 @@
+{
+  "id": "gaming",
+  "name": "Video Games",
+  "description": "Level up your knowledge of gaming history and culture.",
+  "icon": "🎮",
+  "color": "#7c3aed",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the name of the plumber protagonist in Nintendo's most famous franchise?",
+      "options": ["Luigi", "Wario", "Mario", "Toad"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Mario is Nintendo's iconic plumber and the main protagonist of the Super Mario franchise, first appearing in Donkey Kong (1981)."
+    },
+    {
+      "id": 2,
+      "text": "Which company created the Sonic the Hedgehog franchise?",
+      "options": ["Nintendo", "Atari", "Sega", "Capcom"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Sega created Sonic the Hedgehog in 1991 as a mascot to compete with Nintendo's Mario, developed by Yuji Naka and his team."
+    },
+    {
+      "id": 3,
+      "text": "What year was the original PlayStation released in Japan?",
+      "options": ["1992", "1994", "1996", "1998"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The original PlayStation was released in Japan on December 3, 1994, and in North America in September 1995."
+    },
+    {
+      "id": 4,
+      "text": "Which game features the character Link and the Triforce?",
+      "options": ["Metroid", "Fire Emblem", "The Legend of Zelda", "Star Fox"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Legend of Zelda franchise features Link as the main protagonist and the Triforce as a central plot element, created by Nintendo's Shigeru Miyamoto."
+    },
+    {
+      "id": 5,
+      "text": "What is the best-selling video game of all time?",
+      "options": ["Tetris", "Minecraft", "GTA V", "Wii Sports"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Minecraft is the best-selling video game of all time, with over 300 million copies sold across all platforms as of 2024."
+    },
+    {
+      "id": 6,
+      "text": "Which console introduced the concept of motion controls to mainstream gaming?",
+      "options": ["PlayStation 3", "Xbox 360", "Nintendo Wii", "GameCube"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Nintendo Wii, released in 2006, pioneered mainstream motion controls with its Wiimote, making gaming accessible to broader audiences."
+    },
+    {
+      "id": 7,
+      "text": "In which game do players survive on an island by building structures and fighting monsters?",
+      "options": ["Terraria", "Roblox", "Fortnite", "Minecraft"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Minecraft allows players to mine resources, build structures, and survive against monsters in an open-world sandbox environment."
+    },
+    {
+      "id": 8,
+      "text": "What franchise features the character Master Chief?",
+      "options": ["Call of Duty", "Halo", "Gears of War", "Doom"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Master Chief (John-117) is the protagonist of the Halo franchise, created by Bungie and now developed by 343 Industries for Microsoft."
+    },
+    {
+      "id": 9,
+      "text": "Which gaming company is known for the Pokemon franchise?",
+      "options": ["Sega", "Bandai Namco", "Capcom", "Nintendo/Game Freak"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Pokemon was created by Game Freak and is published by Nintendo and The Pokemon Company, with the franchise beginning in 1996 in Japan."
+    },
+    {
+      "id": 10,
+      "text": "What does 'NPC' stand for in gaming?",
+      "options": ["New Player Character", "Non-Playable Character", "Next-gen Processing Core", "Networked Player Control"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "NPC stands for Non-Playable Character, referring to characters in a game that are controlled by the game's AI rather than by a player."
+    },
+    {
+      "id": 11,
+      "text": "Which game popularized the battle royale genre with its 'PUBG' abbreviation?",
+      "options": ["Fortnite", "Apex Legends", "PlayerUnknown's Battlegrounds", "H1Z1"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "PlayerUnknown's Battlegrounds (PUBG), released in 2017 by Brendan Greene, is credited with popularizing the battle royale genre."
+    },
+    {
+      "id": 12,
+      "text": "What is the name of the antagonist in the original Donkey Kong arcade game?",
+      "options": ["Donkey Kong", "King Dedede", "Bowser", "Wario"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "In the original Donkey Kong arcade game (1981), Donkey Kong is the antagonist who kidnaps Pauline while Mario (Jumpman) must rescue her."
+    },
+    {
+      "id": 13,
+      "text": "Which franchise is set in the post-apocalyptic Commonwealth and features the Pip-Boy?",
+      "options": ["The Elder Scrolls", "Wasteland", "Metro", "Fallout"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Fallout franchise features the iconic Pip-Boy wrist computer and is set in a retro-futuristic post-nuclear apocalypse America."
+    },
+    {
+      "id": 14,
+      "text": "In Street Fighter II, which character shouts 'Hadouken'?",
+      "options": ["Ken", "Guile", "Ryu", "Chun-Li"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Ryu is the main character of the Street Fighter series and is known for his Hadouken (fireball) and Shoryuken (dragon punch) moves."
+    },
+    {
+      "id": 15,
+      "text": "What was the first commercially successful home video game console?",
+      "options": ["Atari 2600", "Magnavox Odyssey", "ColecoVision", "Intellivision"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "The Atari 2600 (1977) was the first commercially successful home video game console, popularizing the concept of interchangeable cartridges."
+    },
+    {
+      "id": 16,
+      "text": "Which game developer created the Dark Souls series?",
+      "options": ["Capcom", "Bandai Namco", "FromSoftware", "Square Enix"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "FromSoftware, directed by Hidetaka Miyazaki, created the Dark Souls series, known for its challenging gameplay and intricate lore."
+    },
+    {
+      "id": 17,
+      "text": "What does 'FPS' stand for in gaming?",
+      "options": ["Full Play Score", "First-Person Shooter", "Frame Per Screen", "Final Player Stage"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "FPS stands for First-Person Shooter, a genre of video game where the player experiences the action through the protagonist's eyes."
+    },
+    {
+      "id": 18,
+      "text": "Which game series features the phrase 'It's dangerous to go alone! Take this.'?",
+      "options": ["Final Fantasy", "Dragon Quest", "The Legend of Zelda", "Chrono Trigger"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "This famous line is from the original The Legend of Zelda (1986) for NES, spoken by an old man who gives Link his first sword."
+    },
+    {
+      "id": 19,
+      "text": "What year did the first Grand Theft Auto game release?",
+      "options": ["1995", "1997", "1999", "2001"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The original Grand Theft Auto was released in 1997 by DMA Design (later Rockstar North) for MS-DOS and Windows."
+    },
+    {
+      "id": 20,
+      "text": "Which company developed the Unreal Engine game engine?",
+      "options": ["id Software", "Unity Technologies", "CryEngine", "Epic Games"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Unreal Engine was developed by Epic Games, first released in 1998 with Unreal, and has become one of the most widely used game engines."
+    },
+    {
+      "id": 21,
+      "text": "What is the highest possible score in the classic arcade game Pac-Man?",
+      "options": ["999,990", "1,000,000", "3,333,360", "999,999"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The maximum possible score in Pac-Man is 3,333,360 points, achieved by eating every dot, energizer, ghost, and fruit on all 256 levels."
+    },
+    {
+      "id": 22,
+      "text": "Which game was the first to feature online multiplayer through Xbox Live at launch?",
+      "options": ["Halo: Combat Evolved", "MechAssault", "Moto GP", "Tom Clancy's Ghost Recon"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "MechAssault was one of the launch titles for Xbox Live in November 2002 and was the first game to feature Xbox Live online multiplayer."
+    },
+    {
+      "id": 23,
+      "text": "In which game do players manage a theme park, keeping visitors happy while turning a profit?",
+      "options": ["SimCity", "RollerCoaster Tycoon", "Theme Hospital", "Zoo Tycoon"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "RollerCoaster Tycoon (1999) by Chris Sawyer is a theme park management game where players design, build, and manage an amusement park."
+    },
+    {
+      "id": 24,
+      "text": "What is the name of the esports tournament for Dota 2, known for its massive prize pools?",
+      "options": ["The Summit", "MDL", "ESL One", "The International"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The International (TI) is Dota 2's annual championship, famous for its enormous crowd-funded prize pools, reaching over $40 million in 2021."
+    },
+    {
+      "id": 25,
+      "text": "Which game popularized the 'Metroidvania' sub-genre along with Castlevania: Symphony of the Night?",
+      "options": ["Mega Man X", "Super Metroid", "Contra", "Castlevania III"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Super Metroid (1994) on SNES, along with Castlevania: Symphony of the Night, defined the 'Metroidvania' genre of non-linear exploration platformers."
+    },
+    {
+      "id": 26,
+      "text": "What is the name of the fictional country in Metal Gear Solid called Outer Heaven?",
+      "options": ["Shadow Moses", "Zanzibar Land", "Outer Haven", "Big Shell"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Zanzibar Land is the fictional militarized nation in Metal Gear 2: Solid Snake, serving as the stronghold of Big Boss in that game."
+    },
+    {
+      "id": 27,
+      "text": "Which studio developed the original BioShock?",
+      "options": ["Irrational Games", "2K Marin", "Arkane Studios", "Firaxis"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "BioShock (2007) was developed by Irrational Games, led by Ken Levine, and is set in the underwater dystopia of Rapture."
+    },
+    {
+      "id": 28,
+      "text": "In World of Warcraft, what is the name of the human capital city?",
+      "options": ["Ironforge", "Darnassus", "Stormwind", "Dalaran"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Stormwind City is the capital city of the human kingdom in World of Warcraft and the main hub for Alliance players."
+    },
+    {
+      "id": 29,
+      "text": "Which game holds the record for the most concurrent players on Steam?",
+      "options": ["Counter-Strike: Global Offensive", "Dota 2", "PUBG", "Cyberpunk 2077"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Dota 2 holds the all-time peak concurrent player record on Steam, reaching over 1.29 million simultaneous players in March 2016."
+    },
+    {
+      "id": 30,
+      "text": "What was the name of Nintendo's game console that failed commercially and preceded the Nintendo 64?",
+      "options": ["Super Famicom", "Virtual Boy", "Game Boy Color", "64DD"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Virtual Boy (1995) was Nintendo's failed stereoscopic 3D game console that displayed only red graphics and caused eye strain, discontinued within one year."
+    },
+    {
+      "id": 31,
+      "text": "Who is the main character in the Devil May Cry series?",
+      "options": ["Vergil", "Nero", "Dante", "V"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Dante, a demon hunter who is the son of the demon knight Sparda, is the main protagonist of the Devil May Cry series."
+    },
+    {
+      "id": 32,
+      "text": "Which game pioneered the 'looter-shooter' genre with its procedurally generated weapons?",
+      "options": ["Destiny", "The Division", "Borderlands", "Warframe"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Borderlands (2009) pioneered the looter-shooter genre by combining FPS gameplay with procedurally generated weapons and RPG loot systems."
+    },
+    {
+      "id": 33,
+      "text": "In Final Fantasy VII, what is the name of the company that controls the world's energy?",
+      "options": ["Umbrella Corporation", "Shin-Ra Electric Power Company", "Mako Industries", "Jenova Corp"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Shin-Ra Electric Power Company is the mega-corporation that controls the world in Final Fantasy VII, draining the planet's life energy (Mako)."
+    },
+    {
+      "id": 34,
+      "text": "What is the name of Lara Croft's debut game?",
+      "options": ["Tomb Raider: Legend", "Tomb Raider II", "Tomb Raider", "Core Design Adventures"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Lara Croft debuted in the original Tomb Raider (1996), developed by Core Design and published by Eidos Interactive."
+    },
+    {
+      "id": 35,
+      "text": "Which game developer created the God of War franchise?",
+      "options": ["Insomniac Games", "Naughty Dog", "Santa Monica Studio", "Sucker Punch"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "God of War was created by Santa Monica Studio, an internal Sony studio, with the franchise beginning in 2005 directed by David Jaffe."
+    },
+    {
+      "id": 36,
+      "text": "What was the first video game to be inducted into the World Video Game Hall of Fame?",
+      "options": ["Tetris", "Pong", "Doom", "Super Mario Bros."],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Pong was among the six inaugural inductees into the World Video Game Hall of Fame in 2015, recognized for its foundational role in gaming."
+    },
+    {
+      "id": 37,
+      "text": "What is the term for the technique in speedrunning where players manipulate the game's random number generator?",
+      "options": ["Sequence breaking", "RNG manipulation", "Out-of-bounds", "Save corruption"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "RNG manipulation involves exploiting the random number generator's deterministic nature to control in-game randomness for favorable outcomes."
+    },
+    {
+      "id": 38,
+      "text": "Who founded id Software, the studio behind Doom and Quake?",
+      "options": ["Gabe Newell", "John Romero and John Carmack", "Ken Levine", "Cliff Bleszinski"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "id Software was co-founded by John Romero and John Carmack (along with Tom Hall and Adrian Carmack) in 1991 in Dallas, Texas."
+    },
+    {
+      "id": 39,
+      "text": "What is the name of the algorithm used in most video game pathfinding?",
+      "options": ["Dijkstra's algorithm", "A* (A-Star) algorithm", "Breadth-first search", "Floyd-Warshall algorithm"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The A* (A-Star) algorithm is the most widely used pathfinding algorithm in video games due to its efficiency and accuracy in finding shortest paths."
+    },
+    {
+      "id": 40,
+      "text": "What is the longest continuous gaming session world record holder's approximate time?",
+      "options": ["24 hours", "50 hours", "138 hours", "240 hours"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Guinness World Record for longest gaming marathon is approximately 138 hours and 34 seconds, set by Carrie Swidecki playing Just Dance in 2015."
+    },
+    {
+      "id": 41,
+      "text": "Which game used the SCUMM engine, pioneering point-and-click adventure games at LucasArts?",
+      "options": ["King's Quest", "Maniac Mansion", "Myst", "Gabriel Knight"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Maniac Mansion (1987) was the first game built using the SCUMM (Script Creation Utility for Maniac Mansion) engine, developed by LucasArts."
+    },
+    {
+      "id": 42,
+      "text": "What was the internal code name for the Nintendo Switch during its development?",
+      "options": ["Fusion", "NX", "Nova", "Horizon"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Nintendo Switch was developed under the codename 'NX' before its official reveal and release in March 2017."
+    },
+    {
+      "id": 43,
+      "text": "In competitive Street Fighter, what is the term for a move that hits opponents even while they are blocking, reducing their guard meter?",
+      "options": ["Option select", "Chip damage", "Frame trap", "Meaty attack"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Chip damage (block damage) is damage dealt to a player who is blocking; in Street Fighter V, players can be KO'd by chip damage from special moves."
+    },
+    {
+      "id": 44,
+      "text": "What programming language was used to originally develop the game Minecraft?",
+      "options": ["C++", "Python", "Java", "Lua"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Minecraft was originally developed by Markus 'Notch' Persson in Java, which is why the PC version is often called 'Java Edition.'"
+    },
+    {
+      "id": 45,
+      "text": "Which game's modding community created the original Battle Royale concept that led to PUBG?",
+      "options": ["DayZ (Arma II mod)", "Garry's Mod", "Half-Life", "Minecraft"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Brendan Greene created the Battle Royale mod for Arma II (a DayZ variant) before developing the standalone game that became PUBG."
+    },
+    {
+      "id": 46,
+      "text": "What is the name of the technique in fighting games where a player inputs a reversal move on the exact first frame of waking up?",
+      "options": ["Perfect parry", "Option select", "Reversal", "Safejump"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "A reversal is when a player successfully inputs a move on the first available frame (frame 1) when recovering, often used to escape pressure situations."
+    },
+    {
+      "id": 47,
+      "text": "What is the highest tier rank in competitive League of Legends?",
+      "options": ["Grandmaster", "Challenger", "Diamond I", "Master"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Challenger is the highest tier in League of Legends ranked play, limited to the top 300 players per server/region."
+    },
+    {
+      "id": 48,
+      "text": "Which game was the first to use ray tracing technology in real-time rendering on consumer hardware?",
+      "options": ["Control", "Battlefield V", "Cyberpunk 2077", "Metro Exodus"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Battlefield V was the first major game to launch with real-time ray tracing support on Nvidia RTX consumer graphics cards in November 2018."
+    },
+    {
+      "id": 49,
+      "text": "What is the term for the technique in 3D games where developers hide loading between areas using forced slow animations?",
+      "options": ["Level streaming", "Fake loading screen", "Streaming trick", "Crawl tunnel technique"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The crawl tunnel technique (used in God of War, The Last of Us) uses forced slow crawling animations to mask background level loading without loading screens."
+    },
+    {
+      "id": 50,
+      "text": "Which gaming studio holds the Guinness World Record for the most critically acclaimed studio based on Metacritic scores?",
+      "options": ["Rockstar Games", "Naughty Dog", "Valve", "Nintendo"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Valve holds the Guinness World Record for the most critically acclaimed game developer, with an average Metacritic score of 96.15 across its titles."
+    }
+  ]
+}

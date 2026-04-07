@@ -1,0 +1,429 @@
+{
+  "id": "travel",
+  "name": "Travel & Landmarks",
+  "description": "Explore the world's most iconic destinations and landmarks.",
+  "icon": "✈️",
+  "color": "#0284c7",
+  "questions": [
+    {
+      "id": 1,
+      "text": "In which country is the Eiffel Tower located?",
+      "options": ["Italy", "Belgium", "France", "Spain"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Eiffel Tower is located in Paris, France, and was constructed in 1889 for the World's Fair."
+    },
+    {
+      "id": 2,
+      "text": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Canberra is the capital of Australia, purpose-built as a compromise between rival cities Sydney and Melbourne."
+    },
+    {
+      "id": 3,
+      "text": "On which continent is the Sahara Desert located?",
+      "options": ["Asia", "Africa", "South America", "Australia"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Sahara Desert is located in North Africa and is the world's largest hot desert."
+    },
+    {
+      "id": 4,
+      "text": "Which city is known as the 'City of Canals'?",
+      "options": ["Amsterdam", "Venice", "Bangkok", "Copenhagen"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Venice, Italy is famously known as the City of Canals, with its historic streets replaced by waterways."
+    },
+    {
+      "id": 5,
+      "text": "The Great Wall of China was primarily built to protect against invasions from which direction?",
+      "options": ["South", "East", "North", "West"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Great Wall of China was built along the northern border to protect against nomadic invasions from the north."
+    },
+    {
+      "id": 6,
+      "text": "In which country is Machu Picchu located?",
+      "options": ["Bolivia", "Colombia", "Ecuador", "Peru"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Machu Picchu is an ancient Inca citadel located in the Andes Mountains of Peru."
+    },
+    {
+      "id": 7,
+      "text": "Which ocean is the largest in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Pacific Ocean is the world's largest ocean, covering approximately 165 million square kilometers."
+    },
+    {
+      "id": 8,
+      "text": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Kangchenjunga"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Mount Everest, located in the Himalayas on the Nepal-Tibet border, is the world's tallest mountain at 8,849 meters."
+    },
+    {
+      "id": 9,
+      "text": "Which city is home to the Colosseum?",
+      "options": ["Athens", "Rome", "Madrid", "Lisbon"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Colosseum (Flavian Amphitheatre) is located in Rome, Italy, and was completed in 80 AD."
+    },
+    {
+      "id": 10,
+      "text": "The Statue of Liberty was a gift to the USA from which country?",
+      "options": ["England", "Italy", "France", "Germany"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Statue of Liberty was a gift of friendship from France to the United States, dedicated in 1886."
+    },
+    {
+      "id": 11,
+      "text": "Which river is the longest in the world?",
+      "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Nile River in Africa is traditionally recognized as the world's longest river at approximately 6,650 kilometers."
+    },
+    {
+      "id": 12,
+      "text": "Which country has the most UNESCO World Heritage Sites?",
+      "options": ["India", "China", "Italy", "Spain"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Italy has the most UNESCO World Heritage Sites, with 58 listed sites as of 2023."
+    },
+    {
+      "id": 13,
+      "text": "What is the name of the famous clock tower in London?",
+      "options": ["Westminster Tower", "Elizabeth Tower (Big Ben)", "Victoria Tower", "Clock Tower"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The tower is officially called Elizabeth Tower; Big Ben is actually the nickname of the main bell inside it."
+    },
+    {
+      "id": 14,
+      "text": "In which country is the Acropolis located?",
+      "options": ["Turkey", "Italy", "Greece", "Egypt"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Acropolis of Athens is located in Greece and is home to the Parthenon, built in the 5th century BC."
+    },
+    {
+      "id": 15,
+      "text": "Which city is known as 'The Big Apple'?",
+      "options": ["Los Angeles", "Chicago", "New York City", "Miami"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "New York City is nicknamed 'The Big Apple', a term popularized in the 1970s by the city's tourism campaign."
+    },
+    {
+      "id": 16,
+      "text": "What type of transportation is a 'gondola' associated with in Venice?",
+      "options": ["Cable car", "Traditional flat-bottomed boat", "Horse-drawn carriage", "Tram"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "A gondola is a traditional flat-bottomed rowing boat used on the canals of Venice, propelled by a gondolier."
+    },
+    {
+      "id": 17,
+      "text": "The Taj Mahal, a UNESCO World Heritage Site, is located in which Indian city?",
+      "options": ["Delhi", "Jaipur", "Mumbai", "Agra"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Taj Mahal is located in Agra, India, and was built by Emperor Shah Jahan as a mausoleum for his wife Mumtaz Mahal."
+    },
+    {
+      "id": 18,
+      "text": "Which country is the only one to span two continents and is often called the crossroads of Europe and Asia?",
+      "options": ["Russia", "Turkey", "Kazakhstan", "Egypt"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Turkey (Türkiye) spans both Europe and Asia, with Istanbul straddling the Bosphorus Strait dividing the two continents."
+    },
+    {
+      "id": 19,
+      "text": "What is the world's smallest country by area?",
+      "options": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Vatican City covers approximately 0.44 km² within Rome, making it the world's smallest country."
+    },
+    {
+      "id": 20,
+      "text": "The northern lights (Aurora Borealis) are best viewed in which of these countries?",
+      "options": ["Iceland", "Switzerland", "Ireland", "Poland"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Iceland is one of the best places to see the Northern Lights due to its location just below the Arctic Circle and low light pollution."
+    },
+    {
+      "id": 21,
+      "text": "Which ancient wonder of the world still exists today?",
+      "options": [
+        "The Colossus of Rhodes",
+        "The Lighthouse of Alexandria",
+        "The Great Pyramid of Giza",
+        "The Hanging Gardens of Babylon"
+      ],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Great Pyramid of Giza is the only ancient wonder of the world still largely intact today."
+    },
+    {
+      "id": 22,
+      "text": "Which US state contains the most active volcanoes?",
+      "options": ["California", "Hawaii", "Alaska", "Washington"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Alaska has more active volcanoes than any other US state, with over 50 volcanoes that have been active since 1760."
+    },
+    {
+      "id": 23,
+      "text": "Angkor Wat, the world's largest religious monument, is located in which country?",
+      "options": ["Thailand", "Myanmar", "Indonesia", "Cambodia"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Angkor Wat is a Hindu-Buddhist temple complex in Siem Reap, Cambodia, built in the 12th century."
+    },
+    {
+      "id": 24,
+      "text": "What is the name of the world's largest salt flat, located in Bolivia?",
+      "options": ["Salinas Grandes", "Salar de Uyuni", "Death Valley", "Bonneville Salt Flats"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Salar de Uyuni in Bolivia is the world's largest salt flat, covering over 10,000 km² and containing large lithium reserves."
+    },
+    {
+      "id": 25,
+      "text": "In which year did the Channel Tunnel (Eurotunnel) linking England and France open?",
+      "options": ["1990", "1992", "1994", "1996"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Channel Tunnel opened to the public in November 1994, connecting Folkestone in England to Coquelles near Calais in France."
+    },
+    {
+      "id": 26,
+      "text": "The ancient city of Petra is carved into rose-red cliffs in which country?",
+      "options": ["Israel", "Lebanon", "Saudi Arabia", "Jordan"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Petra is an ancient city in Jordan carved into rose-red sandstone cliffs and was the capital of the Nabataean Kingdom."
+    },
+    {
+      "id": 27,
+      "text": "Which airline is the flag carrier of Singapore?",
+      "options": ["AirAsia", "Cathay Pacific", "Singapore Airlines", "Scoot"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Singapore Airlines is the flag carrier of Singapore and is consistently ranked among the world's best airlines."
+    },
+    {
+      "id": 28,
+      "text": "What is the name of the famous thermal baths complex in Budapest, Hungary?",
+      "options": ["Széchenyi Baths", "Gellért Baths", "Rudas Baths", "All of the above are famous Budapest baths"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Budapest has several famous thermal baths including Széchenyi, Gellért, and Rudas, all fed by natural hot springs."
+    },
+    {
+      "id": 29,
+      "text": "The Inca Trail leading to Machu Picchu is approximately how long?",
+      "options": ["15 km", "26 km", "43 km", "60 km"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The classic Inca Trail is approximately 43 km (26 miles) long and typically takes 4 days to hike."
+    },
+    {
+      "id": 30,
+      "text": "Which city is home to the world's busiest airport by passenger traffic (as of recent years)?",
+      "options": ["Beijing", "Dubai", "Atlanta", "London"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Hartsfield-Jackson Atlanta International Airport has historically been the world's busiest airport by passenger traffic."
+    },
+    {
+      "id": 31,
+      "text": "The famous Zhangjiajie National Forest in China, known for its towering sandstone pillars, inspired the setting of which film?",
+      "options": ["Crouching Tiger, Hidden Dragon", "Avatar", "Kung Fu Panda", "The Great Wall"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "James Cameron cited Zhangjiajie's floating sandstone pillars as a visual inspiration for the Hallelujah Mountains in Avatar (2009)."
+    },
+    {
+      "id": 32,
+      "text": "What is the maximum altitude of the Burj Khalifa in Dubai?",
+      "options": ["828 meters", "632 meters", "601 meters", "900 meters"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "The Burj Khalifa stands at 828 meters (2,717 feet), making it the tallest building in the world."
+    },
+    {
+      "id": 33,
+      "text": "Which Scandinavian country contains the most fjords?",
+      "options": ["Sweden", "Finland", "Denmark", "Norway"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Norway has the highest concentration of fjords in the world; its coastline is dotted with thousands of them."
+    },
+    {
+      "id": 34,
+      "text": "Hagia Sophia, originally built as a Christian cathedral, is located in which city?",
+      "options": ["Athens", "Cairo", "Istanbul", "Jerusalem"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Hagia Sophia is located in Istanbul, Turkey; built in 537 AD as a Byzantine cathedral, it later became a mosque, then a museum, and mosque again."
+    },
+    {
+      "id": 35,
+      "text": "Which is the only country through which both the equator and the Tropic of Capricorn pass?",
+      "options": ["Colombia", "Brazil", "Democratic Republic of the Congo", "Peru"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Brazil is the only country through which both the equator and the Tropic of Capricorn pass."
+    },
+    {
+      "id": 36,
+      "text": "The Camino de Santiago pilgrimage route traditionally ends at which city in Spain?",
+      "options": ["Bilbao", "Seville", "Santiago de Compostela", "Pamplona"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Camino de Santiago ends at the Cathedral of Santiago de Compostela in Galicia, Spain, believed to hold the remains of St. James."
+    },
+    {
+      "id": 37,
+      "text": "What is the deepest lake in the world?",
+      "options": ["Lake Superior", "Lake Tanganyika", "Lake Baikal", "Caspian Sea"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Lake Baikal in Siberia, Russia, is the world's deepest lake at 1,642 meters and contains about 20% of the world's fresh surface water."
+    },
+    {
+      "id": 38,
+      "text": "The Pergamon Museum, housing reconstructed ancient monuments including the Ishtar Gate, is located in which city?",
+      "options": ["Vienna", "Paris", "Berlin", "London"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Pergamon Museum in Berlin, Germany, houses the reconstructed Ishtar Gate of Babylon and other ancient monuments."
+    },
+    {
+      "id": 39,
+      "text": "The ancient trading city of Samarkand, a major stop on the Silk Road, is located in which modern country?",
+      "options": ["Tajikistan", "Kazakhstan", "Uzbekistan", "Kyrgyzstan"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Samarkand is located in modern-day Uzbekistan and was one of the most important cities on the ancient Silk Road."
+    },
+    {
+      "id": 40,
+      "text": "What is the name of the phenomenon where travelers visit destinations to see them before they disappear due to climate change?",
+      "options": [
+        "extinction tourism",
+        "last-chance tourism",
+        "climate tourism",
+        "disaster tourism"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Last-chance tourism (also called doom tourism) describes traveling to destinations under threat of destruction from climate change or other forces."
+    },
+    {
+      "id": 41,
+      "text": "The Trolltunga rock formation, a popular tourist site projecting horizontally over a fjord, is located in which country?",
+      "options": ["Iceland", "Norway", "Scotland", "New Zealand"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Trolltunga (Troll's Tongue) is a rock formation projecting horizontally over Lake Ringedalsvatnet in Hardanger, Norway."
+    },
+    {
+      "id": 42,
+      "text": "Which UNESCO-listed site is located in the middle of the Libyan Desert and contains prehistoric rock art?",
+      "options": ["Tassili n'Ajjer", "Akakus Mountains", "Ghat Old Town", "Wadi Rum"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Tassili n'Ajjer in Algeria is a UNESCO World Heritage Site containing over 15,000 petroglyphs and cave paintings from prehistoric times."
+    },
+    {
+      "id": 43,
+      "text": "What is the world's longest railway line, spanning from Moscow to Vladivostok?",
+      "options": [
+        "Trans-Siberian Railway",
+        "Baikal-Amur Mainline",
+        "Kazakhstan-China Railway",
+        "Orient Express"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "The Trans-Siberian Railway stretches approximately 9,289 km from Moscow to Vladivostok, making it the longest railway line in the world."
+    },
+    {
+      "id": 44,
+      "text": "The ancient city of Çatalhöyük, one of the world's earliest urban settlements, is located in which modern country?",
+      "options": ["Iraq", "Syria", "Turkey", "Iran"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Çatalhöyük is a Neolithic settlement in south-central Turkey, dating back to approximately 7500 BC and a UNESCO World Heritage Site."
+    },
+    {
+      "id": 45,
+      "text": "Which country is home to Socotra Island, known for its alien-like dragon blood trees?",
+      "options": ["Oman", "Yemen", "Ethiopia", "Somalia"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Socotra Island belongs to Yemen and is a UNESCO World Heritage Site famous for its unique dragon blood trees and high level of endemic species."
+    },
+    {
+      "id": 46,
+      "text": "The Nazca Lines, large geoglyphs visible only from the air, are located in which South American country?",
+      "options": ["Bolivia", "Argentina", "Chile", "Peru"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Nazca Lines are ancient geoglyphs in the Nazca Desert of southern Peru, designated a UNESCO World Heritage Site."
+    },
+    {
+      "id": 47,
+      "text": "Which is the highest navigable lake in the world?",
+      "options": ["Lake Titicaca", "Tso Moriri", "Pangong Lake", "Lake Atitlan"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Lake Titicaca on the Bolivia-Peru border is the world's highest navigable lake, sitting at an elevation of 3,812 meters above sea level."
+    },
+    {
+      "id": 48,
+      "text": "The Alhambra palace complex, a masterpiece of Moorish architecture, is located in which Spanish city?",
+      "options": ["Seville", "Cordoba", "Granada", "Toledo"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Alhambra is a palace and fortress complex in Granada, Andalusia, Spain, built in the 13th and 14th centuries by Moorish rulers."
+    },
+    {
+      "id": 49,
+      "text": "What is the name of the geological phenomenon at Pamukkale in Turkey, which creates white terraced pools?",
+      "options": [
+        "Travertine terraces",
+        "Limestone caves",
+        "Geyser deposits",
+        "Karst formations"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Pamukkale's dazzling white terraces are made of travertine, a sedimentary rock deposited by carbonate-rich hot spring waters over millennia."
+    },
+    {
+      "id": 50,
+      "text": "The Wieliczka Salt Mine, a UNESCO World Heritage Site with underground chapels, is located in which country?",
+      "options": ["Czech Republic", "Germany", "Hungary", "Poland"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Wieliczka Salt Mine near Kraków, Poland, has been mined since the 13th century and features underground chapels, sculptures, and lakes carved entirely from salt."
+    }
+  ]
+}

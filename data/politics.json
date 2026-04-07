@@ -1,0 +1,409 @@
+{
+  "id": "politics",
+  "name": "Politics & Government",
+  "description": "Test your knowledge of world leaders, elections, and governance.",
+  "icon": "🏛️",
+  "color": "#1d4ed8",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who was the first President of the United States?",
+      "options": ["John Adams", "George Washington", "Thomas Jefferson", "Benjamin Franklin"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+    },
+    {
+      "id": 2,
+      "text": "Which country has a government system known as a constitutional monarchy?",
+      "options": ["United States", "France", "United Kingdom", "Germany"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The United Kingdom is a constitutional monarchy where the monarch's powers are limited by a constitution and Parliament."
+    },
+    {
+      "id": 3,
+      "text": "The United Nations was founded in which year?",
+      "options": ["1939", "1945", "1950", "1955"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The United Nations was founded on October 24, 1945, after World War II to promote international peace and cooperation."
+    },
+    {
+      "id": 4,
+      "text": "Who wrote the Communist Manifesto?",
+      "options": ["Vladimir Lenin", "Joseph Stalin", "Karl Marx and Friedrich Engels", "Leon Trotsky"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Karl Marx and Friedrich Engels co-authored The Communist Manifesto, published in 1848."
+    },
+    {
+      "id": 5,
+      "text": "Which body is the upper house of the U.S. Congress?",
+      "options": ["The House of Representatives", "The Senate", "The Supreme Court", "The Cabinet"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The U.S. Senate is the upper chamber of Congress, with two senators per state."
+    },
+    {
+      "id": 6,
+      "text": "NATO stands for which organization?",
+      "options": ["North Atlantic Treaty Organization", "National Alliance of Trade Orders", "North American Trade Organization", "Northern Atlantic Treaty Operations"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "NATO stands for the North Atlantic Treaty Organization, a military alliance founded in 1949."
+    },
+    {
+      "id": 7,
+      "text": "Which country is the world's largest democracy by population?",
+      "options": ["United States", "Brazil", "India", "Indonesia"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "India is the world's largest democracy with over 1.4 billion people and universal adult suffrage."
+    },
+    {
+      "id": 8,
+      "text": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Jacinda Ardern"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Margaret Thatcher became the UK's first female Prime Minister in 1979 and served until 1990."
+    },
+    {
+      "id": 9,
+      "text": "What is the term length of a U.S. President?",
+      "options": ["2 years", "4 years", "6 years", "8 years"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "U.S. Presidents serve four-year terms and may be re-elected for a maximum of two terms."
+    },
+    {
+      "id": 10,
+      "text": "The European Union's headquarters is located in which city?",
+      "options": ["Paris", "Berlin", "Brussels", "Geneva"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Brussels, Belgium hosts the main institutions of the European Union."
+    },
+    {
+      "id": 11,
+      "text": "Which amendment to the U.S. Constitution abolished slavery?",
+      "options": ["13th Amendment", "14th Amendment", "15th Amendment", "19th Amendment"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "The 13th Amendment, ratified in 1865, abolished slavery throughout the United States."
+    },
+    {
+      "id": 12,
+      "text": "What is the name of the lower house of the UK Parliament?",
+      "options": ["House of Lords", "House of Commons", "House of Representatives", "Parliament Assembly"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The House of Commons is the elected lower house of the UK Parliament."
+    },
+    {
+      "id": 13,
+      "text": "Which country held the world's first women's suffrage at national level in 1893?",
+      "options": ["United States", "Australia", "New Zealand", "United Kingdom"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "New Zealand became the first country to grant women the right to vote in national elections in 1893."
+    },
+    {
+      "id": 14,
+      "text": "How many permanent members does the UN Security Council have?",
+      "options": ["3", "5", "7", "10"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The UN Security Council has 5 permanent members: the US, UK, France, Russia, and China."
+    },
+    {
+      "id": 15,
+      "text": "What is the name of France's legislative body?",
+      "options": ["Bundestag", "Diet", "National Assembly", "Congress"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "France's lower house of parliament is called the National Assembly (Assemblée nationale)."
+    },
+    {
+      "id": 16,
+      "text": "Which political system has a single ruler with absolute power?",
+      "options": ["Democracy", "Oligarchy", "Autocracy", "Republic"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "An autocracy is a political system where one person holds unrestricted political power."
+    },
+    {
+      "id": 17,
+      "text": "Who is considered the father of modern conservatism?",
+      "options": ["John Locke", "Edmund Burke", "Thomas Hobbes", "Adam Smith"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Edmund Burke, an 18th-century Irish-British statesman, is widely regarded as the father of modern conservatism."
+    },
+    {
+      "id": 18,
+      "text": "Which country adopted the world's first written constitution in 1787?",
+      "options": ["France", "United Kingdom", "United States", "Switzerland"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The United States Constitution, drafted in 1787 and ratified in 1788, is the world's oldest written national constitution still in use."
+    },
+    {
+      "id": 19,
+      "text": "The Magna Carta was signed in which year?",
+      "options": ["1066", "1215", "1348", "1415"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "King John of England signed the Magna Carta in 1215, limiting royal power and establishing rule of law."
+    },
+    {
+      "id": 20,
+      "text": "Which organization replaced the League of Nations after World War II?",
+      "options": ["World Trade Organization", "United Nations", "International Monetary Fund", "World Bank"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The United Nations replaced the failed League of Nations in 1945 to maintain international peace."
+    },
+    {
+      "id": 21,
+      "text": "What is the term for a government controlled by a small group of people?",
+      "options": ["Theocracy", "Plutocracy", "Oligarchy", "Meritocracy"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "An oligarchy is a form of government where power rests with a small, elite group."
+    },
+    {
+      "id": 22,
+      "text": "Which treaty ended World War I?",
+      "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Utrecht", "Treaty of Vienna"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed heavy reparations on Germany."
+    },
+    {
+      "id": 23,
+      "text": "Which country has the largest number of seats in the European Parliament?",
+      "options": ["France", "Italy", "Spain", "Germany"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Germany has the most seats in the European Parliament due to its large population."
+    },
+    {
+      "id": 24,
+      "text": "Who was the first Secretary-General of the United Nations?",
+      "options": ["Dag Hammarskjold", "Trygve Lie", "U Thant", "Kurt Waldheim"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Trygve Lie of Norway served as the first UN Secretary-General from 1946 to 1952."
+    },
+    {
+      "id": 25,
+      "text": "What political system does China officially practice?",
+      "options": ["Communism", "Socialism with Chinese characteristics", "Capitalism", "Fascism"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "China officially describes its system as 'Socialism with Chinese characteristics,' a unique blend of socialist principles and market economics."
+    },
+    {
+      "id": 26,
+      "text": "Which U.S. President signed the Civil Rights Act of 1964?",
+      "options": ["John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon", "Dwight Eisenhower"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "President Lyndon B. Johnson signed the Civil Rights Act of 1964, prohibiting discrimination based on race, color, religion, or national origin."
+    },
+    {
+      "id": 27,
+      "text": "The Kyoto Protocol was primarily concerned with which issue?",
+      "options": ["Nuclear disarmament", "Global trade", "Greenhouse gas emissions", "Maritime boundaries"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Kyoto Protocol (1997) required industrialized nations to reduce greenhouse gas emissions to combat climate change."
+    },
+    {
+      "id": 28,
+      "text": "Which country is NOT a member of BRICS?",
+      "options": ["Brazil", "Russia", "Indonesia", "China"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Indonesia is not a founding member of BRICS; the original group consists of Brazil, Russia, India, China, and South Africa."
+    },
+    {
+      "id": 29,
+      "text": "Who coined the term 'Iron Curtain' in his famous 1946 speech?",
+      "options": ["Harry Truman", "Winston Churchill", "Charles de Gaulle", "Dwight Eisenhower"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Winston Churchill used the phrase 'Iron Curtain' in his 1946 Fulton, Missouri speech to describe the Soviet divide of Europe."
+    },
+    {
+      "id": 30,
+      "text": "Which amendment gave U.S. women the right to vote?",
+      "options": ["13th Amendment", "15th Amendment", "17th Amendment", "19th Amendment"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "The 19th Amendment, ratified in 1920, granted American women the right to vote."
+    },
+    {
+      "id": 31,
+      "text": "What is the political ideology that advocates for individual freedom from government interference?",
+      "options": ["Socialism", "Libertarianism", "Fascism", "Communitarianism"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Libertarianism emphasizes individual rights and minimal government intervention in personal and economic affairs."
+    },
+    {
+      "id": 32,
+      "text": "Which country was the first to legalize same-sex marriage nationally?",
+      "options": ["Canada", "Netherlands", "Belgium", "Spain"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Netherlands became the first country in the world to legalize same-sex marriage in 2001."
+    },
+    {
+      "id": 33,
+      "text": "What is a 'filibuster' in legislative terms?",
+      "options": ["A type of amendment", "A procedural tactic to delay or block legislation", "A form of presidential veto", "A parliamentary committee"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A filibuster is a tactic where senators extend debate to delay or prevent a vote on legislation."
+    },
+    {
+      "id": 34,
+      "text": "Which political theorist wrote 'The Social Contract'?",
+      "options": ["John Locke", "Thomas Hobbes", "Jean-Jacques Rousseau", "Montesquieu"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Jean-Jacques Rousseau wrote 'The Social Contract' (1762), arguing that legitimate government derives from a collective agreement among citizens."
+    },
+    {
+      "id": 35,
+      "text": "What is the name of the legislative body in Germany?",
+      "options": ["Reichstag", "Bundestag", "Diet", "Duma"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Bundestag is Germany's federal parliament, the primary legislative body of the Federal Republic of Germany."
+    },
+    {
+      "id": 36,
+      "text": "Which doctrine established U.S. policy to contain Soviet expansion during the Cold War?",
+      "options": ["Monroe Doctrine", "Truman Doctrine", "Eisenhower Doctrine", "Nixon Doctrine"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Truman Doctrine (1947) committed the U.S. to containing Soviet influence, starting with aid to Greece and Turkey."
+    },
+    {
+      "id": 37,
+      "text": "Which Indian Prime Minister declared a national emergency in 1975?",
+      "options": ["Jawaharlal Nehru", "Rajiv Gandhi", "Indira Gandhi", "Morarji Desai"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Indira Gandhi declared a state of emergency in India from 1975 to 1977, suspending civil liberties and democratic processes."
+    },
+    {
+      "id": 38,
+      "text": "The Westphalian system of state sovereignty originated from which treaty?",
+      "options": ["Treaty of Vienna (1815)", "Peace of Westphalia (1648)", "Treaty of Tordesillas (1494)", "Peace of Augsburg (1555)"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Peace of Westphalia (1648) established the principle of state sovereignty that underpins modern international relations."
+    },
+    {
+      "id": 39,
+      "text": "What is the political concept of 'Realpolitik' associated with?",
+      "options": ["Idealism in foreign policy", "Pragmatic power-based politics", "Democratic socialism", "International law adherence"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Realpolitik is a pragmatic approach to politics and diplomacy based on practical power considerations rather than ideological principles."
+    },
+    {
+      "id": 40,
+      "text": "Which country was the first to grant women the right to vote in a national election in Europe?",
+      "options": ["Sweden", "Finland", "Norway", "Denmark"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Finland was the first European country to grant women full political rights including the right to vote and stand for election, in 1906."
+    },
+    {
+      "id": 41,
+      "text": "The concept of 'Checks and Balances' in government was most famously advocated by which philosopher?",
+      "options": ["John Locke", "Montesquieu", "Voltaire", "Rousseau"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Montesquieu's 'The Spirit of the Laws' (1748) popularized the separation of powers and checks and balances among government branches."
+    },
+    {
+      "id": 42,
+      "text": "Which international agreement established the rules for the conduct of war and protection of civilians?",
+      "options": ["Hague Conventions", "Geneva Conventions", "Treaty of Westphalia", "Vienna Convention"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Geneva Conventions are a series of international treaties establishing standards for humanitarian treatment in war."
+    },
+    {
+      "id": 43,
+      "text": "What is 'Gerrymandering'?",
+      "options": ["A form of electoral fraud", "Manipulating electoral district boundaries for political advantage", "A type of parliamentary vote", "A constitutional amendment process"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Gerrymandering is the manipulation of electoral district boundaries to favor a particular political party or group."
+    },
+    {
+      "id": 44,
+      "text": "Which political theorist is associated with the concept of 'Leviathan' as a metaphor for the state?",
+      "options": ["John Locke", "Thomas Hobbes", "Jean-Jacques Rousseau", "David Hume"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Thomas Hobbes used 'Leviathan' in his 1651 work to describe a powerful sovereign state necessary to prevent societal chaos."
+    },
+    {
+      "id": 45,
+      "text": "Which country first implemented proportional representation in parliamentary elections?",
+      "options": ["France", "Belgium", "Switzerland", "Germany"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Belgium introduced proportional representation in 1899, becoming one of the first countries to implement this electoral system."
+    },
+    {
+      "id": 46,
+      "text": "The Non-Aligned Movement was founded at the 1961 Belgrade Conference by which leader?",
+      "options": ["Gamal Abdel Nasser", "Jawaharlal Nehru", "Josip Broz Tito", "Sukarno"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Josip Broz Tito of Yugoslavia was a key founder and host of the 1961 Belgrade Conference that established the Non-Aligned Movement."
+    },
+    {
+      "id": 47,
+      "text": "What is the 'Overton Window' in political science?",
+      "options": ["A voting system", "The range of policies politically acceptable to the mainstream", "A constitutional concept", "A type of government transparency law"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Overton Window describes the range of ideas considered politically acceptable or mainstream at a given time."
+    },
+    {
+      "id": 48,
+      "text": "Which treaty created the European Economic Community (EEC) in 1957?",
+      "options": ["Treaty of Maastricht", "Treaty of Amsterdam", "Treaty of Rome", "Treaty of Lisbon"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Treaty of Rome (1957) established the European Economic Community, the precursor to today's European Union."
+    },
+    {
+      "id": 49,
+      "text": "Which U.S. President issued Executive Order 9066, authorizing Japanese American internment during WWII?",
+      "options": ["Harry Truman", "Franklin D. Roosevelt", "Dwight Eisenhower", "Herbert Hoover"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Franklin D. Roosevelt signed Executive Order 9066 in 1942, leading to the forced internment of over 120,000 Japanese Americans."
+    },
+    {
+      "id": 50,
+      "text": "The concept of 'democratic peace theory' suggests what?",
+      "options": ["Democracies never go to war", "Democracies rarely go to war with each other", "Democracies are always more prosperous", "Democracies have shorter wars"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Democratic peace theory holds that liberal democracies rarely or never wage war against each other, though they may fight non-democracies."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quizify</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Start Screen -->
+    <div id="startScreen" class="screen active">
+      <h1>Quizify</h1>
+      <p>Choose a category and test your knowledge</p>
+
+      <div class="category-section">
+        <h3 class="section-label">Choose a Category</h3>
+        <div class="category-grid">
+          <button class="category-card" data-category="Geography">
+            <span class="category-icon">🌍</span>
+            <span class="category-name">Geography</span>
+          </button>
+          <button class="category-card" data-category="Science">
+            <span class="category-icon">🔬</span>
+            <span class="category-name">Science</span>
+          </button>
+          <button class="category-card" data-category="History">
+            <span class="category-icon">📜</span>
+            <span class="category-name">History</span>
+          </button>
+          <button class="category-card" data-category="Literature">
+            <span class="category-icon">📚</span>
+            <span class="category-name">Literature</span>
+          </button>
+          <button class="category-card" data-category="Math">
+            <span class="category-icon">➗</span>
+            <span class="category-name">Math</span>
+          </button>
+          <button class="category-card" data-category="Random">
+            <span class="category-icon">🎲</span>
+            <span class="category-name">Random</span>
+          </button>
+          <button class="category-card" data-category="Mix">
+            <span class="category-icon">🔀</span>
+            <span class="category-name">Mix</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="count-section">
+        <h3 class="section-label">Number of Questions</h3>
+        <div class="count-selector">
+          <button class="count-btn active" data-count="10">10</button>
+          <button class="count-btn" data-count="15">15</button>
+          <button class="count-btn" data-count="20">20</button>
+        </div>
+      </div>
+
+      <button id="startButton" class="btn btn-primary" disabled>Start Quiz</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quizScreen" class="screen">
+      <div class="quiz-header">
+        <div class="score-display">Score: <span id="score">0</span><span id="streak" class="streak-multiplier"></span></div>
+        <div class="timer-display">
+          <div class="timer-bar">
+            <div id="timerFill" class="timer-fill"></div>
+          </div>
+          <span id="timerText">15s</span>
+        </div>
+        <div class="question-counter">
+          <span id="questionNumber">1</span> / <span id="totalQuestions">10</span>
+        </div>
+      </div>
+
+      <div class="quiz-content">
+        <h2 id="questionText"></h2>
+        <div class="answers-grid" id="answersGrid"></div>
+      </div>
+    </div>
+
+    <!-- Results Screen -->
+    <div id="resultsScreen" class="screen">
+      <h1>Quiz Complete!</h1>
+      <div class="results-wrapper">
+        <div class="results-left">
+          <div class="results-content">
+            <div class="result-stat">
+              <p class="result-label">Final Score</p>
+              <p class="result-value"><span id="finalScore">0</span> points</p>
+            </div>
+            <div class="result-stat">
+              <p class="result-label">Accuracy</p>
+              <p class="result-value"><span id="accuracy">0</span>%</p>
+            </div>
+            <div class="result-stat">
+              <p class="result-label">Time Taken</p>
+              <p class="result-value"><span id="timeTaken">0</span>s</p>
+            </div>
+          </div>
+
+          <div class="name-input-section">
+            <label for="playerName">Save your score:</label>
+            <input type="text" id="playerName" class="player-name-input" placeholder="Enter your name" maxlength="20">
+            <button id="saveScoreButton" class="btn btn-primary">Save Score</button>
+          </div>
+        </div>
+
+        <div class="results-right">
+          <div class="leaderboard">
+            <h3>🏆 Leaderboard</h3>
+            <div id="leaderboardList" class="leaderboard-list">
+              <p class="empty-leaderboard">No scores yet</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button id="restartButton" class="btn btn-primary btn-full">Play Again</button>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

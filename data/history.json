@@ -1,0 +1,444 @@
+{
+  "id": "history",
+  "name": "History",
+  "description": "Journey through ancient civilizations, empires, wars, and iconic leaders.",
+  "icon": "📜",
+  "color": "#f59e0b",
+  "questions": [
+    {
+      "id": 1,
+      "text": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "World War II ended in 1945 with Germany's surrender in May and Japan's surrender in September."
+    },
+    {
+      "id": 2,
+      "text": "Who was the first President of the United States?",
+      "options": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "George Washington became the first President of the United States in 1789."
+    },
+    {
+      "id": 3,
+      "text": "Which ancient wonder was located in Alexandria, Egypt?",
+      "options": ["Colossus of Rhodes", "Lighthouse of Alexandria", "Hanging Gardens of Babylon", "Temple of Artemis"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Lighthouse of Alexandria (Pharos) was one of the Seven Wonders of the Ancient World, located on the island of Pharos."
+    },
+    {
+      "id": 4,
+      "text": "What year did the Berlin Wall fall?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The Berlin Wall fell on November 9, 1989, marking a pivotal moment in the end of the Cold War."
+    },
+    {
+      "id": 5,
+      "text": "Who was the Egyptian queen who allied with Julius Caesar and Mark Antony?",
+      "options": ["Nefertiti", "Hatshepsut", "Cleopatra", "Isis"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Cleopatra VII formed political and romantic alliances with Julius Caesar and later Mark Antony."
+    },
+    {
+      "id": 6,
+      "text": "In which country did the Industrial Revolution begin?",
+      "options": ["France", "Germany", "United States", "Great Britain"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "The Industrial Revolution began in Great Britain in the mid-18th century, driven by innovations in textiles and steam power."
+    },
+    {
+      "id": 7,
+      "text": "What famous wall was built to protect China's northern borders?",
+      "options": ["The Dragon Wall", "The Great Wall of China", "The Ming Barrier", "The Qin Fortification"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Great Wall of China was built over centuries, primarily during the Ming Dynasty, to protect against northern invasions."
+    },
+    {
+      "id": 8,
+      "text": "Who wrote the Declaration of Independence?",
+      "options": ["Benjamin Franklin", "John Adams", "Thomas Jefferson", "Alexander Hamilton"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence, adopted on July 4, 1776."
+    },
+    {
+      "id": 9,
+      "text": "Which empire was ruled by Genghis Khan?",
+      "options": ["Ottoman Empire", "Persian Empire", "Mongol Empire", "Roman Empire"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Genghis Khan founded and ruled the Mongol Empire, which became the largest contiguous land empire in history."
+    },
+    {
+      "id": 10,
+      "text": "What was the name of the ship that sank on its maiden voyage in 1912?",
+      "options": ["Lusitania", "Britannic", "Titanic", "Olympic"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The RMS Titanic sank on April 15, 1912, after striking an iceberg on its first voyage from Southampton to New York."
+    },
+    {
+      "id": 11,
+      "text": "Which civilization built the Machu Picchu complex in Peru?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Machu Picchu was built by the Inca civilization around 1450 CE and is now a UNESCO World Heritage Site."
+    },
+    {
+      "id": 12,
+      "text": "In which year did the French Revolution begin?",
+      "options": ["1776", "1783", "1789", "1799"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The French Revolution began in 1789, marked by the storming of the Bastille on July 14."
+    },
+    {
+      "id": 13,
+      "text": "Who was the leader of Nazi Germany during World War II?",
+      "options": ["Heinrich Himmler", "Joseph Goebbels", "Adolf Hitler", "Hermann Göring"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Adolf Hitler served as Führer of Nazi Germany from 1934 until his death in 1945."
+    },
+    {
+      "id": 14,
+      "text": "Which Roman emperor converted to Christianity and issued the Edict of Milan?",
+      "options": ["Nero", "Augustus", "Constantine I", "Hadrian"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Constantine I issued the Edict of Milan in 313 CE, granting religious tolerance and effectively legalizing Christianity."
+    },
+    {
+      "id": 15,
+      "text": "What year did Columbus first reach the Americas?",
+      "options": ["1488", "1492", "1498", "1504"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Christopher Columbus first arrived in the Americas on October 12, 1492, landing in the Bahamas."
+    },
+    {
+      "id": 16,
+      "text": "Which war was fought between the North and South in the United States?",
+      "options": ["War of 1812", "Mexican-American War", "Civil War", "Spanish-American War"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "The American Civil War (1861–1865) was fought between the Union (North) and the Confederacy (South) over slavery and states' rights."
+    },
+    {
+      "id": 17,
+      "text": "Who was the first man to walk on the Moon?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins", "Neil Armstrong"],
+      "correct": 3,
+      "difficulty": "easy",
+      "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+      "id": 18,
+      "text": "What was the name of the economic recovery program the US offered to Europe after WWII?",
+      "options": ["Truman Doctrine", "Marshall Plan", "Lend-Lease Act", "Atlantic Charter"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Marshall Plan (1948) provided over $13 billion in aid to help rebuild Western European economies after WWII."
+    },
+    {
+      "id": 19,
+      "text": "In which battle was Napoleon Bonaparte finally defeated in 1815?",
+      "options": ["Battle of Austerlitz", "Battle of Leipzig", "Battle of Waterloo", "Battle of Trafalgar"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Napoleon was decisively defeated at the Battle of Waterloo on June 18, 1815, ending his rule."
+    },
+    {
+      "id": 20,
+      "text": "Which treaty ended World War I?",
+      "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Brest-Litovsk", "Treaty of Ghent"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Treaty of Versailles, signed in June 1919, formally ended World War I and imposed harsh penalties on Germany."
+    },
+    {
+      "id": 21,
+      "text": "What was the main cause of the 1347–1351 Black Death pandemic?",
+      "options": ["Influenza virus", "Smallpox virus", "Yersinia pestis bacteria", "Malaria parasite"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Black Death was caused by Yersinia pestis, a bacterium spread primarily by fleas on rats."
+    },
+    {
+      "id": 22,
+      "text": "Which country was the first to grant women the right to vote nationally?",
+      "options": ["United States", "Australia", "New Zealand", "United Kingdom"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "New Zealand became the first self-governing country to grant women the right to vote in 1893."
+    },
+    {
+      "id": 23,
+      "text": "Who was the last Tsar of Russia before the 1917 Revolution?",
+      "options": ["Alexander III", "Nicholas I", "Alexander II", "Nicholas II"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Nicholas II was the last Russian Tsar, who abdicated in 1917 and was executed with his family in 1918."
+    },
+    {
+      "id": 24,
+      "text": "The Magna Carta was signed in which year?",
+      "options": ["1066", "1215", "1348", "1415"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Magna Carta was sealed by King John of England at Runnymede on June 15, 1215."
+    },
+    {
+      "id": 25,
+      "text": "Which civilization invented cuneiform writing?",
+      "options": ["Egyptians", "Sumerians", "Phoenicians", "Greeks"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Sumerians of ancient Mesopotamia developed cuneiform, one of the earliest writing systems, around 3100 BCE."
+    },
+    {
+      "id": 26,
+      "text": "In which modern country is the ancient city of Carthage located?",
+      "options": ["Libya", "Algeria", "Morocco", "Tunisia"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Ancient Carthage was located near modern-day Tunis, the capital of present-day Tunisia."
+    },
+    {
+      "id": 27,
+      "text": "Which empire was ruled by Suleiman the Magnificent?",
+      "options": ["Byzantine Empire", "Safavid Empire", "Ottoman Empire", "Mughal Empire"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Suleiman the Magnificent ruled the Ottoman Empire from 1520 to 1566, its most expansive and powerful period."
+    },
+    {
+      "id": 28,
+      "text": "What event triggered the start of World War I?",
+      "options": [
+        "Germany invaded Belgium",
+        "Assassination of Archduke Franz Ferdinand",
+        "Sinking of the Lusitania",
+        "Austria-Hungary declared war on Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo on June 28, 1914, triggered the chain of events leading to WWI."
+    },
+    {
+      "id": 29,
+      "text": "Who led India's independence movement through nonviolent civil disobedience?",
+      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "B.R. Ambedkar"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Mahatma Gandhi led India's independence movement using nonviolent civil disobedience, inspiring independence in 1947."
+    },
+    {
+      "id": 30,
+      "text": "Which pharaoh is most associated with the construction of the Great Pyramid at Giza?",
+      "options": ["Ramesses II", "Tutankhamun", "Khufu", "Akhenaten"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Great Pyramid of Giza was built as a tomb for Pharaoh Khufu (Cheops) around 2560 BCE."
+    },
+    {
+      "id": 31,
+      "text": "The Thirty Years' War (1618–1648) was primarily fought in which region?",
+      "options": ["Italy", "The Balkans", "Holy Roman Empire (Germany)", "France"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Thirty Years' War was fought mostly in the territories of the Holy Roman Empire (modern Germany), devastating much of Central Europe."
+    },
+    {
+      "id": 32,
+      "text": "Which ancient Greek philosopher was sentenced to death and forced to drink hemlock?",
+      "options": ["Plato", "Aristotle", "Socrates", "Pythagoras"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Socrates was tried for impiety and corrupting the youth, found guilty, and executed by drinking hemlock in 399 BCE."
+    },
+    {
+      "id": 33,
+      "text": "What was the name of the secret police of the Soviet Union under Stalin?",
+      "options": ["Gestapo", "NKVD", "KGB", "Stasi"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The NKVD (People's Commissariat for Internal Affairs) was the Soviet secret police during Stalin's purges in the 1930s–40s."
+    },
+    {
+      "id": 34,
+      "text": "Which battle in 732 CE stopped the Muslim advance into Western Europe?",
+      "options": ["Battle of Hastings", "Battle of Tours (Poitiers)", "Battle of Manzikert", "Battle of Lepanto"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Battle of Tours (or Poitiers) in 732 CE, won by Charles Martel, halted the Umayyad Caliphate's expansion into Western Europe."
+    },
+    {
+      "id": 35,
+      "text": "Who was the first Emperor of a unified China?",
+      "options": ["Emperor Wu of Han", "Qin Shi Huang", "Emperor Taizong", "Liu Bang"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Qin Shi Huang unified the warring Chinese states in 221 BCE and became the first emperor of a unified China."
+    },
+    {
+      "id": 36,
+      "text": "What was the significance of the Sykes-Picot Agreement (1916)?",
+      "options": [
+        "It ended World War I between Allied powers",
+        "It secretly divided the Ottoman Middle East between Britain and France",
+        "It established the League of Nations",
+        "It created the state of Israel"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Sykes-Picot Agreement was a secret deal between Britain and France to divide the Arab provinces of the Ottoman Empire into spheres of influence."
+    },
+    {
+      "id": 37,
+      "text": "Which emperor issued the Edict of Fontainebleau in 1685, revoking religious rights of French Protestants?",
+      "options": ["Louis XIII", "Louis XIV", "Henry IV", "Francis I"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Louis XIV issued the Edict of Fontainebleau (Revocation of the Edict of Nantes) in 1685, stripping French Protestants (Huguenots) of religious freedoms."
+    },
+    {
+      "id": 38,
+      "text": "The Meiji Restoration in Japan began in which year?",
+      "options": ["1848", "1858", "1868", "1878"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Meiji Restoration began in 1868 when Emperor Meiji was restored to power, launching Japan's rapid modernization and industrialization."
+    },
+    {
+      "id": 39,
+      "text": "Which Roman general crossed the Rubicon River in 49 BCE, triggering a civil war?",
+      "options": ["Pompey", "Mark Antony", "Julius Caesar", "Crassus"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Julius Caesar crossed the Rubicon in 49 BCE with his army—an illegal act—igniting a civil war against Pompey and the Senate."
+    },
+    {
+      "id": 40,
+      "text": "What was the Scramble for Africa?",
+      "options": [
+        "A series of African civil wars in the 20th century",
+        "The rapid colonization of Africa by European powers in the late 19th century",
+        "The migration of Africans to European colonies",
+        "A trade competition between African kingdoms"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Scramble for Africa (1881–1914) was the rapid invasion and partition of Africa by European powers, leaving most of the continent colonized."
+    },
+    {
+      "id": 41,
+      "text": "Who led the Haitian Revolution that resulted in Haiti becoming independent in 1804?",
+      "options": ["Henri Christophe", "Jean-Jacques Dessalines", "Toussaint Louverture", "Alexandre Pétion"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Toussaint Louverture led the Haitian Revolution, though he died before independence; Jean-Jacques Dessalines declared independence in 1804."
+    },
+    {
+      "id": 42,
+      "text": "What was the primary purpose of the Congress of Vienna (1815)?",
+      "options": [
+        "To punish France for the Napoleonic Wars",
+        "To reorganize Europe after Napoleon's defeat and prevent future revolutions",
+        "To establish a European parliament",
+        "To end the Thirty Years' War"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Congress of Vienna reorganized Europe to restore balance of power and conservative order after the upheaval of the Napoleonic Wars."
+    },
+    {
+      "id": 43,
+      "text": "Which ancient trade network connected China to the Mediterranean world?",
+      "options": ["Amber Road", "Incense Road", "Silk Road", "Spice Route"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Silk Road was an ancient network of trade routes linking East Asia, Central Asia, and the Mediterranean, facilitating commerce and cultural exchange."
+    },
+    {
+      "id": 44,
+      "text": "The Peloponnesian War was fought between which two Greek city-states?",
+      "options": ["Corinth and Thebes", "Athens and Sparta", "Athens and Corinth", "Sparta and Macedon"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Peloponnesian War (431–404 BCE) was fought between Athens and Sparta along with their respective allies, ending in Athenian defeat."
+    },
+    {
+      "id": 45,
+      "text": "What was the policy of apartheid in South Africa?",
+      "options": [
+        "A system of racial segregation and white minority rule",
+        "An economic embargo against foreign nations",
+        "A land reform policy redistributing farms",
+        "A military alliance with neighboring states"
+      ],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "Apartheid (1948–1994) was South Africa's institutionalized system of racial segregation that systematically oppressed non-white citizens."
+    },
+    {
+      "id": 46,
+      "text": "Which dynasty built the Forbidden City in Beijing?",
+      "options": ["Tang Dynasty", "Song Dynasty", "Yuan Dynasty", "Ming Dynasty"],
+      "correct": 3,
+      "difficulty": "hard",
+      "explanation": "The Forbidden City was constructed during the early Ming Dynasty (1406–1420) and served as the imperial palace for 24 emperors."
+    },
+    {
+      "id": 47,
+      "text": "Who was the Byzantine Emperor during the fall of Constantinople in 1453?",
+      "options": ["Constantine X", "Alexios I Komnenos", "Constantine XI Palaiologos", "John VIII Palaiologos"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Constantine XI Palaiologos was the last Byzantine Emperor, dying during the Ottoman conquest of Constantinople in 1453."
+    },
+    {
+      "id": 48,
+      "text": "What was the Long March (1934–1935) in Chinese history?",
+      "options": [
+        "A Japanese military campaign across China",
+        "A protest march by Chinese workers in Shanghai",
+        "A strategic retreat by Mao's Red Army covering over 9,000 km",
+        "A trade expedition along the Silk Road"
+      ],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Long March was a year-long retreat by Mao Zedong's Communist Red Army, covering ~9,000 km to escape Nationalist forces."
+    },
+    {
+      "id": 49,
+      "text": "Which empire's collapse in 1918 gave rise to modern Turkey, along with several Middle Eastern and Balkan states?",
+      "options": ["Austro-Hungarian Empire", "Russian Empire", "Ottoman Empire", "German Empire"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "The Ottoman Empire's defeat in WWI led to its dissolution, from which emerged modern Turkey and mandates that became today's Middle Eastern states."
+    },
+    {
+      "id": 50,
+      "text": "The Balfour Declaration of 1917 expressed British support for what?",
+      "options": [
+        "Indian independence from Britain",
+        "Establishment of a Jewish homeland in Palestine",
+        "Arab sovereignty over the Arabian Peninsula",
+        "Creation of a League of Nations"
+      ],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Balfour Declaration was a 1917 letter from British Foreign Secretary Arthur Balfour expressing support for a Jewish national home in Palestine."
+    }
+  ]
+}

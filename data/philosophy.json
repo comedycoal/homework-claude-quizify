@@ -1,0 +1,409 @@
+{
+  "id": "philosophy",
+  "name": "Philosophy",
+  "description": "Explore ancient wisdom, ethics, logic, and humanity's deepest questions.",
+  "icon": "🤔",
+  "color": "#6d28d9",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who is known as the father of Western philosophy?",
+      "options": ["Plato", "Aristotle", "Socrates", "Pythagoras"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Socrates is widely regarded as the father of Western philosophy for his method of inquiry and influence on later thinkers."
+    },
+    {
+      "id": 2,
+      "text": "Who wrote 'The Republic'?",
+      "options": ["Aristotle", "Plato", "Cicero", "Socrates"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Plato wrote 'The Republic,' a dialogue exploring justice, the ideal state, and the philosopher-king concept."
+    },
+    {
+      "id": 3,
+      "text": "What branch of philosophy deals with questions of right and wrong?",
+      "options": ["Metaphysics", "Epistemology", "Ethics", "Logic"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Ethics is the branch of philosophy concerned with moral principles, values, and questions of right and wrong conduct."
+    },
+    {
+      "id": 4,
+      "text": "Who said 'I think, therefore I am'?",
+      "options": ["Immanuel Kant", "Blaise Pascal", "René Descartes", "Francis Bacon"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "René Descartes wrote 'Cogito, ergo sum' ('I think, therefore I am') as the foundational certainty of his philosophical method."
+    },
+    {
+      "id": 5,
+      "text": "What is the Socratic method?",
+      "options": ["Writing long philosophical treatises", "Teaching through cooperative dialogue and questioning", "Memorizing ancient texts", "Conducting scientific experiments"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "The Socratic method is a form of cooperative dialogue involving questioning to stimulate critical thinking and expose contradictions."
+    },
+    {
+      "id": 6,
+      "text": "Which ancient Greek philosopher tutored Alexander the Great?",
+      "options": ["Plato", "Socrates", "Aristotle", "Epicurus"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Aristotle was the personal tutor of Alexander the Great, teaching him from age 13."
+    },
+    {
+      "id": 7,
+      "text": "What is the study of knowledge and how we know things called?",
+      "options": ["Ontology", "Epistemology", "Axiology", "Phenomenology"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Epistemology is the branch of philosophy that studies the nature, origin, and scope of knowledge and belief."
+    },
+    {
+      "id": 8,
+      "text": "Which philosopher wrote 'Meditations on First Philosophy'?",
+      "options": ["Baruch Spinoza", "John Locke", "René Descartes", "George Berkeley"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "René Descartes wrote 'Meditations on First Philosophy' (1641), seeking to rebuild knowledge on certain foundations."
+    },
+    {
+      "id": 9,
+      "text": "What is metaphysics concerned with?",
+      "options": ["The structure of logical arguments", "The fundamental nature of reality and existence", "Moral decision-making", "The philosophy of science"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Metaphysics explores fundamental questions about reality, existence, time, space, causality, and the nature of being."
+    },
+    {
+      "id": 10,
+      "text": "Which philosopher is associated with the concept of the 'Categorical Imperative'?",
+      "options": ["John Stuart Mill", "David Hume", "Immanuel Kant", "Jeremy Bentham"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Immanuel Kant developed the Categorical Imperative, the principle that one should act only according to rules one could universalize."
+    },
+    {
+      "id": 11,
+      "text": "Who founded the philosophical school of Stoicism?",
+      "options": ["Epicurus", "Zeno of Citium", "Marcus Aurelius", "Seneca"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Stoicism was founded by Zeno of Citium around 300 BCE, emphasizing virtue, reason, and living in accordance with nature."
+    },
+    {
+      "id": 12,
+      "text": "What does 'utilitarianism' hold as the basis for moral decisions?",
+      "options": ["Duty to universal moral laws", "Maximizing happiness or well-being for the greatest number", "Following natural law", "Virtue and character development"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Utilitarianism, developed by Jeremy Bentham and John Stuart Mill, holds that morally right actions maximize overall happiness."
+    },
+    {
+      "id": 13,
+      "text": "Which philosopher wrote 'Thus Spoke Zarathustra'?",
+      "options": ["Arthur Schopenhauer", "Søren Kierkegaard", "Friedrich Nietzsche", "Georg Wilhelm Friedrich Hegel"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Friedrich Nietzsche wrote 'Thus Spoke Zarathustra' (1883-1885), introducing concepts like the Übermensch and eternal recurrence."
+    },
+    {
+      "id": 14,
+      "text": "What is the philosophical concept of 'tabula rasa'?",
+      "options": ["The idea that the mind is blank at birth, shaped by experience", "The theory that knowledge is innate", "A form of logical reasoning", "The concept of moral relativism"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Tabula rasa ('blank slate') is the theory, associated with John Locke, that the mind is empty at birth and knowledge comes from experience."
+    },
+    {
+      "id": 15,
+      "text": "Which ancient philosophical school taught that pleasure is the highest good?",
+      "options": ["Stoicism", "Cynicism", "Epicureanism", "Skepticism"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Epicureanism, founded by Epicurus, taught that pleasure (particularly tranquility and freedom from pain) is the highest good."
+    },
+    {
+      "id": 16,
+      "text": "Who wrote 'Being and Nothingness'?",
+      "options": ["Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir", "Martin Heidegger"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Jean-Paul Sartre wrote 'Being and Nothingness' (1943), the foundational text of existentialist philosophy."
+    },
+    {
+      "id": 17,
+      "text": "The phrase 'the unexamined life is not worth living' is attributed to whom?",
+      "options": ["Plato", "Aristotle", "Socrates", "Diogenes"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Socrates said 'The unexamined life is not worth living' at his trial, according to Plato's Apology."
+    },
+    {
+      "id": 18,
+      "text": "What is Plato's 'Allegory of the Cave' meant to illustrate?",
+      "options": ["The nature of human fear", "The difference between reality and perception/ignorance", "The proper structure of government", "The origin of philosophical inquiry"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Plato's Allegory of the Cave illustrates how most humans mistake appearances for reality, while philosophers seek true knowledge."
+    },
+    {
+      "id": 19,
+      "text": "What is 'existentialism' primarily concerned with?",
+      "options": ["The existence of God", "Individual freedom, choice, and responsibility in creating meaning", "The nature of mathematical truth", "Social justice and equality"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Existentialism focuses on individual human existence, freedom, and the responsibility to create one's own meaning in a universe without inherent purpose."
+    },
+    {
+      "id": 20,
+      "text": "What is the 'Ship of Theseus' paradox about?",
+      "options": ["The ethics of war and conquest", "Whether an object that has had all its parts replaced remains the same object", "The proper use of metaphor in argument", "How to navigate moral dilemmas"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Ship of Theseus paradox asks whether an object remains the same when all its original components are gradually replaced."
+    },
+    {
+      "id": 21,
+      "text": "Which philosopher introduced the concept of the 'Übermensch' (Overman)?",
+      "options": ["Arthur Schopenhauer", "Karl Marx", "Friedrich Nietzsche", "Georg Hegel"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Friedrich Nietzsche introduced the Übermensch in 'Thus Spoke Zarathustra' as an ideal of a human who creates their own values."
+    },
+    {
+      "id": 22,
+      "text": "What is the 'trolley problem' in ethics?",
+      "options": ["A puzzle about transportation resource allocation", "A thought experiment exploring whether to sacrifice one to save many", "A problem about political decision-making", "A dilemma about property rights"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The trolley problem is a thought experiment asking whether it is ethical to divert a threat to kill one person to save five others."
+    },
+    {
+      "id": 23,
+      "text": "Who developed the philosophy known as 'Pragmatism'?",
+      "options": ["William James and John Dewey", "Bertrand Russell and G.E. Moore", "Edmund Husserl and Martin Heidegger", "A.J. Ayer and Ludwig Wittgenstein"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Pragmatism was developed primarily by Charles Sanders Peirce, William James, and John Dewey as a distinctly American philosophical tradition."
+    },
+    {
+      "id": 24,
+      "text": "What does the philosophical position of 'solipsism' hold?",
+      "options": ["Only the material world exists", "Only one's own mind can be known to exist with certainty", "All people are fundamentally selfish", "Reality is a social construction"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Solipsism is the view that only one's own mind is certain to exist; the external world cannot be known to be real."
+    },
+    {
+      "id": 25,
+      "text": "Who wrote 'Critique of Pure Reason'?",
+      "options": ["G.W.F. Hegel", "Immanuel Kant", "David Hume", "Arthur Schopenhauer"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Immanuel Kant published 'Critique of Pure Reason' (1781), examining the limits of human knowledge and reason."
+    },
+    {
+      "id": 26,
+      "text": "What is 'dialectical materialism', associated with Marx and Engels?",
+      "options": ["The view that ideas drive historical change", "The theory that material conditions and class conflict drive historical development", "A form of logical argumentation", "The philosophy that ethics depends on context"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Dialectical materialism holds that the material world and class conflict between groups drive historical change and development."
+    },
+    {
+      "id": 27,
+      "text": "What does 'a priori' knowledge mean in philosophy?",
+      "options": ["Knowledge derived from sensory experience", "Knowledge that is independent of experience or observation", "Knowledge passed down through tradition", "Scientific knowledge based on evidence"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A priori knowledge is knowledge that can be known independently of experience, such as logical and mathematical truths."
+    },
+    {
+      "id": 28,
+      "text": "Which philosopher is most associated with the 'social contract' theory?",
+      "options": ["Thomas Hobbes, John Locke, and Rousseau", "Plato and Aristotle", "Kant and Hegel", "Nietzsche and Schopenhauer"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Social contract theory is most associated with Hobbes, Locke, and Rousseau, each offering distinct versions of how society is formed."
+    },
+    {
+      "id": 29,
+      "text": "What is the 'problem of evil' in philosophy of religion?",
+      "options": ["Whether humans are naturally good or evil", "The challenge of explaining why a good God permits suffering and evil", "The origin of immoral behavior in society", "The philosophy of punishment and justice"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The problem of evil questions how an omnipotent, omniscient, and benevolent God can permit evil and suffering to exist."
+    },
+    {
+      "id": 30,
+      "text": "Who is associated with the philosophy of 'Phenomenology'?",
+      "options": ["Bertrand Russell", "Edmund Husserl", "John Dewey", "A.J. Ayer"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Edmund Husserl founded phenomenology, a method of philosophical inquiry that focuses on the structure of conscious experience."
+    },
+    {
+      "id": 31,
+      "text": "What is the 'Euthyphro dilemma', as posed by Socrates?",
+      "options": ["Whether gods can change their nature", "Whether something is good because gods approve of it, or gods approve because it is good", "Whether humans can know divine will", "Whether morality requires religion"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The Euthyphro dilemma asks: Is something pious because gods love it, or do gods love it because it is pious? It challenges divine command theory."
+    },
+    {
+      "id": 32,
+      "text": "What is 'Occam's Razor'?",
+      "options": ["A logical paradox about infinity", "The principle that simpler explanations should be preferred over complex ones", "A method for testing philosophical arguments", "A theory about the nature of consciousness"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Occam's Razor, attributed to William of Ockham, is the principle that among competing hypotheses, the one with fewest assumptions should be preferred."
+    },
+    {
+      "id": 33,
+      "text": "Which philosopher wrote 'The Prince'?",
+      "options": ["Francis Bacon", "Thomas More", "Niccolò Machiavelli", "Erasmus"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Niccolò Machiavelli wrote 'The Prince' (1513), a political treatise advising rulers on gaining and maintaining power."
+    },
+    {
+      "id": 34,
+      "text": "What is 'nihilism' in philosophy?",
+      "options": ["The belief that nothing has inherent meaning or value", "The belief that everything happens for a reason", "A form of religious skepticism", "The philosophy of self-denial"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "Nihilism is the philosophical position that life lacks inherent meaning, moral truths are groundless, and values are baseless."
+    },
+    {
+      "id": 35,
+      "text": "In Buddhist philosophy, what is 'nirvana'?",
+      "options": ["A state of heavenly reward after death", "Liberation from suffering and the cycle of rebirth", "The highest state of meditation", "A god of compassion"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "In Buddhism, nirvana is the state of liberation from suffering, desire, and the cycle of rebirth (samsara)."
+    },
+    {
+      "id": 36,
+      "text": "What is Hegel's concept of the 'dialectic' in its simplest form?",
+      "options": ["A form of logical debate", "A process of thesis, antithesis, and synthesis driving historical development", "The contradiction inherent in all ideas", "A form of political dialogue"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Hegel's dialectic describes how ideas (thesis) generate opposition (antithesis), which resolves into a higher synthesis, driving historical progress."
+    },
+    {
+      "id": 37,
+      "text": "What is the 'hard problem of consciousness' as articulated by David Chalmers?",
+      "options": ["How we measure the complexity of thought", "Explaining why physical processes give rise to subjective experience", "How consciousness evolved", "The problem of other minds"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Chalmers' hard problem asks why physical brain processes produce subjective, first-person conscious experience at all."
+    },
+    {
+      "id": 38,
+      "text": "What is 'epistemic humility'?",
+      "options": ["Admitting one knows nothing", "Recognizing the limits of one's knowledge and being open to being wrong", "Deferring always to authority", "The Socratic method of questioning"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Epistemic humility is the intellectual virtue of recognizing the limits of one's knowledge and remaining open to correction."
+    },
+    {
+      "id": 39,
+      "text": "Which philosopher introduced the concept of 'bad faith' (mauvaise foi)?",
+      "options": ["Albert Camus", "Simone de Beauvoir", "Jean-Paul Sartre", "Maurice Merleau-Ponty"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Sartre introduced 'bad faith' to describe the self-deception of denying one's own freedom and responsibility by pretending to be determined."
+    },
+    {
+      "id": 40,
+      "text": "What is 'hermeneutics' in philosophy?",
+      "options": ["The study of biological inheritance", "The theory and methodology of text interpretation", "A branch of formal logic", "The philosophy of language origins"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Hermeneutics is the theory and practice of interpretation, especially of texts, originally applied to biblical exegesis."
+    },
+    {
+      "id": 41,
+      "text": "Which philosopher argued that 'God is dead' and explored the implications for morality?",
+      "options": ["Søren Kierkegaard", "Ludwig Feuerbach", "Friedrich Nietzsche", "Arthur Schopenhauer"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Nietzsche proclaimed 'God is dead' in 'The Gay Science,' meaning that the Enlightenment had destroyed the foundations of religious morality."
+    },
+    {
+      "id": 42,
+      "text": "What is the 'veil of ignorance' thought experiment by John Rawls?",
+      "options": ["The idea that we cannot know moral truth", "A device to determine just principles by imagining we don't know our place in society", "A critique of religious belief", "A concept about perceptual limits"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Rawls' veil of ignorance asks what principles we'd choose if we didn't know our social position, wealth, or talents, ensuring impartiality."
+    },
+    {
+      "id": 43,
+      "text": "What is 'logical positivism'?",
+      "options": ["The belief that logic can solve all philosophical problems", "The view that only statements verifiable by logic or science are meaningful", "A positive approach to ethical questions", "The claim that existence precedes essence"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Logical positivism holds that only statements that are empirically verifiable or analytically true are meaningful; metaphysics is nonsense."
+    },
+    {
+      "id": 44,
+      "text": "Who developed the philosophy of 'Deconstruction'?",
+      "options": ["Michel Foucault", "Jacques Derrida", "Jean-François Lyotard", "Roland Barthes"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Jacques Derrida developed deconstruction, a method of critical analysis that exposes contradictions and instabilities in texts."
+    },
+    {
+      "id": 45,
+      "text": "What is Spinoza's concept of 'Deus sive Natura' (God or Nature)?",
+      "options": ["The idea that God created nature separately", "The pantheistic view that God and Nature are one and the same substance", "The argument that nature proves God's existence", "The distinction between natural and divine law"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Spinoza's 'Deus sive Natura' expresses his pantheistic view that God and Nature are identical — one infinite, self-causing substance."
+    },
+    {
+      "id": 46,
+      "text": "What is the 'naturalistic fallacy', as described by G.E. Moore?",
+      "options": ["Assuming nature is always morally good", "The error of deriving moral values from natural facts", "Using scientific methods in ethics", "The mistake of anthropomorphizing nature"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "G.E. Moore's naturalistic fallacy is the error of defining moral terms like 'good' using natural properties like pleasure or evolutionary fitness."
+    },
+    {
+      "id": 47,
+      "text": "What is 'compatibilism' in the free will debate?",
+      "options": ["The view that free will and determinism are mutually exclusive", "The position that free will and determinism can both be true simultaneously", "The belief that only some humans have free will", "The rejection of both free will and determinism"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Compatibilism holds that free will and determinism are not mutually exclusive; one can act freely even in a determined universe."
+    },
+    {
+      "id": 48,
+      "text": "What is the 'Sapir-Whorf hypothesis' in philosophy of language?",
+      "options": ["The idea that language evolved from animal communication", "The hypothesis that the language we speak shapes or determines our thoughts", "The theory that all languages share a universal grammar", "The claim that meaning is purely social"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The Sapir-Whorf hypothesis holds that the language one speaks influences or determines how one perceives and thinks about the world."
+    },
+    {
+      "id": 49,
+      "text": "What is Heidegger's concept of 'Dasein'?",
+      "options": ["The German concept of fate", "The mode of human being as 'being-in-the-world,' characterized by temporal existence", "The concept of divine presence", "The structure of philosophical argument"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Heidegger's 'Dasein' (literally 'being-there') refers to the particular kind of being humans have — always situated, temporal, and world-engaged."
+    },
+    {
+      "id": 50,
+      "text": "What does Wittgenstein mean by 'language games' in his later philosophy?",
+      "options": ["That language is fundamentally deceptive", "That words gain meaning through their use in specific social practices and contexts", "That philosophy is a form of wordplay", "That all language is ultimately meaningless"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Wittgenstein's 'language games' concept holds that words derive meaning from their use within particular social practices and forms of life."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "id": "technology",
+  "name": "Technology",
+  "description": "Test your knowledge of computers, internet, and tech innovations.",
+  "icon": "💻",
+  "color": "#6366f1",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What does 'CPU' stand for?",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Unit"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "CPU stands for Central Processing Unit, the primary component that executes instructions in a computer."
+    },
+    {
+      "id": 2,
+      "text": "Which company created the iPhone?",
+      "options": ["Samsung", "Google", "Apple", "Microsoft"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Apple created the iPhone, first unveiled by Steve Jobs in January 2007."
+    },
+    {
+      "id": 3,
+      "text": "What does 'HTML' stand for?",
+      "options": ["HyperText Markup Language", "High Transfer Markup Language", "HyperText Machine Language", "Home Tool Markup Language"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "HTML stands for HyperText Markup Language, the standard language for creating web pages."
+    },
+    {
+      "id": 4,
+      "text": "Which company founded the Android operating system?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Google acquired Android Inc. in 2005 and developed the Android operating system."
+    },
+    {
+      "id": 5,
+      "text": "What is the most widely used search engine in the world?",
+      "options": ["Bing", "Yahoo", "Google", "DuckDuckGo"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Google is by far the most widely used search engine, handling over 90% of global search queries."
+    },
+    {
+      "id": 6,
+      "text": "What does 'RAM' stand for?",
+      "options": ["Read Access Memory", "Random Access Memory", "Rapid Access Module", "Read And Memorize"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "RAM stands for Random Access Memory, which is the short-term memory used by a computer for active tasks."
+    },
+    {
+      "id": 7,
+      "text": "Which programming language is known for its use in web development and has 'Java' in its name but is unrelated to Java?",
+      "options": ["JavaBeans", "JavaScript", "JavaFX", "JavaWeb"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "JavaScript is a scripting language for the web that shares the name 'Java' but has no relation to the Java programming language."
+    },
+    {
+      "id": 8,
+      "text": "What does 'USB' stand for?",
+      "options": ["Universal System Bus", "Universal Serial Bus", "Unified Serial Bus", "Universal Software Base"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "USB stands for Universal Serial Bus, a standard for connecting devices to computers."
+    },
+    {
+      "id": 9,
+      "text": "Who co-founded Microsoft alongside Bill Gates?",
+      "options": ["Steve Jobs", "Paul Allen", "Steve Wozniak", "Larry Page"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Paul Allen co-founded Microsoft with Bill Gates in 1975."
+    },
+    {
+      "id": 10,
+      "text": "What does 'Wi-Fi' primarily stand for?",
+      "options": ["Wireless Fidelity", "Wide Frequency", "Wireless Finder", "Wire-Free Internet"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "Wi-Fi stands for Wireless Fidelity, a technology for wireless local area networking."
+    },
+    {
+      "id": 11,
+      "text": "In what year was Facebook launched to the public?",
+      "options": ["2002", "2004", "2006", "2008"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Facebook was launched to the general public (beyond just college students) in September 2006."
+    },
+    {
+      "id": 12,
+      "text": "What is the file extension for a Python script?",
+      "options": [".java", ".py", ".pt", ".pys"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Python script files use the .py file extension."
+    },
+    {
+      "id": 13,
+      "text": "Which company makes the Windows operating system?",
+      "options": ["Apple", "Google", "Microsoft", "IBM"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Microsoft developed and sells the Windows operating system, first released in 1985."
+    },
+    {
+      "id": 14,
+      "text": "What does 'GPS' stand for?",
+      "options": ["Global Positioning System", "General Positioning Satellite", "Global Path System", "Geo Positioning Signal"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "GPS stands for Global Positioning System, a satellite-based navigation system."
+    },
+    {
+      "id": 15,
+      "text": "Which social media platform uses a bird as its logo?",
+      "options": ["Instagram", "Twitter (X)", "Snapchat", "Pinterest"],
+      "correct": 1,
+      "difficulty": "easy",
+      "explanation": "Twitter (now rebranded as X) famously used a bird as its logo since its founding."
+    },
+    {
+      "id": 16,
+      "text": "What does 'URL' stand for?",
+      "options": ["Uniform Resource Locator", "Universal Reference Link", "Unified Resource Language", "Uniform Route Locator"],
+      "correct": 0,
+      "difficulty": "easy",
+      "explanation": "URL stands for Uniform Resource Locator, the address used to access resources on the internet."
+    },
+    {
+      "id": 17,
+      "text": "What is the name of Apple's voice assistant?",
+      "options": ["Alexa", "Cortana", "Siri", "Google Assistant"],
+      "correct": 2,
+      "difficulty": "easy",
+      "explanation": "Siri is Apple's voice assistant, first introduced with the iPhone 4S in 2011."
+    },
+    {
+      "id": 18,
+      "text": "Which programming language was developed by Guido van Rossum?",
+      "options": ["Ruby", "Java", "Python", "C++"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Python was created by Guido van Rossum and first released in 1991."
+    },
+    {
+      "id": 19,
+      "text": "What does 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "HyperText Transmission Process", "Hyper Transfer Transport Protocol"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "HTTP stands for HyperText Transfer Protocol, the foundation of data communication on the web."
+    },
+    {
+      "id": 20,
+      "text": "Which data structure operates on a 'first in, first out' (FIFO) principle?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A Queue operates on FIFO — the first element added is the first one to be removed."
+    },
+    {
+      "id": 21,
+      "text": "In what year was the World Wide Web invented by Tim Berners-Lee?",
+      "options": ["1985", "1989", "1993", "1995"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+    },
+    {
+      "id": 22,
+      "text": "What does 'SSD' stand for?",
+      "options": ["Solid State Drive", "Super Storage Device", "Static Secure Drive", "System Storage Drive"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "SSD stands for Solid State Drive, a storage device that uses flash memory instead of spinning disks."
+    },
+    {
+      "id": 23,
+      "text": "Which company developed the Java programming language?",
+      "options": ["Microsoft", "Apple", "Sun Microsystems", "IBM"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Java was developed by Sun Microsystems (later acquired by Oracle) and released in 1995."
+    },
+    {
+      "id": 24,
+      "text": "What is the binary representation of the decimal number 10?",
+      "options": ["1001", "1010", "1100", "0110"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "The decimal number 10 is represented as 1010 in binary (8+2=10)."
+    },
+    {
+      "id": 25,
+      "text": "What does 'API' stand for?",
+      "options": ["Automated Programming Interface", "Application Programming Interface", "Applied Process Integration", "Accessible Program Index"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "API stands for Application Programming Interface, a set of rules for how software components interact."
+    },
+    {
+      "id": 26,
+      "text": "Which company owns YouTube?",
+      "options": ["Facebook", "Microsoft", "Google", "Amazon"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Google acquired YouTube in October 2006 for approximately $1.65 billion."
+    },
+    {
+      "id": 27,
+      "text": "What is the name of the open-source version control system created by Linus Torvalds?",
+      "options": ["SVN", "Git", "Mercurial", "CVS"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "Linus Torvalds created Git in 2005 to manage the development of the Linux kernel."
+    },
+    {
+      "id": 28,
+      "text": "What does 'IoT' stand for?",
+      "options": ["Internet of Things", "Integration of Technology", "Internet of Transfer", "Integrated Online Tools"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "IoT stands for Internet of Things, referring to physical devices connected to the internet."
+    },
+    {
+      "id": 29,
+      "text": "Which layer of the OSI model handles IP addressing?",
+      "options": ["Data Link Layer", "Transport Layer", "Network Layer", "Session Layer"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "The Network Layer (Layer 3) of the OSI model is responsible for IP addressing and routing."
+    },
+    {
+      "id": 30,
+      "text": "What programming paradigm does Python primarily support for object modeling?",
+      "options": ["Functional Programming", "Procedural Programming", "Object-Oriented Programming", "Logic Programming"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "Python primarily supports Object-Oriented Programming, where code is organized around objects and classes."
+    },
+    {
+      "id": 31,
+      "text": "Which tech giant acquired LinkedIn in 2016?",
+      "options": ["Google", "Amazon", "Apple", "Microsoft"],
+      "correct": 3,
+      "difficulty": "medium",
+      "explanation": "Microsoft acquired LinkedIn in June 2016 for approximately $26.2 billion."
+    },
+    {
+      "id": 32,
+      "text": "What is the default port number for HTTPS?",
+      "options": ["80", "8080", "443", "8443"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "HTTPS uses port 443 by default, while HTTP uses port 80."
+    },
+    {
+      "id": 33,
+      "text": "Which company developed the React JavaScript library?",
+      "options": ["Google", "Microsoft", "Facebook (Meta)", "Twitter"],
+      "correct": 2,
+      "difficulty": "medium",
+      "explanation": "React was developed by Facebook (now Meta) and open-sourced in 2013."
+    },
+    {
+      "id": 34,
+      "text": "What does 'SQL' stand for?",
+      "options": ["Structured Query Language", "Standard Query Logic", "System Query Language", "Sequential Query Logic"],
+      "correct": 0,
+      "difficulty": "medium",
+      "explanation": "SQL stands for Structured Query Language, used to manage and query relational databases."
+    },
+    {
+      "id": 35,
+      "text": "In computing, what is a 'byte' composed of?",
+      "options": ["4 bits", "8 bits", "16 bits", "32 bits"],
+      "correct": 1,
+      "difficulty": "medium",
+      "explanation": "A byte is composed of 8 bits, and is the standard unit of digital information."
+    },
+    {
+      "id": 36,
+      "text": "Which encryption standard is commonly used for securing web traffic?",
+      "options": ["MD5", "SHA-1", "TLS", "Base64"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "TLS (Transport Layer Security) is the standard protocol used to encrypt web traffic, replacing the older SSL."
+    },
+    {
+      "id": 37,
+      "text": "What is the time complexity of a binary search algorithm?",
+      "options": ["O(n)", "O(n²)", "O(log n)", "O(n log n)"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Binary search has O(log n) time complexity because it halves the search space with each comparison."
+    },
+    {
+      "id": 38,
+      "text": "Which programming language is primarily used for iOS app development alongside Swift?",
+      "options": ["Java", "Kotlin", "Objective-C", "C#"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Objective-C was the primary language for iOS development before Swift, and is still used in legacy codebases."
+    },
+    {
+      "id": 39,
+      "text": "What does 'CISC' stand for in computer architecture?",
+      "options": ["Complex Instruction Set Computer", "Compact Integrated System Circuit", "Core Instruction Set Controller", "Complex Integrated Silicon Chip"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "CISC stands for Complex Instruction Set Computer, an architecture where single instructions can perform multiple low-level operations."
+    },
+    {
+      "id": 40,
+      "text": "What is the purpose of a 'mutex' in concurrent programming?",
+      "options": ["To allocate memory", "To prevent race conditions by allowing only one thread at a time", "To increase execution speed", "To handle network requests"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "A mutex (mutual exclusion lock) prevents race conditions by ensuring only one thread can access a shared resource at a time."
+    },
+    {
+      "id": 41,
+      "text": "Which sorting algorithm has the best average-case time complexity?",
+      "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Selection Sort"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Merge Sort has O(n log n) average-case time complexity, making it more efficient than O(n²) sorting algorithms."
+    },
+    {
+      "id": 42,
+      "text": "What is 'Turing completeness' in computer science?",
+      "options": ["A measure of CPU speed", "The ability of a system to simulate any Turing machine", "A security certification", "A type of database index"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Turing completeness means a system can simulate a Turing machine and thus compute any computable function."
+    },
+    {
+      "id": 43,
+      "text": "What does 'ACID' stand for in database transactions?",
+      "options": ["Atomicity, Consistency, Isolation, Durability", "Access, Control, Indexing, Data", "Atomic, Concurrent, Integrated, Durable", "Accuracy, Consistency, Integrity, Dependency"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "ACID stands for Atomicity, Consistency, Isolation, and Durability — properties ensuring database transactions are reliable."
+    },
+    {
+      "id": 44,
+      "text": "Which protocol does the Domain Name System (DNS) primarily use?",
+      "options": ["TCP only", "UDP (typically on port 53)", "HTTP", "FTP"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "DNS primarily uses UDP on port 53 for queries, though TCP is used for large responses and zone transfers."
+    },
+    {
+      "id": 45,
+      "text": "What is the CAP theorem in distributed systems?",
+      "options": ["A theorem about CPU cache performance", "A theorem stating a distributed system can only guarantee two of: Consistency, Availability, Partition tolerance", "A method for calculating network capacity", "A rule about API rate limiting"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "The CAP theorem states a distributed system can only guarantee two of three properties: Consistency, Availability, and Partition tolerance."
+    },
+    {
+      "id": 46,
+      "text": "In machine learning, what does 'overfitting' mean?",
+      "options": ["A model performs too slowly on large datasets", "A model learns training data so well it performs poorly on new data", "A model has too many parameters to train", "A model is tested on incorrect data"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Overfitting occurs when a model learns the training data too specifically, including its noise, and fails to generalize to new data."
+    },
+    {
+      "id": 47,
+      "text": "What does 'RISC' stand for in processor design?",
+      "options": ["Reduced Instruction Set Computer", "Rapid Integrated System Chip", "Refined Instruction Set Controller", "Reduced Integrated Silicon Circuit"],
+      "correct": 0,
+      "difficulty": "hard",
+      "explanation": "RISC stands for Reduced Instruction Set Computer, a design philosophy using a small set of simple, fast instructions."
+    },
+    {
+      "id": 48,
+      "text": "Which cryptographic concept ensures a sender cannot deny sending a message?",
+      "options": ["Encryption", "Hashing", "Non-repudiation", "Authentication"],
+      "correct": 2,
+      "difficulty": "hard",
+      "explanation": "Non-repudiation is the cryptographic property ensuring a sender cannot deny having sent a particular message."
+    },
+    {
+      "id": 49,
+      "text": "What is 'garbage collection' in programming languages?",
+      "options": ["Removing unused files from disk", "Automatic memory management that frees unused objects", "Clearing browser cache", "Cleaning up database records"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "Garbage collection is an automatic memory management process that identifies and frees memory occupied by objects no longer in use."
+    },
+    {
+      "id": 50,
+      "text": "In networking, what is 'BGP' used for?",
+      "options": ["Encrypting data packets", "Routing traffic between autonomous systems on the internet", "Assigning IP addresses to devices", "Managing DNS records"],
+      "correct": 1,
+      "difficulty": "hard",
+      "explanation": "BGP (Border Gateway Protocol) is the routing protocol that manages how data is routed between different autonomous systems on the internet."
+    }
+  ]
+}
