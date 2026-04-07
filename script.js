@@ -11,7 +11,8 @@ const game = {
   answers: [],
   quizQuestions: [],
   selectedCategory: null,
-  selectedCount: 10
+  selectedCount: 10,
+  categories: []
 };
 
 const TOTAL_TIME_PER_QUESTION = 15;
@@ -36,18 +37,40 @@ const scoreDisplay = document.getElementById('score');
 const streakDisplay = document.getElementById('streak');
 const questionNumber = document.getElementById('questionNumber');
 const totalQuestions = document.getElementById('totalQuestions');
-const categoryCards = document.querySelectorAll('.category-card');
+const categoryList = document.getElementById('categoryList');
 const countBtns = document.querySelectorAll('.count-btn');
 
-// Initialize event listeners
-categoryCards.forEach(card => {
-  card.addEventListener('click', () => {
-    categoryCards.forEach(c => c.classList.remove('selected'));
-    card.classList.add('selected');
-    game.selectedCategory = card.dataset.category;
-    startButton.disabled = false;
+// Load categories and initialize
+async function initializeCategories() {
+  try {
+    const response = await fetch('data/categories.json');
+    const categories = await response.json();
+    game.categories = categories;
+    renderCategories();
+  } catch (error) {
+    console.error('Error loading categories:', error);
+  }
+}
+
+function renderCategories() {
+  categoryList.innerHTML = '';
+  game.categories.forEach(category => {
+    const button = document.createElement('button');
+    button.className = 'category-card';
+    button.dataset.category = category.name;
+    button.innerHTML = `
+      <span class="category-icon">${category.icon}</span>
+      <span class="category-name">${category.name}</span>
+    `;
+    button.addEventListener('click', () => {
+      document.querySelectorAll('.category-card').forEach(c => c.classList.remove('selected'));
+      button.classList.add('selected');
+      game.selectedCategory = category.name;
+      startButton.disabled = false;
+    });
+    categoryList.appendChild(button);
   });
-});
+}
 
 countBtns.forEach(btn => {
   btn.addEventListener('click', () => {
@@ -67,7 +90,7 @@ playerNameInput.addEventListener('keypress', (e) => {
 });
 
 function goToStart() {
-  categoryCards.forEach(c => c.classList.remove('selected'));
+  document.querySelectorAll('.category-card').forEach(c => c.classList.remove('selected'));
   game.selectedCategory = null;
   startButton.disabled = true;
   playerNameInput.value = '';
@@ -83,19 +106,27 @@ function startQuiz() {
   game.startTime = Date.now();
   updateStreakDisplay();
 
-  // Determine which questions to use based on selected category
-  const allCategories = ['Geography', 'Science', 'History', 'Literature', 'Math'];
+  // Build list of available categories that have questions
+  const availableCategories = ['Geography', 'Science', 'History', 'Literature', 'Mathematics'];
   let categoryName = game.selectedCategory;
 
+  // Map category names if needed (e.g., Mathematics -> Math)
+  const categoryNameMap = {
+    'Mathematics': 'Math'
+  };
+
   if (categoryName === 'Random') {
-    categoryName = allCategories[Math.floor(Math.random() * allCategories.length)];
+    categoryName = availableCategories[Math.floor(Math.random() * availableCategories.length)];
   }
+
+  // Apply mapping for database lookup
+  const dbCategoryName = categoryNameMap[categoryName] || categoryName;
 
   let pool;
   if (categoryName === 'Mix') {
     pool = [...questions];
   } else {
-    pool = questions.filter(q => q.category === categoryName);
+    pool = questions.filter(q => q.category === dbCategoryName);
   }
 
   // Sort by difficulty, shuffle within difficulty groups
@@ -380,5 +411,6 @@ function displayLeaderboard() {
 }
 
 // Initialize on page load
+initializeCategories();
 showScreen('start');
 displayLeaderboard();
