@@ -1,0 +1,1 @@
+Making Claude generate code from scratch is easy. Selecting what to save, and what to process ad-hoc is not. It takes time and effort to make Claude work the way I want.
