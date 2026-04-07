@@ -34,6 +34,13 @@
 
     <!-- Quiz Screen -->
     <div id="quizScreen" class="screen">
+      <div class="progress-bar-container">
+        <div class="progress-bar">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+        <span id="progressText" class="progress-text">0 / 10</span>
+      </div>
+
       <div class="quiz-header">
         <div class="score-display">Score: <span id="score">0</span><span id="streak" class="streak-multiplier"></span></div>
         <div class="timer-display">
@@ -41,9 +48,6 @@
             <div id="timerFill" class="timer-fill"></div>
           </div>
           <span id="timerText">15s</span>
-        </div>
-        <div class="question-counter">
-          <span id="questionNumber">1</span> / <span id="totalQuestions">10</span>
         </div>
       </div>
 

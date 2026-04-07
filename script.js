@@ -35,10 +35,10 @@ const timerText = document.getElementById('timerText');
 const timerFill = document.getElementById('timerFill');
 const scoreDisplay = document.getElementById('score');
 const streakDisplay = document.getElementById('streak');
-const questionNumber = document.getElementById('questionNumber');
-const totalQuestions = document.getElementById('totalQuestions');
 const categoryList = document.getElementById('categoryList');
 const countBtns = document.querySelectorAll('.count-btn');
+const progressFill = document.getElementById('progressFill');
+const progressText = document.getElementById('progressText');
 
 // Load categories and initialize
 async function initializeCategories() {
@@ -57,7 +57,7 @@ function renderCategories() {
 
   // Add Mix button
   const mixButton = document.createElement('button');
-  mixButton.className = 'category-card';
+  mixButton.className = 'category-card selected';
   mixButton.dataset.category = 'Mix';
   mixButton.innerHTML = `
     <span class="category-icon">🔀</span>
@@ -70,6 +70,10 @@ function renderCategories() {
     startButton.disabled = false;
   });
   categoryList.appendChild(mixButton);
+
+  // Auto-select Mix on launch
+  game.selectedCategory = 'Mix';
+  startButton.disabled = false;
 
   // Add category buttons
   game.categories.forEach(category => {
@@ -163,8 +167,6 @@ function startQuiz() {
   // Cap to selected count
   game.quizQuestions = sorted.slice(0, game.selectedCount);
 
-  totalQuestions.textContent = game.quizQuestions.length;
-
   showScreen('quiz');
   loadQuestion();
 }
@@ -183,6 +185,12 @@ function showScreen(screenName) {
   }
 }
 
+function updateProgressBar() {
+  const progress = ((game.currentQuestion + 1) / game.quizQuestions.length) * 100;
+  progressFill.style.width = progress + '%';
+  progressText.textContent = (game.currentQuestion + 1) + ' / ' + game.quizQuestions.length;
+}
+
 function loadQuestion() {
   // Clear previous timer
   if (game.timerInterval) {
@@ -193,7 +201,7 @@ function loadQuestion() {
 
   // Update question display
   questionText.textContent = currentQ.text;
-  questionNumber.textContent = game.currentQuestion + 1;
+  updateProgressBar();
 
   // Clear previous answers
   answersGrid.innerHTML = '';
@@ -347,6 +355,7 @@ function nextQuestion() {
   if (game.currentQuestion < game.quizQuestions.length) {
     loadQuestion();
   } else {
+    updateProgressBar();
     showResults();
   }
 }

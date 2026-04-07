@@ -69,6 +69,42 @@ body {
 #quizScreen {
   flex-direction: column;
   justify-content: flex-start;
+  padding: 0 40px 40px 40px;
+}
+
+.progress-bar-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 10px;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 10px;
+  background: #e5e7eb;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #10b981, #34d399);
+  width: 0%;
+  transition: width 0.3s ease;
+  border-radius: 5px;
+}
+
+.progress-text {
+  color: #667eea;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  min-width: 45px;
+  text-align: right;
 }
 
 .quiz-header {
@@ -124,12 +160,6 @@ body {
   100% {
     transform: scale(1);
   }
-}
-
-.question-counter {
-  font-size: 14px;
-  color: #999;
-  font-weight: 500;
 }
 
 .timer-display {
@@ -640,6 +670,11 @@ body {
   }
 
   .screen {
+    padding: 30px 20px;
+    min-height: 400px;
+  }
+
+  #quizScreen {
     padding: 30px 20px;
     min-height: 400px;
   }
