@@ -54,6 +54,24 @@ async function initializeCategories() {
 
 function renderCategories() {
   categoryList.innerHTML = '';
+
+  // Add Mix button
+  const mixButton = document.createElement('button');
+  mixButton.className = 'category-card';
+  mixButton.dataset.category = 'Mix';
+  mixButton.innerHTML = `
+    <span class="category-icon">🔀</span>
+    <span class="category-name">Mix</span>
+  `;
+  mixButton.addEventListener('click', () => {
+    document.querySelectorAll('.category-card').forEach(c => c.classList.remove('selected'));
+    mixButton.classList.add('selected');
+    game.selectedCategory = 'Mix';
+    startButton.disabled = false;
+  });
+  categoryList.appendChild(mixButton);
+
+  // Add category buttons
   game.categories.forEach(category => {
     const button = document.createElement('button');
     button.className = 'category-card';

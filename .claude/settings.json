@@ -1,13 +1,13 @@
 {
   "hooks": {
-    "PostToolUse": [
+    "Stop": [
       {
-        "matcher": "Edit|Write",
+        "matcher": "",
         "hooks": [
           {
             "type": "command",
-            "command": "jq -r '.tool_input.file_path // .tool_response.filePath' | grep -E '\\.(html|css|js)$' > /dev/null && open http://localhost:8000 || true",
-            "statusMessage": "Opening browser..."
+            "command": "open http://localhost:8000",
+            "async": true
           }
         ]
       }
